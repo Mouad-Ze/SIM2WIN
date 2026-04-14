@@ -1,0 +1,65 @@
+match_id,team,passes,shots,xg,pressures,fouls_committed,ball_recoveries,duels,dribbles,interceptions,clearances,tackles,possession_events,red_cards,yellow_cards,home_away,match_date,competition,season,home_team,away_team,home_score,away_score,result,starting_formation,tactical_shifts,last_formation,team_result
+3939969,Argentina,652,19,3.538291301,137,19,35,16,19,10,8,0,2171,0,2,home,2024-06-21,South America - Copa America,2024,Argentina,Canada,2,0,home_win,442,2,352.0,win
+3939969,Canada,353,10,0.9772994850000001,219,10,40,29,15,9,17,0,1448,0,2,away,2024-06-21,South America - Copa America,2024,Argentina,Canada,2,0,home_win,442,2,442.0,loss
+3939970,Chile,558,11,1.024763887,122,20,49,36,13,6,14,0,1922,0,3,away,2024-06-22,South America - Copa America,2024,Peru,Chile,0,0,draw,4231,1,4231.0,draw
+3939970,Peru,323,7,0.677275209,187,23,38,51,11,9,12,0,1291,0,1,home,2024-06-22,South America - Copa America,2024,Peru,Chile,0,0,draw,352,0,,draw
+3939971,Jamaica,375,13,0.506159274,117,7,58,45,12,10,30,0,1367,0,0,away,2024-06-23,South America - Copa America,2024,Mexico,Jamaica,1,0,home_win,343,3,433.0,loss
+3939971,Mexico,565,20,1.136080327,142,8,67,35,14,11,28,0,1941,0,0,home,2024-06-23,South America - Copa America,2024,Mexico,Jamaica,1,0,home_win,433,1,4231.0,win
+3939972,Ecuador,298,9,0.7355915667,127,21,54,47,16,10,25,0,1184,1,2,home,2024-06-23,South America - Copa America,2024,Ecuador,Venezuela,1,2,away_win,4231,3,4231.0,loss
+3939972,Venezuela,550,14,1.585018539,106,18,56,32,8,7,22,0,1854,0,2,away,2024-06-23,South America - Copa America,2024,Ecuador,Venezuela,1,2,away_win,4231,4,442.0,win
+3939973,Panama,379,10,0.540888124,129,13,49,34,21,7,23,0,1419,0,1,away,2024-06-24,South America - Copa America,2024,Uruguay,Panama,3,1,home_win,343,1,343.0,loss
+3939973,Uruguay,450,20,1.361440743,135,17,39,27,10,8,22,0,1589,0,0,home,2024-06-24,South America - Copa America,2024,Uruguay,Panama,3,1,home_win,4231,1,4231.0,win
+3939974,Bolivia,391,6,0.1496907824,183,20,44,23,10,10,24,0,1500,0,4,away,2024-06-24,South America - Copa America,2024,United States,Bolivia,2,0,home_win,352,2,4231.0,loss
+3939974,United States,584,20,2.404683808,131,11,47,30,13,8,7,0,1896,0,1,home,2024-06-24,South America - Copa America,2024,United States,Bolivia,2,0,home_win,433,1,433.0,win
+3939975,Colombia,561,11,0.621920841,115,10,49,45,17,8,21,0,1859,0,1,home,2024-06-25,South America - Copa America,2024,Colombia,Paraguay,2,1,home_win,41212,1,41212.0,win
+3939975,Paraguay,291,11,0.827596594,178,20,52,32,18,10,19,0,1135,0,2,away,2024-06-25,South America - Copa America,2024,Colombia,Paraguay,2,1,home_win,433,2,4231.0,loss
+3939976,Brazil,748,20,1.621192136,123,13,47,32,21,9,10,0,2481,0,1,home,2024-06-25,South America - Copa America,2024,Brazil,Costa Rica,0,0,draw,4231,1,442.0,draw
+3939976,Costa Rica,262,2,0.036730567000000006,192,15,56,28,18,8,35,0,1216,0,2,away,2024-06-25,South America - Copa America,2024,Brazil,Costa Rica,0,0,draw,352,2,343.0,draw
+3939977,Argentina,596,22,2.784060325,144,9,38,28,17,12,12,0,2043,0,0,away,2024-06-26,South America - Copa America,2024,Chile,Argentina,0,1,away_win,442,2,442.0,win
+3939977,Chile,395,3,0.1309882215,228,13,52,30,17,9,17,0,1614,0,2,home,2024-06-26,South America - Copa America,2024,Chile,Argentina,0,1,away_win,4231,1,442.0,loss
+3939978,Canada,405,5,0.909048214,160,14,56,36,17,2,25,0,1507,0,1,away,2024-06-26,South America - Copa America,2024,Peru,Canada,0,1,away_win,4231,1,3421.0,win
+3939978,Peru,406,9,0.5764393578,159,19,45,37,8,12,14,0,1437,1,0,home,2024-06-26,South America - Copa America,2024,Peru,Canada,0,1,away_win,352,2,41212.0,loss
+3939979,Mexico,530,18,2.384322616,129,16,64,42,15,7,17,0,1865,0,2,away,2024-06-27,South America - Copa America,2024,Venezuela,Mexico,1,0,home_win,4141,0,,loss
+3939979,Venezuela,359,10,1.138640792,141,12,44,39,16,11,37,0,1399,0,2,home,2024-06-27,South America - Copa America,2024,Venezuela,Mexico,1,0,home_win,4231,4,343.0,win
+3939980,Ecuador,313,23,2.3315944958,118,9,51,36,11,7,30,0,1177,0,0,home,2024-06-27,South America - Copa America,2024,Ecuador,Jamaica,3,1,home_win,4231,1,4231.0,win
+3939980,Jamaica,377,7,0.9347469270000001,108,20,46,35,12,7,22,0,1355,0,4,away,2024-06-27,South America - Copa America,2024,Ecuador,Jamaica,3,1,home_win,343,4,4231.0,loss
+3939981,Panama,596,13,0.730782593,75,19,40,22,12,2,16,0,1912,1,3,home,2024-06-28,South America - Copa America,2024,Panama,United States,2,1,home_win,343,2,3511.0,win
+3939981,United States,224,6,0.914278539,103,6,32,35,5,9,17,0,869,1,2,away,2024-06-28,South America - Copa America,2024,Panama,United States,2,1,home_win,433,4,41212.0,loss
+3939982,Bolivia,353,4,0.0507624025,141,19,57,43,15,13,23,0,1432,0,1,away,2024-06-28,South America - Copa America,2024,Uruguay,Bolivia,5,0,home_win,343,4,352.0,loss
+3939982,Uruguay,531,18,2.3209622755,144,12,52,45,17,6,11,0,1861,0,0,home,2024-06-28,South America - Copa America,2024,Uruguay,Bolivia,5,0,home_win,4231,0,,win
+3939983,Brazil,500,17,3.747689849,134,14,52,29,37,8,19,0,1817,0,3,away,2024-06-29,South America - Copa America,2024,Paraguay,Brazil,1,4,away_win,442,2,442.0,win
+3939983,Paraguay,421,15,0.6916759419,162,17,44,40,15,15,13,0,1616,1,2,home,2024-06-29,South America - Copa America,2024,Paraguay,Brazil,1,4,away_win,4231,1,4231.0,loss
+3939984,Colombia,566,18,2.902314693,130,20,55,27,10,5,14,0,1911,0,2,home,2024-06-29,South America - Copa America,2024,Colombia,Costa Rica,3,0,home_win,41212,2,41212.0,win
+3939984,Costa Rica,335,5,0.165297975,194,19,41,41,12,2,16,0,1318,0,1,away,2024-06-29,South America - Copa America,2024,Colombia,Costa Rica,3,0,home_win,3421,2,3421.0,loss
+3939985,Canada,477,9,0.699493846,139,16,42,31,16,10,26,0,1650,0,5,home,2024-06-30,South America - Copa America,2024,Canada,Chile,0,0,draw,4231,1,343.0,draw
+3939985,Chile,364,8,0.454009303,113,8,35,46,12,7,20,0,1256,1,1,away,2024-06-30,South America - Copa America,2024,Canada,Chile,0,0,draw,4231,3,4411.0,draw
+3939986,Argentina,666,12,2.105776813,97,14,27,36,13,7,13,0,2164,0,1,home,2024-06-30,South America - Copa America,2024,Argentina,Peru,2,0,home_win,433,1,433.0,win
+3939986,Peru,251,7,0.1666223537,130,24,36,28,13,9,5,0,1014,0,5,away,2024-06-30,South America - Copa America,2024,Argentina,Peru,2,0,home_win,3421,4,4411.0,loss
+3939987,Jamaica,392,8,0.667584843,106,7,52,22,14,9,19,0,1374,0,1,home,2024-07-01,South America - Copa America,2024,Jamaica,Venezuela,0,3,away_win,3421,2,3421.0,loss
+3939987,Venezuela,436,17,1.714409986,123,12,43,30,12,10,12,0,1492,0,1,away,2024-07-01,South America - Copa America,2024,Jamaica,Venezuela,0,3,away_win,4141,3,4411.0,win
+3939988,Ecuador,319,9,0.305849259,162,12,58,55,18,7,39,0,1300,0,2,away,2024-07-01,South America - Copa America,2024,Mexico,Ecuador,0,0,draw,442,1,4231.0,draw
+3939988,Mexico,454,20,0.937626587,126,17,62,39,21,5,21,0,1638,0,5,home,2024-07-01,South America - Copa America,2024,Mexico,Ecuador,0,0,draw,4141,2,442.0,draw
+3939989,Bolivia,480,7,0.7878645950000001,168,23,40,33,12,9,20,0,1676,0,2,home,2024-07-02,South America - Copa America,2024,Bolivia,Panama,1,3,away_win,3421,2,4231.0,loss
+3939989,Panama,458,13,1.3405597113,133,10,30,28,15,11,9,0,1561,0,1,away,2024-07-02,South America - Copa America,2024,Bolivia,Panama,1,3,away_win,343,4,4231.0,win
+3939990,United States,377,8,0.470996951,127,12,37,29,15,3,17,0,1293,0,2,home,2024-07-02,South America - Copa America,2024,United States,Uruguay,0,1,away_win,433,3,433.0,loss
+3939990,Uruguay,352,12,1.2715211382,158,15,55,31,8,11,23,0,1286,0,1,away,2024-07-02,South America - Copa America,2024,United States,Uruguay,0,1,away_win,4231,2,343.0,win
+3939991,Brazil,447,7,0.30581762,167,16,40,32,17,12,23,0,1622,0,3,home,2024-07-03,South America - Copa America,2024,Brazil,Colombia,1,1,draw,4231,3,4231.0,draw
+3939991,Colombia,449,13,1.5030030165,140,20,48,30,15,7,16,0,1590,0,2,away,2024-07-03,South America - Copa America,2024,Brazil,Colombia,1,1,draw,41212,2,433.0,draw
+3939992,Costa Rica,304,2,0.27205455,134,14,51,33,12,10,21,0,1145,0,3,home,2024-07-03,South America - Copa America,2024,Costa Rica,Paraguay,2,1,home_win,343,2,352.0,win
+3939992,Paraguay,569,17,1.440062704,133,17,49,27,17,14,16,0,1922,0,3,away,2024-07-03,South America - Copa America,2024,Costa Rica,Paraguay,2,1,home_win,4231,1,433.0,loss
+3942228,Argentina,401,13,4.77673787,89,15,38,35,9,7,14,0,1437,0,2,home,2024-07-05,South America - Copa America,2024,Argentina,Ecuador,1,1,draw,442,1,442.0,draw
+3942228,Ecuador,393,13,4.522527616,117,16,39,25,17,7,15,0,1412,0,2,away,2024-07-05,South America - Copa America,2024,Argentina,Ecuador,1,1,draw,4231,3,442.0,draw
+3942229,Canada,382,22,6.053594003,146,13,62,54,14,7,32,0,1462,0,2,away,2024-07-06,South America - Copa America,2024,Venezuela,Canada,1,1,draw,4231,0,,draw
+3942229,Venezuela,479,21,5.6230584957,154,7,59,49,21,11,25,0,1657,0,1,home,2024-07-06,South America - Copa America,2024,Venezuela,Canada,1,1,draw,4141,2,442.0,draw
+3942415,Brazil,425,11,3.809874753,124,16,37,35,22,12,14,0,1524,0,2,away,2024-07-07,South America - Copa America,2024,Uruguay,Brazil,0,0,draw,4231,2,4411.0,draw
+3942415,Uruguay,282,17,4.547336302,218,29,55,37,11,8,21,0,1264,1,2,home,2024-07-07,South America - Copa America,2024,Uruguay,Brazil,0,0,draw,433,2,3511.0,draw
+3942416,Colombia,413,7,2.180404504,146,15,27,30,15,4,14,0,1483,0,1,home,2024-07-07,South America - Copa America,2024,Colombia,Panama,5,0,home_win,41212,0,,win
+3942416,Panama,370,14,0.609951584,137,23,56,28,11,8,16,0,1422,0,3,away,2024-07-07,South America - Copa America,2024,Colombia,Panama,5,0,home_win,343,2,343.0,loss
+3942785,Argentina,506,11,1.7562350694,180,6,35,17,13,6,15,0,1783,0,1,home,2024-07-10,South America - Copa America,2024,Argentina,Canada,2,0,home_win,442,2,442.0,win
+3942785,Canada,477,9,0.6771871380000001,156,16,38,18,17,11,8,0,1676,0,3,away,2024-07-10,South America - Copa America,2024,Argentina,Canada,2,0,home_win,442,1,442.0,loss
+3942852,Colombia,304,11,1.171960657,140,16,38,32,11,6,12,0,1164,1,4,away,2024-07-11,South America - Copa America,2024,Uruguay,Colombia,0,1,away_win,4231,2,3511.0,win
+3942852,Uruguay,460,11,0.754563564,154,14,50,42,12,8,10,0,1647,0,3,home,2024-07-11,South America - Copa America,2024,Uruguay,Colombia,0,1,away_win,4141,4,442.0,loss
+3943076,Canada,378,19,6.205309528,148,19,51,34,15,15,25,0,1408,0,4,home,2024-07-14,South America - Copa America,2024,Canada,Uruguay,2,2,draw,4231,3,442.0,draw
+3943076,Uruguay,365,16,4.650426863,178,19,45,26,16,10,24,0,1469,0,2,away,2024-07-14,South America - Copa America,2024,Canada,Uruguay,2,2,draw,433,1,433.0,draw
+3943077,Argentina,537,11,1.0827015698,155,10,37,33,17,7,19,0,1898,0,2,home,2024-07-15,South America - Copa America,2024,Argentina,Colombia,1,0,home_win,442,4,343.0,win
+3943077,Colombia,659,19,0.9881783155999999,161,20,52,47,19,9,9,0,2210,0,2,away,2024-07-15,South America - Copa America,2024,Argentina,Colombia,1,0,home_win,41212,0,,loss

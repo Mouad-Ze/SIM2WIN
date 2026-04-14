@@ -1,0 +1,129 @@
+match_id,team,passes,shots,xg,pressures,fouls_committed,ball_recoveries,duels,dribbles,interceptions,clearances,tackles,possession_events,red_cards,yellow_cards,home_away,match_date,competition,season,home_team,away_team,home_score,away_score,result,starting_formation,tactical_shifts,last_formation,team_result
+3857254,Denmark,646,11,1.566558758,109,13,44,30,14,10,20,0,2146,0,2,home,2022-11-22,International - FIFA World Cup,2022,Denmark,Tunisia,0,0,draw,352,2,4231.0,draw
+3857254,Tunisia,417,13,1.059935118,130,10,51,46,16,12,33,0,1534,0,1,away,2022-11-22,International - FIFA World Cup,2022,Denmark,Tunisia,0,0,draw,343,1,343.0,draw
+3857255,Japan,253,6,1.157800672,229,11,23,27,6,14,22,0,1068,0,3,home,2022-12-01,International - FIFA World Cup,2022,Japan,Spain,2,1,home_win,343,1,343.0,win
+3857255,Spain,1093,12,0.857712208,89,8,56,28,18,9,4,0,3382,0,0,away,2022-12-01,International - FIFA World Cup,2022,Japan,Spain,2,1,home_win,433,2,433.0,loss
+3857256,Serbia,521,12,1.1890035350000001,94,21,52,34,6,5,9,0,1723,0,7,home,2022-12-02,International - FIFA World Cup,2022,Serbia,Switzerland,2,3,away_win,3412,1,3412.0,loss
+3857256,Switzerland,445,14,3.1035154719999998,83,14,40,34,6,18,27,0,1488,0,4,away,2022-12-02,International - FIFA World Cup,2022,Serbia,Switzerland,2,3,away_win,4231,1,4231.0,win
+3857257,Australia,350,8,0.469723377,101,12,39,40,16,11,29,0,1243,0,2,home,2022-11-30,International - FIFA World Cup,2022,Australia,Denmark,1,0,home_win,442,4,343.0,win
+3857257,Denmark,715,14,0.737154632,101,10,49,50,18,12,27,0,2351,0,1,away,2022-11-30,International - FIFA World Cup,2022,Australia,Denmark,1,0,home_win,433,1,442.0,loss
+3857258,Brazil,618,23,2.1238895187,102,8,56,39,22,8,22,0,2101,0,0,home,2022-11-24,International - FIFA World Cup,2022,Brazil,Serbia,2,0,home_win,4231,2,4231.0,win
+3857258,Serbia,446,5,0.163327144,147,11,36,33,10,11,19,0,1555,0,3,away,2022-11-24,International - FIFA World Cup,2022,Brazil,Serbia,2,0,home_win,3421,2,352.0,loss
+3857259,Cameroon,395,13,2.0703093487,118,9,51,31,20,20,23,0,1384,0,2,home,2022-11-28,International - FIFA World Cup,2022,Cameroon,Serbia,3,3,draw,433,3,4231.0,draw
+3857259,Serbia,536,15,1.7380672830000001,119,16,50,37,7,9,33,0,1886,0,2,away,2022-11-28,International - FIFA World Cup,2022,Cameroon,Serbia,3,3,draw,3421,2,352.0,draw
+3857260,Mexico,488,26,2.3221233279,139,18,64,34,12,15,21,0,1683,0,1,away,2022-11-30,International - FIFA World Cup,2022,Saudi Arabia,Mexico,1,2,away_win,4231,3,442.0,win
+3857260,Saudi Arabia,322,10,1.076111142,129,21,57,37,11,15,30,0,1229,0,6,home,2022-11-30,International - FIFA World Cup,2022,Saudi Arabia,Mexico,1,2,away_win,442,4,343.0,loss
+3857261,England,630,18,2.91548517,74,11,35,20,18,9,9,0,2042,0,0,away,2022-11-29,International - FIFA World Cup,2022,Wales,England,0,3,away_win,433,2,433.0,win
+3857261,Wales,351,7,0.20800949800000001,136,19,25,34,6,4,14,0,1274,0,2,home,2022-11-29,International - FIFA World Cup,2022,Wales,England,0,3,away_win,4231,1,4231.0,loss
+3857262,Portugal,619,13,0.973722266,83,10,43,35,21,6,19,0,2016,0,0,away,2022-12-02,International - FIFA World Cup,2022,South Korea,Portugal,2,1,home_win,433,3,433.0,loss
+3857262,South Korea,388,12,1.3989824739999999,111,9,47,23,9,7,29,0,1363,0,2,home,2022-12-02,International - FIFA World Cup,2022,South Korea,Portugal,2,1,home_win,433,3,343.0,win
+3857263,Germany,371,11,1.1469521137,158,15,45,40,24,19,15,0,1418,0,3,away,2022-11-27,International - FIFA World Cup,2022,Spain,Germany,1,1,draw,4231,1,4231.0,draw
+3857263,Spain,663,7,0.6395007165,124,14,38,22,18,12,16,0,2185,0,1,home,2022-11-27,International - FIFA World Cup,2022,Spain,Germany,1,1,draw,433,2,433.0,draw
+3857264,Argentina,909,24,3.076659699,88,12,53,27,17,7,7,0,2843,0,1,away,2022-11-30,International - FIFA World Cup,2022,Poland,Argentina,0,2,away_win,433,4,343.0,win
+3857264,Poland,337,4,0.19759524499999997,105,9,24,32,7,10,32,0,1209,0,1,home,2022-11-30,International - FIFA World Cup,2022,Poland,Argentina,0,2,away_win,442,2,442.0,loss
+3857265,Mexico,544,11,0.5291349314,96,14,49,43,9,8,21,0,1822,0,2,home,2022-11-22,International - FIFA World Cup,2022,Mexico,Poland,0,0,draw,433,1,433.0,draw
+3857265,Poland,362,6,1.137926228,135,15,49,31,14,8,28,0,1362,0,1,away,2022-11-22,International - FIFA World Cup,2022,Mexico,Poland,0,0,draw,4141,2,442.0,draw
+3857266,Denmark,567,10,0.8885438419999999,126,11,36,41,15,11,17,0,1936,0,2,away,2022-11-26,International - FIFA World Cup,2022,France,Denmark,2,1,home_win,343,1,352.0,loss
+3857266,France,540,21,1.933569429,109,4,38,41,25,15,17,0,1916,0,1,home,2022-11-26,International - FIFA World Cup,2022,France,Denmark,2,1,home_win,4231,1,433.0,win
+3857267,Ecuador,465,9,1.0016627869999999,113,23,41,39,7,9,29,0,1624,0,0,home,2022-11-29,International - FIFA World Cup,2022,Ecuador,Senegal,1,2,away_win,433,1,442.0,loss
+3857267,Senegal,311,13,1.70746471,126,10,58,31,20,7,39,0,1204,0,1,away,2022-11-29,International - FIFA World Cup,2022,Ecuador,Senegal,1,2,away_win,4231,2,343.0,win
+3857268,Belgium,534,9,0.670040854,83,11,39,29,11,9,30,0,1809,0,3,home,2022-11-23,International - FIFA World Cup,2022,Belgium,Canada,1,0,home_win,3421,1,3421.0,win
+3857268,Canada,480,22,2.546212336,112,15,50,22,16,12,10,0,1690,0,2,away,2022-11-23,International - FIFA World Cup,2022,Belgium,Canada,1,0,home_win,3421,3,442.0,loss
+3857269,Brazil,597,13,0.922729946,104,10,55,32,13,14,11,0,2047,0,1,home,2022-11-28,International - FIFA World Cup,2022,Brazil,Switzerland,1,0,home_win,433,3,4411.0,win
+3857269,Switzerland,513,6,0.288629175,112,18,41,33,9,8,27,0,1740,0,1,away,2022-11-28,International - FIFA World Cup,2022,Brazil,Switzerland,1,0,home_win,4231,1,4231.0,loss
+3857270,Portugal,626,15,1.2137340055999999,86,11,48,26,14,7,31,0,2040,0,3,home,2022-11-28,International - FIFA World Cup,2022,Portugal,Uruguay,2,0,home_win,41212,3,4231.0,win
+3857270,Uruguay,438,11,1.216681074,125,16,37,31,6,9,12,0,1401,0,2,away,2022-11-28,International - FIFA World Cup,2022,Portugal,Uruguay,2,0,home_win,352,1,442.0,loss
+3857271,England,846,13,1.9871577450000002,101,9,46,30,14,6,7,0,2619,0,0,home,2022-11-21,International - FIFA World Cup,2022,England,Iran,6,2,home_win,4231,0,,win
+3857271,Iran,247,8,1.4556585987,141,21,38,25,11,21,21,0,1030,0,2,away,2022-11-21,International - FIFA World Cup,2022,England,Iran,6,2,home_win,343,5,352.0,loss
+3857272,England,582,8,0.460638346,103,11,29,19,13,7,20,0,1885,0,0,home,2022-11-25,International - FIFA World Cup,2022,England,United States,0,0,draw,4231,0,,draw
+3857272,United States,456,10,0.514287002,157,16,38,36,10,4,16,0,1634,0,0,away,2022-11-25,International - FIFA World Cup,2022,England,United States,0,0,draw,442,0,,draw
+3857273,Iran,363,21,1.4539579476,161,10,57,44,10,15,16,0,1255,0,2,away,2022-11-25,International - FIFA World Cup,2022,Wales,Iran,0,2,away_win,4411,1,4411.0,win
+3857273,Wales,559,10,0.615635191,90,9,63,26,17,10,35,0,1878,1,1,home,2022-11-25,International - FIFA World Cup,2022,Wales,Iran,0,2,away_win,352,2,442.0,loss
+3857274,Ecuador,463,15,1.651054305,170,13,56,45,15,15,18,0,1708,0,1,away,2022-11-25,International - FIFA World Cup,2022,Netherlands,Ecuador,1,1,draw,3421,1,3421.0,draw
+3857274,Netherlands,552,2,0.104464025,135,16,35,49,8,5,24,0,1856,0,0,home,2022-11-25,International - FIFA World Cup,2022,Netherlands,Ecuador,1,1,draw,3412,0,,draw
+3857275,France,661,10,0.476989374,94,8,58,42,15,12,19,0,2204,0,0,away,2022-11-30,International - FIFA World Cup,2022,Tunisia,France,1,0,home_win,433,2,4231.0,loss
+3857275,Tunisia,361,5,0.298346986,110,16,54,44,7,13,34,0,1360,0,1,home,2022-11-30,International - FIFA World Cup,2022,Tunisia,France,1,0,home_win,3421,2,3421.0,win
+3857276,Canada,562,5,1.095618012,135,16,52,21,26,10,12,0,1917,0,4,home,2022-12-01,International - FIFA World Cup,2022,Canada,Morocco,1,2,away_win,4411,3,442.0,loss
+3857276,Morocco,393,7,0.426403825,154,15,41,42,13,13,29,0,1472,0,0,away,2022-12-01,International - FIFA World Cup,2022,Canada,Morocco,1,2,away_win,433,2,343.0,win
+3857277,Croatia,686,5,0.849860505,107,12,43,37,12,12,9,0,2221,0,0,away,2022-11-23,International - FIFA World Cup,2022,Morocco,Croatia,0,0,draw,433,2,4231.0,draw
+3857277,Morocco,384,8,0.362638976,168,18,55,36,14,15,22,0,1498,0,1,home,2022-11-23,International - FIFA World Cup,2022,Morocco,Croatia,0,0,draw,4141,1,4141.0,draw
+3857278,Iran,515,4,0.920789942,150,21,45,41,12,11,11,0,1741,0,3,home,2022-11-29,International - FIFA World Cup,2022,Iran,United States,0,1,away_win,4411,7,442.0,loss
+3857278,United States,517,12,1.169654601,140,13,60,37,23,8,31,0,1855,0,1,away,2022-11-29,International - FIFA World Cup,2022,Iran,United States,0,1,away_win,433,2,343.0,win
+3857279,Australia,475,4,0.32329253999999996,105,14,46,29,9,11,21,0,1605,0,3,away,2022-11-22,International - FIFA World Cup,2022,France,Australia,4,1,home_win,4141,2,4141.0,loss
+3857279,France,763,23,3.170495788,83,4,44,28,19,11,11,0,2358,0,0,home,2022-11-22,International - FIFA World Cup,2022,France,Australia,4,1,home_win,4231,0,,win
+3857280,Brazil,593,21,2.378218864,132,15,57,34,13,4,13,0,2025,0,2,away,2022-12-02,International - FIFA World Cup,2022,Cameroon,Brazil,1,0,home_win,4231,0,,loss
+3857280,Cameroon,333,7,0.38336075199999997,140,17,40,29,12,11,25,0,1275,1,4,home,2022-12-02,International - FIFA World Cup,2022,Cameroon,Brazil,1,0,home_win,442,1,442.0,win
+3857281,Canada,529,8,0.286795181,133,6,57,22,33,10,29,0,1899,0,2,away,2022-11-27,International - FIFA World Cup,2022,Croatia,Canada,4,1,home_win,442,3,3412.0,loss
+3857281,Croatia,507,13,2.6102110830000003,166,15,40,45,13,17,18,0,1826,0,2,home,2022-11-27,International - FIFA World Cup,2022,Croatia,Canada,4,1,home_win,433,1,433.0,win
+3857282,United States,610,6,0.6024987946,137,17,45,32,6,13,24,0,2096,0,4,home,2022-11-21,International - FIFA World Cup,2022,United States,Wales,1,1,draw,433,0,,draw
+3857282,Wales,443,7,1.395336012,128,10,53,40,12,10,29,0,1591,0,2,away,2022-11-21,International - FIFA World Cup,2022,United States,Wales,1,1,draw,352,1,442.0,draw
+3857283,Belgium,703,10,0.642612082,107,10,41,33,14,2,6,0,2260,0,1,home,2022-11-27,International - FIFA World Cup,2022,Belgium,Morocco,0,2,away_win,4231,2,4231.0,loss
+3857283,Morocco,347,10,0.9911085500000001,161,16,35,35,17,8,22,0,1361,0,1,away,2022-11-27,International - FIFA World Cup,2022,Belgium,Morocco,0,2,away_win,433,1,343.0,win
+3857284,Germany,826,26,2.768019421,86,7,56,29,14,3,8,0,2546,0,0,home,2022-11-23,International - FIFA World Cup,2022,Germany,Japan,1,2,away_win,4231,2,442.0,loss
+3857284,Japan,294,12,1.249259581,184,15,28,48,10,8,41,0,1171,0,0,away,2022-11-23,International - FIFA World Cup,2022,Germany,Japan,1,2,away_win,4231,2,343.0,win
+3857285,Netherlands,491,10,1.1238838,104,16,31,29,12,11,16,0,1599,0,1,away,2022-11-21,International - FIFA World Cup,2022,Senegal,Netherlands,0,2,away_win,3412,3,3421.0,win
+3857285,Senegal,430,15,0.6914927065,112,13,49,35,6,9,34,0,1534,0,2,home,2022-11-21,International - FIFA World Cup,2022,Senegal,Netherlands,0,2,away_win,4231,1,433.0,loss
+3857286,Ecuador,519,6,1.1540112984,134,14,34,33,14,8,4,0,1717,0,2,away,2022-11-20,International - FIFA World Cup,2022,Qatar,Ecuador,0,2,away_win,442,1,4231.0,win
+3857286,Qatar,468,5,0.30418895050000005,99,17,33,24,15,5,21,0,1582,0,4,home,2022-11-20,International - FIFA World Cup,2022,Qatar,Ecuador,0,2,away_win,352,1,352.0,loss
+3857287,South Korea,463,7,0.492992523,103,11,42,47,13,13,20,0,1578,0,1,away,2022-11-24,International - FIFA World Cup,2022,Uruguay,South Korea,0,0,draw,4231,1,4231.0,draw
+3857287,Uruguay,570,10,0.417294332,102,7,37,40,14,17,31,0,1884,0,1,home,2022-11-24,International - FIFA World Cup,2022,Uruguay,South Korea,0,0,draw,433,1,442.0,draw
+3857288,Australia,404,9,0.3590377687,127,16,45,53,10,11,34,0,1465,0,0,away,2022-11-26,International - FIFA World Cup,2022,Tunisia,Australia,0,1,away_win,442,1,442.0,win
+3857288,Tunisia,548,14,1.052170345,121,15,73,53,17,8,35,0,1895,0,3,home,2022-11-26,International - FIFA World Cup,2022,Tunisia,Australia,0,1,away_win,3421,2,4231.0,loss
+3857289,Argentina,567,5,0.325204139,109,15,34,38,18,5,20,0,1910,0,1,home,2022-11-26,International - FIFA World Cup,2022,Argentina,Mexico,2,0,home_win,442,1,352.0,win
+3857289,Mexico,403,4,0.2063916517,147,21,34,39,11,16,15,0,1465,0,4,away,2022-11-26,International - FIFA World Cup,2022,Argentina,Mexico,2,0,home_win,352,2,4231.0,loss
+3857290,Cameroon,533,8,0.6130733495,145,10,52,33,11,15,19,0,1772,0,1,away,2022-11-24,International - FIFA World Cup,2022,Switzerland,Cameroon,1,0,home_win,433,0,,loss
+3857290,Switzerland,549,7,1.426544536,143,14,33,29,2,8,28,0,1829,0,2,home,2022-11-24,International - FIFA World Cup,2022,Switzerland,Cameroon,1,0,home_win,4231,2,4231.0,win
+3857291,Costa Rica,250,0,0.0,149,14,29,38,5,9,21,0,975,0,2,away,2022-11-23,International - FIFA World Cup,2022,Spain,Costa Rica,7,0,home_win,442,4,343.0,loss
+3857291,Spain,1090,17,2.761923473,80,8,45,29,20,7,5,0,3378,0,0,home,2022-11-23,International - FIFA World Cup,2022,Spain,Costa Rica,7,0,home_win,433,1,433.0,win
+3857292,Costa Rica,374,7,1.0347440669999999,125,4,48,38,13,15,37,0,1397,0,1,home,2022-12-01,International - FIFA World Cup,2022,Costa Rica,Germany,2,4,away_win,343,2,343.0,loss
+3857292,Germany,766,31,4.316106397,140,9,57,28,24,11,8,0,2472,0,0,away,2022-12-01,International - FIFA World Cup,2022,Costa Rica,Germany,2,4,away_win,4231,3,352.0,win
+3857293,Ghana,493,9,1.392694141,146,21,61,51,32,6,26,0,1816,0,2,home,2022-12-02,International - FIFA World Cup,2022,Ghana,Uruguay,0,2,away_win,4231,3,4231.0,loss
+3857293,Uruguay,469,12,1.6365584506000002,147,11,49,44,14,10,30,0,1679,0,5,away,2022-12-02,International - FIFA World Cup,2022,Ghana,Uruguay,0,2,away_win,442,1,442.0,win
+3857294,Netherlands,832,13,1.713953273,137,19,33,25,5,4,8,0,2645,0,1,home,2022-11-29,International - FIFA World Cup,2022,Netherlands,Qatar,2,0,home_win,3412,0,,win
+3857294,Qatar,486,5,0.143716575,127,8,48,26,15,12,11,0,1667,0,0,away,2022-11-29,International - FIFA World Cup,2022,Netherlands,Qatar,2,0,home_win,352,4,352.0,loss
+3857295,Costa Rica,470,4,0.199368384,161,13,56,37,16,12,23,0,1695,0,3,away,2022-11-27,International - FIFA World Cup,2022,Japan,Costa Rica,0,1,away_win,343,3,343.0,win
+3857295,Japan,619,13,0.773533495,146,24,47,26,19,8,9,0,2130,0,3,home,2022-11-27,International - FIFA World Cup,2022,Japan,Costa Rica,0,1,away_win,442,3,343.0,loss
+3857296,Belgium,630,16,2.3818400918,119,10,37,24,12,12,30,0,2060,0,1,away,2022-12-01,International - FIFA World Cup,2022,Croatia,Belgium,0,0,draw,4231,4,4231.0,draw
+3857296,Croatia,609,11,0.695021896,164,11,49,22,15,12,26,0,2056,0,0,home,2022-12-01,International - FIFA World Cup,2022,Croatia,Belgium,0,0,draw,433,0,,draw
+3857297,Poland,337,9,1.734172485,103,18,32,31,7,12,29,0,1210,0,3,home,2022-11-26,International - FIFA World Cup,2022,Poland,Saudi Arabia,2,0,home_win,442,2,442.0,win
+3857297,Saudi Arabia,582,17,1.971976484,123,16,52,38,16,5,17,0,1993,0,2,away,2022-11-26,International - FIFA World Cup,2022,Poland,Saudi Arabia,2,0,home_win,4231,3,442.0,loss
+3857298,Ghana,415,9,0.7800233097,140,20,46,47,15,12,13,0,1567,0,4,away,2022-11-24,International - FIFA World Cup,2022,Portugal,Ghana,3,2,home_win,352,2,4411.0,loss
+3857298,Portugal,665,11,2.096873393,110,15,39,31,11,3,18,0,2172,0,2,home,2022-11-24,International - FIFA World Cup,2022,Portugal,Ghana,3,2,home_win,433,2,433.0,win
+3857299,Ghana,340,7,1.180535828,126,10,42,45,14,9,56,0,1338,0,2,away,2022-11-28,International - FIFA World Cup,2022,South Korea,Ghana,2,3,away_win,4231,2,3421.0,win
+3857299,South Korea,605,21,1.367792815,126,15,59,35,7,5,17,0,2008,0,2,home,2022-11-28,International - FIFA World Cup,2022,South Korea,Ghana,2,3,away_win,4231,2,4231.0,loss
+3857300,Argentina,646,15,2.4916334460000003,107,7,44,23,13,11,18,0,2128,0,0,home,2022-11-22,International - FIFA World Cup,2022,Argentina,Saudi Arabia,1,2,away_win,442,1,442.0,loss
+3857300,Saudi Arabia,286,3,0.153461642,141,22,49,38,14,21,29,0,1201,0,6,away,2022-11-22,International - FIFA World Cup,2022,Argentina,Saudi Arabia,1,2,away_win,4141,3,4411.0,win
+3857301,Qatar,452,10,0.960086173,149,11,41,34,5,10,24,0,1638,0,3,home,2022-11-25,International - FIFA World Cup,2022,Qatar,Senegal,1,3,away_win,352,2,352.0,loss
+3857301,Senegal,547,12,0.9029646219999999,137,13,50,23,17,6,19,0,1908,0,3,away,2022-11-25,International - FIFA World Cup,2022,Qatar,Senegal,1,3,away_win,4231,3,433.0,win
+3869117,Netherlands,439,11,1.481948115,138,11,36,39,16,7,35,0,1510,0,2,home,2022-12-03,International - FIFA World Cup,2022,Netherlands,United States,3,1,home_win,3412,2,3412.0,win
+3869117,United States,618,18,1.652097544,103,5,67,31,17,15,11,0,2072,0,0,away,2022-12-03,International - FIFA World Cup,2022,Netherlands,United States,3,1,home_win,433,3,433.0,loss
+3869118,England,626,8,1.020023461,95,16,37,36,10,15,11,0,2086,0,0,home,2022-12-04,International - FIFA World Cup,2022,England,Senegal,3,0,home_win,433,1,4231.0,win
+3869118,Senegal,408,10,0.972806433,137,13,36,25,10,9,21,0,1419,0,1,away,2022-12-04,International - FIFA World Cup,2022,England,Senegal,3,0,home_win,4231,2,4231.0,loss
+3869151,Argentina,728,14,1.481579303,127,9,47,33,23,16,25,0,2459,0,0,home,2022-12-03,International - FIFA World Cup,2022,Argentina,Australia,2,1,home_win,433,3,352.0,win
+3869151,Australia,478,5,0.42611782,216,18,42,30,13,9,11,0,1691,0,2,away,2022-12-03,International - FIFA World Cup,2022,Argentina,Australia,2,1,home_win,442,3,442.0,loss
+3869152,France,593,16,1.126374493,117,11,38,21,13,15,12,0,1954,0,1,home,2022-12-04,International - FIFA World Cup,2022,France,Poland,3,1,home_win,4231,1,4231.0,win
+3869152,Poland,488,12,1.593527124,120,10,45,38,11,8,22,0,1664,0,2,away,2022-12-04,International - FIFA World Cup,2022,France,Poland,3,1,home_win,4141,1,4231.0,loss
+3869219,Croatia,796,21,3.988397506,150,16,62,41,5,10,43,0,2563,0,2,away,2022-12-05,International - FIFA World Cup,2022,Japan,Croatia,1,1,draw,433,2,433.0,draw
+3869219,Japan,582,17,4.202976766,133,13,70,51,14,21,34,0,1996,0,0,home,2022-12-05,International - FIFA World Cup,2022,Japan,Croatia,1,1,draw,343,2,343.0,draw
+3869220,Morocco,365,10,3.704374606,177,19,51,41,16,18,35,0,1371,0,1,home,2022-12-06,International - FIFA World Cup,2022,Morocco,Spain,0,0,draw,433,2,343.0,draw
+3869220,Spain,1068,15,2.8454908599,152,14,50,29,21,9,10,0,3379,0,1,away,2022-12-06,International - FIFA World Cup,2022,Morocco,Spain,0,0,draw,433,2,433.0,draw
+3869253,Brazil,641,18,3.261424097,103,8,42,32,21,8,10,0,2104,0,0,home,2022-12-05,International - FIFA World Cup,2022,Brazil,South Korea,4,1,home_win,4231,2,4411.0,win
+3869253,South Korea,555,8,0.3448272774,175,12,38,27,13,22,15,0,1942,0,1,away,2022-12-05,International - FIFA World Cup,2022,Brazil,South Korea,4,1,home_win,442,1,4141.0,loss
+3869254,Portugal,488,15,2.284260007,172,14,33,28,7,10,16,0,1687,0,0,home,2022-12-06,International - FIFA World Cup,2022,Portugal,Switzerland,6,1,home_win,433,2,433.0,win
+3869254,Switzerland,528,10,1.2718271719999998,106,15,29,20,8,9,15,0,1735,0,2,away,2022-12-06,International - FIFA World Cup,2022,Portugal,Switzerland,6,1,home_win,352,2,4231.0,loss
+3869321,Argentina,640,19,5.856697131,190,22,48,43,18,10,27,0,2297,0,8,away,2022-12-09,International - FIFA World Cup,2022,Netherlands,Argentina,2,2,draw,352,2,433.0,draw
+3869321,Netherlands,691,12,4.487037827,216,37,49,33,21,24,27,0,2411,1,7,home,2022-12-09,International - FIFA World Cup,2022,Netherlands,Argentina,2,2,draw,3412,3,442.0,draw
+3869354,England,554,16,2.352551477,112,10,42,43,7,9,11,0,1825,0,1,home,2022-12-10,International - FIFA World Cup,2022,England,France,1,2,away_win,433,1,433.0,loss
+3869354,France,412,8,0.8393620340000001,118,15,34,31,10,7,17,0,1414,0,3,away,2022-12-10,International - FIFA World Cup,2022,England,France,1,2,away_win,4231,0,,win
+3869420,Brazil,747,24,4.9503305555,164,25,57,36,31,8,13,0,2572,0,3,away,2022-12-09,International - FIFA World Cup,2022,Croatia,Brazil,1,1,draw,4411,2,4411.0,draw
+3869420,Croatia,737,13,3.7668888039999997,151,23,48,48,13,14,34,0,2573,0,2,home,2022-12-09,International - FIFA World Cup,2022,Croatia,Brazil,1,1,draw,433,1,442.0,draw
+3869486,Morocco,249,9,0.972022875,163,18,50,28,16,15,35,0,1111,1,2,home,2022-12-10,International - FIFA World Cup,2022,Morocco,Portugal,1,0,home_win,4141,4,3511.0,win
+3869486,Portugal,731,12,0.7441207567,79,9,45,26,12,4,3,0,2270,0,1,away,2022-12-10,International - FIFA World Cup,2022,Morocco,Portugal,1,0,home_win,433,3,4231.0,loss
+3869519,Argentina,432,9,1.8643632719999998,192,20,40,34,12,8,18,0,1633,0,2,home,2022-12-13,International - FIFA World Cup,2022,Argentina,Croatia,3,0,home_win,442,1,352.0,win
+3869519,Croatia,648,12,0.4100536413,98,10,50,29,23,12,8,0,2173,0,2,away,2022-12-13,International - FIFA World Cup,2022,Argentina,Croatia,3,0,home_win,433,2,4231.0,loss
+3869552,France,387,14,2.002449116,190,14,42,33,15,20,19,0,1480,0,0,home,2022-12-14,International - FIFA World Cup,2022,France,Morocco,2,0,home_win,4231,1,433.0,win
+3869552,Morocco,615,13,1.23036399,118,14,53,38,15,4,12,0,2071,0,1,away,2022-12-14,International - FIFA World Cup,2022,France,Morocco,2,0,home_win,343,3,442.0,loss
+3869684,Croatia,528,12,0.8492689636,113,14,40,26,10,8,19,0,1762,0,0,home,2022-12-17,International - FIFA World Cup,2022,Croatia,Morocco,2,1,home_win,4231,1,4231.0,win
+3869684,Morocco,512,9,0.99145712,144,15,44,25,13,16,16,0,1798,0,2,away,2022-12-17,International - FIFA World Cup,2022,Croatia,Morocco,2,1,home_win,433,3,433.0,loss
+3869685,Argentina,693,24,5.892305926,167,29,59,50,21,13,26,0,2372,0,5,home,2022-12-18,International - FIFA World Cup,2022,Argentina,France,3,3,draw,433,3,352.0,draw
+3869685,France,570,14,5.406617949,194,19,56,48,33,15,19,0,2035,0,3,away,2022-12-18,International - FIFA World Cup,2022,Argentina,France,3,3,draw,4231,4,442.0,draw

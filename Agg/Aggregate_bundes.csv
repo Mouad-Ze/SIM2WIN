@@ -1,0 +1,681 @@
+match_id,team,passes,shots,xg,pressures,fouls_committed,ball_recoveries,duels,dribbles,interceptions,clearances,tackles,possession_events,red_cards,yellow_cards,home_away,match_date,competition,season,home_team,away_team,home_score,away_score,result,starting_formation,tactical_shifts,last_formation,team_result
+3890259,Bayern Munich,797,22,2.2385948494,92,10,49,31,20,5,10,0,2582,0,2,home,2015-08-14,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Hamburger SV,5.0,0.0,home_win,4141,2,4141.0,win
+3890259,Hamburger SV,240,5,0.0838352758,249,14,33,45,6,9,28,0,1109,0,2,away,2015-08-14,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Hamburger SV,5.0,0.0,home_win,4141,2,442.0,loss
+3890260,Bayer Leverkusen,465,25,3.439320725,157,14,69,45,32,10,25,0,1778,0,1,home,2015-08-15,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Hoffenheim,2.0,1.0,home_win,4231,2,442.0,win
+3890260,Hoffenheim,331,6,0.523961415,210,19,45,67,15,2,42,0,1407,0,0,away,2015-08-15,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Hoffenheim,2.0,1.0,home_win,41212,2,41212.0,loss
+3890261,Borussia Dortmund,731,16,1.973242468,201,13,59,25,23,14,13,0,2528,0,0,home,2015-08-15,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Borussia Mönchengladbach,4.0,0.0,home_win,4231,1,433.0,win
+3890261,Borussia Mönchengladbach,483,5,0.242150647,206,17,30,40,11,14,15,0,1742,0,1,away,2015-08-15,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Borussia Mönchengladbach,4.0,0.0,home_win,442,0,,loss
+3890262,Darmstadt 98,275,11,1.77063047,146,21,35,58,7,10,18,0,1066,0,1,home,2015-08-15,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Hannover 96,2.0,2.0,draw,4411,1,4411.0,draw
+3890262,Hannover 96,397,14,1.654869524,69,22,40,40,9,7,26,0,1341,0,2,away,2015-08-15,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Hannover 96,2.0,2.0,draw,4231,4,442.0,draw
+3890263,FSV Mainz 05,500,11,0.615812916,126,21,57,57,6,8,36,0,1711,0,2,home,2015-08-15,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Ingolstadt,0.0,1.0,away_win,4231,1,3412.0,loss
+3890263,Ingolstadt,406,14,0.7430165566,154,15,57,56,14,12,41,0,1448,0,3,away,2015-08-15,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Ingolstadt,0.0,1.0,away_win,433,0,,win
+3890264,Schalke 04,372,16,1.28252846,187,21,34,39,17,7,19,0,1431,0,2,away,2015-08-15,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Schalke 04,0.0,3.0,away_win,442,2,4231.0,win
+3890264,Werder Bremen,464,15,0.9867010097,133,10,57,42,13,7,19,0,1638,0,0,home,2015-08-15,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Schalke 04,0.0,3.0,away_win,442,1,41212.0,loss
+3890265,Augsburg,440,20,1.806689805,159,22,42,32,6,10,14,0,1558,1,2,home,2015-08-15,Germany - 1. Bundesliga,2015/2016,Augsburg,Hertha Berlin,0.0,1.0,away_win,4231,2,4231.0,loss
+3890265,Hertha Berlin,460,11,1.301326826,136,22,38,28,14,7,37,0,1671,1,3,away,2015-08-15,Germany - 1. Bundesliga,2015/2016,Augsburg,Hertha Berlin,0.0,1.0,away_win,4141,2,4411.0,win
+3890266,FC Köln,351,8,2.219708284,129,10,40,41,13,13,39,0,1308,0,2,away,2015-08-16,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,FC Köln,1.0,3.0,away_win,4141,2,4411.0,win
+3890266,VfB Stuttgart,454,28,2.38007908,164,16,58,38,12,6,25,0,1632,0,3,home,2015-08-16,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,FC Köln,1.0,3.0,away_win,442,1,3412.0,loss
+3890267,Eintracht Frankfurt,396,13,0.964066049,184,19,43,23,15,9,20,0,1495,0,1,away,2015-08-16,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Eintracht Frankfurt,2.0,1.0,home_win,442,2,442.0,loss
+3890267,Wolfsburg,631,8,0.91179878,162,13,39,28,15,9,16,0,2152,0,1,home,2015-08-16,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Eintracht Frankfurt,2.0,1.0,home_win,4231,2,4231.0,win
+3890268,Hertha Berlin,502,10,0.8749658309999999,177,11,53,52,22,9,21,0,1776,0,0,home,2015-08-21,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Werder Bremen,1.0,1.0,draw,442,2,442.0,draw
+3890268,Werder Bremen,438,9,0.82974801,175,16,62,63,8,15,33,0,1700,0,1,away,2015-08-21,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Werder Bremen,1.0,1.0,draw,41212,1,4141.0,draw
+3890269,Hamburger SV,484,14,1.4113760160000002,131,21,68,42,24,10,15,0,1705,0,3,home,2015-08-22,Germany - 1. Bundesliga,2015/2016,Hamburger SV,VfB Stuttgart,3.0,2.0,home_win,4231,1,442.0,win
+3890269,VfB Stuttgart,366,11,1.7755391123000002,210,25,36,46,13,10,40,0,1370,1,4,away,2015-08-22,Germany - 1. Bundesliga,2015/2016,Hamburger SV,VfB Stuttgart,3.0,2.0,home_win,442,3,4411.0,loss
+3890270,Bayern Munich,632,21,3.269656093,112,17,43,25,14,4,17,0,2033,1,3,away,2015-08-22,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Bayern Munich,1.0,2.0,away_win,3511,3,3511.0,win
+3890270,Hoffenheim,241,8,1.5867891969999999,185,21,29,41,11,8,21,0,985,0,3,home,2015-08-22,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Bayern Munich,1.0,2.0,away_win,41212,1,3421.0,loss
+3890271,Darmstadt 98,202,10,0.9603636580000001,226,20,36,41,9,5,42,0,948,0,2,away,2015-08-22,Germany - 1. Bundesliga,2015/2016,Schalke 04,Darmstadt 98,1.0,1.0,draw,4411,1,4231.0,draw
+3890271,Schalke 04,651,20,1.4374198065,62,16,49,35,15,1,23,0,2097,0,1,home,2015-08-22,Germany - 1. Bundesliga,2015/2016,Schalke 04,Darmstadt 98,1.0,1.0,draw,442,3,4231.0,draw
+3890272,Augsburg,358,14,1.246389725,155,24,43,42,8,18,39,0,1352,0,3,away,2015-08-22,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Augsburg,1.0,1.0,draw,4231,0,,draw
+3890272,Eintracht Frankfurt,438,11,1.3066811064000001,136,17,62,40,8,15,20,0,1574,0,2,home,2015-08-22,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Augsburg,1.0,1.0,draw,442,1,41212.0,draw
+3890273,Bayer Leverkusen,535,11,0.922819623,155,21,62,51,10,21,33,0,1991,0,0,away,2015-08-22,Germany - 1. Bundesliga,2015/2016,Hannover 96,Bayer Leverkusen,0.0,1.0,away_win,4231,4,433.0,win
+3890273,Hannover 96,386,5,0.12731890499999998,172,16,46,47,16,9,23,0,1420,0,0,home,2015-08-22,Germany - 1. Bundesliga,2015/2016,Hannover 96,Bayer Leverkusen,0.0,1.0,away_win,4231,2,4231.0,loss
+3890274,FC Köln,303,9,1.608826598,164,17,45,30,13,10,33,0,1239,0,2,home,2015-08-22,Germany - 1. Bundesliga,2015/2016,FC Köln,Wolfsburg,1.0,1.0,draw,442,1,4231.0,draw
+3890274,Wolfsburg,667,15,2.573894027,107,15,72,39,13,5,12,0,2274,0,1,away,2015-08-22,Germany - 1. Bundesliga,2015/2016,FC Köln,Wolfsburg,1.0,1.0,draw,4231,5,41212.0,draw
+3890275,Borussia Dortmund,613,18,3.2094262369999997,117,16,63,46,17,4,25,0,2043,0,3,away,2015-08-23,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Borussia Dortmund,0.0,4.0,away_win,433,1,433.0,win
+3890275,Ingolstadt,326,3,0.076810196,219,19,52,41,13,9,24,0,1279,0,2,home,2015-08-23,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Borussia Dortmund,0.0,4.0,away_win,4141,2,4141.0,loss
+3890276,Borussia Mönchengladbach,817,15,1.2665299606,143,13,34,40,22,2,8,0,2696,0,2,home,2015-08-23,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,FSV Mainz 05,1.0,2.0,away_win,442,2,442.0,loss
+3890276,FSV Mainz 05,381,12,1.3246248443,202,16,51,39,13,17,11,0,1493,0,1,away,2015-08-23,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,FSV Mainz 05,1.0,2.0,away_win,4231,1,4231.0,win
+3890277,Schalke 04,484,12,0.8355335287000001,168,17,48,30,15,4,7,0,1637,0,2,away,2015-08-28,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Schalke 04,3.0,0.0,home_win,4231,1,442.0,loss
+3890277,Wolfsburg,611,9,1.271138875,159,12,41,39,9,9,13,0,2080,0,1,home,2015-08-28,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Schalke 04,3.0,0.0,home_win,4231,0,,win
+3890278,Bayer Leverkusen,315,10,0.551974797,207,16,46,37,15,11,16,0,1315,0,3,away,2015-08-29,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Bayer Leverkusen,3.0,0.0,home_win,442,2,442.0,loss
+3890278,Bayern Munich,590,14,2.923130628,94,12,48,46,21,3,27,0,2030,0,2,home,2015-08-29,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Bayer Leverkusen,3.0,0.0,home_win,3511,2,3511.0,win
+3890279,Eintracht Frankfurt,422,6,1.8158646,153,18,61,41,15,6,26,0,1590,0,3,away,2015-08-29,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Eintracht Frankfurt,1.0,4.0,away_win,442,1,442.0,win
+3890279,VfB Stuttgart,451,14,2.406728665,210,19,52,51,24,5,26,0,1653,1,3,home,2015-08-29,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Eintracht Frankfurt,1.0,4.0,away_win,442,2,41212.0,loss
+3890280,FC Köln,430,6,1.62854302,133,18,41,48,8,9,20,0,1535,0,3,home,2015-08-29,Germany - 1. Bundesliga,2015/2016,FC Köln,Hamburger SV,2.0,1.0,home_win,442,3,4411.0,win
+3890280,Hamburger SV,437,17,1.1011210325,125,11,58,39,19,9,16,0,1618,1,2,away,2015-08-29,Germany - 1. Bundesliga,2015/2016,FC Köln,Hamburger SV,2.0,1.0,home_win,4411,2,442.0,loss
+3890281,Augsburg,535,10,0.8081518462,111,22,49,49,11,7,31,0,1833,0,3,home,2015-08-29,Germany - 1. Bundesliga,2015/2016,Augsburg,Ingolstadt,0.0,1.0,away_win,4231,2,41212.0,loss
+3890281,Ingolstadt,348,16,0.7613422265,186,19,38,43,10,7,27,0,1336,0,3,away,2015-08-29,Germany - 1. Bundesliga,2015/2016,Augsburg,Ingolstadt,0.0,1.0,away_win,433,0,,win
+3890282,FSV Mainz 05,436,18,3.88205889,143,11,51,31,18,6,18,0,1627,0,0,home,2015-08-29,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Hannover 96,3.0,0.0,home_win,442,0,,win
+3890282,Hannover 96,475,11,0.783251504,163,16,45,46,9,12,13,0,1734,0,2,away,2015-08-29,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Hannover 96,3.0,0.0,home_win,4141,1,442.0,loss
+3890283,Darmstadt 98,233,5,0.282383901,217,13,51,44,11,11,43,0,1114,0,3,home,2015-08-29,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Hoffenheim,0.0,0.0,draw,4411,1,4411.0,draw
+3890283,Hoffenheim,525,14,1.570604086,107,17,62,38,14,4,32,0,1814,0,2,away,2015-08-29,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Hoffenheim,0.0,0.0,draw,4411,0,,draw
+3890284,Borussia Dortmund,597,15,2.822856999,130,15,59,27,12,1,20,0,2030,0,0,home,2015-08-30,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Hertha Berlin,3.0,1.0,home_win,433,4,433.0,win
+3890284,Hertha Berlin,371,4,1.1850745699999998,128,14,43,36,7,7,23,0,1375,0,2,away,2015-08-30,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Hertha Berlin,3.0,1.0,home_win,343,2,442.0,loss
+3890285,Borussia Mönchengladbach,559,9,0.5572042190000001,123,18,50,50,4,1,28,0,1887,1,2,away,2015-08-30,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Borussia Mönchengladbach,2.0,1.0,home_win,442,3,41212.0,loss
+3890285,Werder Bremen,330,19,2.957744398,141,19,49,43,7,17,32,0,1316,0,3,home,2015-08-30,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Borussia Mönchengladbach,2.0,1.0,home_win,41212,0,,win
+3890286,Borussia Mönchengladbach,655,13,0.48682357860000003,146,17,33,31,11,6,9,0,2220,0,2,home,2015-09-11,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Hamburger SV,0.0,3.0,away_win,442,2,442.0,loss
+3890286,Hamburger SV,515,10,1.1927194790000002,216,20,51,41,10,8,12,0,1852,0,1,away,2015-09-11,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Hamburger SV,0.0,3.0,away_win,4231,1,4231.0,win
+3890287,Augsburg,224,3,0.157899712,137,12,34,32,11,7,43,0,968,0,1,away,2015-09-12,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Augsburg,2.0,1.0,home_win,4231,1,442.0,loss
+3890287,Bayern Munich,835,27,3.8242880631,63,12,63,34,19,3,23,0,2695,0,0,home,2015-09-12,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Augsburg,2.0,1.0,home_win,3511,6,433.0,win
+3890288,Bayer Leverkusen,637,16,1.433242406,103,13,72,52,36,5,20,0,2147,0,3,home,2015-09-12,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Darmstadt 98,0.0,1.0,away_win,4411,2,4411.0,loss
+3890288,Darmstadt 98,248,5,0.3345079974,209,18,56,64,8,4,57,0,1167,0,1,away,2015-09-12,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Darmstadt 98,0.0,1.0,away_win,4411,0,,win
+3890289,Eintracht Frankfurt,494,18,1.922778693,149,13,49,33,17,14,15,0,1734,0,2,home,2015-09-12,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,FC Köln,6.0,2.0,home_win,41212,0,,win
+3890289,FC Köln,482,13,1.0060813453,171,15,52,43,14,4,14,0,1697,0,1,away,2015-09-12,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,FC Köln,6.0,2.0,home_win,442,2,352.0,loss
+3890290,Hertha Berlin,439,8,1.153075444,142,21,59,43,19,7,33,0,1629,0,0,home,2015-09-12,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,VfB Stuttgart,2.0,1.0,home_win,442,2,442.0,win
+3890290,VfB Stuttgart,441,12,1.0504346390000001,174,23,43,43,18,15,23,0,1644,0,3,away,2015-09-12,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,VfB Stuttgart,2.0,1.0,home_win,4141,1,4141.0,loss
+3890291,Ingolstadt,330,5,0.14025478,272,11,44,59,13,20,33,0,1440,0,2,home,2015-09-12,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Wolfsburg,0.0,0.0,draw,433,2,442.0,draw
+3890291,Wolfsburg,592,17,1.0379444997,127,15,61,41,23,3,38,0,2061,0,2,away,2015-09-12,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Wolfsburg,0.0,0.0,draw,4231,1,4231.0,draw
+3890292,Borussia Dortmund,659,17,2.199345088,100,18,38,35,9,5,11,0,2140,0,1,away,2015-09-12,Germany - 1. Bundesliga,2015/2016,Hannover 96,Borussia Dortmund,2.0,4.0,away_win,4231,3,4231.0,win
+3890292,Hannover 96,258,5,1.11224378,151,15,41,39,13,12,29,0,1094,0,3,home,2015-09-12,Germany - 1. Bundesliga,2015/2016,Hannover 96,Borussia Dortmund,2.0,4.0,away_win,4321,2,442.0,loss
+3890293,FSV Mainz 05,334,15,2.445661258,202,21,57,57,20,12,29,0,1393,0,3,away,2015-09-13,Germany - 1. Bundesliga,2015/2016,Schalke 04,FSV Mainz 05,2.0,1.0,home_win,4231,1,3412.0,loss
+3890293,Schalke 04,509,24,2.7896980713,175,20,62,49,19,12,20,0,1860,0,1,home,2015-09-13,Germany - 1. Bundesliga,2015/2016,Schalke 04,FSV Mainz 05,2.0,1.0,home_win,442,0,,win
+3890294,Hoffenheim,549,10,0.5779428403000001,163,14,50,60,11,7,16,0,1836,0,2,home,2015-09-13,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Werder Bremen,1.0,3.0,away_win,41212,1,442.0,loss
+3890294,Werder Bremen,354,16,1.522135671,189,23,55,42,7,18,38,0,1375,0,4,away,2015-09-13,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Werder Bremen,1.0,3.0,away_win,41212,3,4411.0,win
+3890295,FSV Mainz 05,506,12,1.278697218,172,12,66,58,19,12,33,0,1794,0,1,home,2015-09-18,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Hoffenheim,3.0,1.0,home_win,4231,0,,win
+3890295,Hoffenheim,391,13,1.3896419277,210,16,60,50,6,9,34,0,1489,0,2,away,2015-09-18,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Hoffenheim,3.0,1.0,home_win,433,1,3412.0,loss
+3890296,Bayern Munich,795,18,1.702588545,74,9,43,19,9,5,16,0,2508,0,1,away,2015-09-19,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Bayern Munich,0.0,3.0,away_win,433,2,433.0,win
+3890296,Darmstadt 98,207,5,0.346549617,231,13,38,34,4,5,21,0,976,0,2,home,2015-09-19,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Bayern Munich,0.0,3.0,away_win,4411,3,4411.0,loss
+3890297,Eintracht Frankfurt,490,7,0.451243199,161,21,41,29,14,11,23,0,1678,0,4,away,2015-09-19,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Eintracht Frankfurt,0.0,0.0,draw,41212,0,,draw
+3890297,Hamburger SV,500,10,0.782163522,184,12,56,51,6,7,26,0,1773,0,0,home,2015-09-19,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Eintracht Frankfurt,0.0,0.0,draw,4231,0,,draw
+3890298,Hertha Berlin,494,9,0.405547746,152,12,30,42,13,3,15,0,1690,0,2,away,2015-09-19,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Hertha Berlin,2.0,0.0,home_win,4231,5,442.0,loss
+3890298,Wolfsburg,594,13,2.402847798,147,18,48,41,18,9,17,0,2049,0,1,home,2015-09-19,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Hertha Berlin,2.0,0.0,home_win,4141,3,442.0,win
+3890299,Borussia Mönchengladbach,720,8,0.3764425306,151,16,61,38,16,6,30,0,2455,0,3,away,2015-09-19,Germany - 1. Bundesliga,2015/2016,FC Köln,Borussia Mönchengladbach,1.0,0.0,home_win,442,2,4321.0,loss
+3890299,FC Köln,493,11,0.735951822,215,12,48,39,8,16,23,0,1853,0,0,home,2015-09-19,Germany - 1. Bundesliga,2015/2016,FC Köln,Borussia Mönchengladbach,1.0,0.0,home_win,4231,2,4411.0,win
+3890300,Ingolstadt,344,13,1.3959783386,186,18,47,67,14,4,28,0,1393,0,4,away,2015-09-19,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Ingolstadt,0.0,1.0,away_win,433,3,433.0,win
+3890300,Werder Bremen,406,14,1.4439282310000001,145,25,36,40,17,10,36,0,1482,1,3,home,2015-09-19,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Ingolstadt,0.0,1.0,away_win,41212,2,41212.0,loss
+3890301,Bayer Leverkusen,433,8,0.7846147424,188,20,80,48,15,15,20,0,1716,0,3,away,2015-09-20,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Bayer Leverkusen,3.0,0.0,home_win,442,2,4411.0,loss
+3890301,Borussia Dortmund,572,22,3.157727622,224,13,57,48,17,16,12,0,2113,0,1,home,2015-09-20,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Bayer Leverkusen,3.0,0.0,home_win,4231,1,4231.0,win
+3890302,Augsburg,446,17,1.9617115164,141,14,45,42,10,13,35,0,1673,0,1,home,2015-09-20,Germany - 1. Bundesliga,2015/2016,Augsburg,Hannover 96,2.0,0.0,home_win,4231,2,4231.0,win
+3890302,Hannover 96,508,16,0.6814563143,100,17,53,40,9,10,22,0,1741,0,4,away,2015-09-20,Germany - 1. Bundesliga,2015/2016,Augsburg,Hannover 96,2.0,0.0,home_win,4231,3,4321.0,loss
+3890303,Schalke 04,420,10,1.3078554009999999,144,21,51,36,25,13,31,0,1563,0,3,away,2015-09-20,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Schalke 04,0.0,1.0,away_win,442,4,433.0,win
+3890303,VfB Stuttgart,494,26,2.906899026,199,14,71,52,14,8,18,0,1846,0,3,home,2015-09-20,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Schalke 04,0.0,1.0,away_win,442,0,,loss
+3890304,Hamburger SV,465,8,1.273011822,182,16,67,58,14,7,38,0,1687,0,1,away,2015-09-22,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Hamburger SV,0.0,1.0,away_win,4231,2,433.0,win
+3890304,Ingolstadt,436,13,0.5903634234,207,15,51,48,12,7,25,0,1592,0,2,home,2015-09-22,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Hamburger SV,0.0,1.0,away_win,433,3,433.0,loss
+3890305,Bayern Munich,780,18,2.836724871,178,12,35,21,20,11,7,0,2566,0,1,home,2015-09-22,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Wolfsburg,5.0,1.0,home_win,433,2,4231.0,win
+3890305,Wolfsburg,460,7,0.1934904961,184,16,42,30,7,10,11,0,1701,0,2,away,2015-09-22,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Wolfsburg,5.0,1.0,home_win,442,2,4411.0,loss
+3890306,FC Köln,486,13,1.299442499,196,14,46,28,7,9,24,0,1749,0,1,away,2015-09-22,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,FC Köln,2.0,0.0,home_win,442,2,442.0,loss
+3890306,Hertha Berlin,523,16,1.631689216,157,13,60,44,9,4,18,0,1846,0,1,home,2015-09-22,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,FC Köln,2.0,0.0,home_win,442,0,,win
+3890307,Darmstadt 98,302,10,1.68130724,177,23,42,58,10,11,27,0,1184,0,3,home,2015-09-22,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Werder Bremen,2.0,1.0,home_win,4411,0,,win
+3890307,Werder Bremen,389,11,0.965855614,105,20,59,47,15,6,35,0,1383,1,2,away,2015-09-22,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Werder Bremen,2.0,1.0,home_win,442,1,41212.0,loss
+3890308,Augsburg,516,11,1.919509311,203,23,39,33,16,11,15,0,1825,0,5,away,2015-09-23,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Augsburg,4.0,2.0,home_win,4231,2,4231.0,loss
+3890308,Borussia Mönchengladbach,505,21,1.740930461,141,20,53,33,6,9,23,0,1786,0,2,home,2015-09-23,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Augsburg,4.0,2.0,home_win,442,1,442.0,win
+3890309,Hannover 96,493,8,0.888088932,118,15,47,60,12,9,28,0,1675,0,3,home,2015-09-23,Germany - 1. Bundesliga,2015/2016,Hannover 96,VfB Stuttgart,1.0,3.0,away_win,4321,2,4411.0,loss
+3890309,VfB Stuttgart,386,19,2.0821718479999998,210,18,64,51,12,3,33,0,1504,0,3,away,2015-09-23,Germany - 1. Bundesliga,2015/2016,Hannover 96,VfB Stuttgart,1.0,3.0,away_win,442,0,,win
+3890310,Borussia Dortmund,720,14,1.827485274,156,17,33,31,8,11,17,0,2366,0,1,away,2015-09-23,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Borussia Dortmund,1.0,1.0,draw,4231,3,4231.0,draw
+3890310,Hoffenheim,317,10,1.1904629333,275,17,52,32,13,8,26,0,1370,0,2,home,2015-09-23,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Borussia Dortmund,1.0,1.0,draw,442,0,,draw
+3890311,Eintracht Frankfurt,466,18,1.6636081315,194,17,45,54,16,12,22,0,1703,0,2,away,2015-09-23,Germany - 1. Bundesliga,2015/2016,Schalke 04,Eintracht Frankfurt,2.0,0.0,home_win,41212,1,442.0,loss
+3890311,Schalke 04,499,13,1.5849562985,183,9,55,32,18,9,24,0,1851,0,2,home,2015-09-23,Germany - 1. Bundesliga,2015/2016,Schalke 04,Eintracht Frankfurt,2.0,0.0,home_win,41212,2,4141.0,win
+3890312,Bayer Leverkusen,638,20,1.4943255796000001,167,16,62,35,20,11,13,0,2095,0,3,home,2015-09-23,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,FSV Mainz 05,1.0,0.0,home_win,442,0,,win
+3890312,FSV Mainz 05,326,3,0.40785679999999996,250,14,47,38,6,6,51,0,1361,0,0,away,2015-09-23,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,FSV Mainz 05,1.0,0.0,home_win,4411,0,,loss
+3890313,FC Köln,536,14,1.033753424,104,15,59,48,20,1,24,0,1800,0,2,home,2015-09-25,Germany - 1. Bundesliga,2015/2016,FC Köln,Ingolstadt,1.0,1.0,draw,4411,0,,draw
+3890313,Ingolstadt,353,16,0.6016193643,166,17,46,39,9,8,28,0,1368,0,3,away,2015-09-25,Germany - 1. Bundesliga,2015/2016,FC Köln,Ingolstadt,1.0,1.0,draw,433,0,,draw
+3890314,Augsburg,600,26,1.7428469777,120,9,58,39,10,9,19,0,1955,0,1,home,2015-09-26,Germany - 1. Bundesliga,2015/2016,Augsburg,Hoffenheim,1.0,3.0,away_win,4231,1,4231.0,loss
+3890314,Hoffenheim,321,11,1.515654039,168,11,43,39,5,11,31,0,1218,0,4,away,2015-09-26,Germany - 1. Bundesliga,2015/2016,Augsburg,Hoffenheim,1.0,3.0,away_win,442,2,343.0,win
+3890315,Bayer Leverkusen,570,16,1.0894856128,143,15,66,52,19,7,25,0,1999,0,2,away,2015-09-26,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Bayer Leverkusen,0.0,3.0,away_win,442,2,442.0,win
+3890315,Werder Bremen,326,9,0.459348833,205,17,55,67,14,12,34,0,1369,0,1,home,2015-09-26,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Bayer Leverkusen,0.0,3.0,away_win,41212,1,41212.0,loss
+3890316,Bayern Munich,770,17,3.1481839406,126,11,41,23,14,9,10,0,2463,0,1,away,2015-09-26,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Bayern Munich,0.0,3.0,away_win,4231,2,4231.0,win
+3890316,FSV Mainz 05,320,6,0.516536055,239,18,36,30,9,11,13,0,1303,0,1,home,2015-09-26,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Bayern Munich,0.0,3.0,away_win,442,2,442.0,loss
+3890317,Hamburger SV,504,13,0.6483982764999999,227,16,56,45,13,7,33,0,1879,0,1,home,2015-09-26,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Schalke 04,0.0,1.0,away_win,4231,2,41212.0,loss
+3890317,Schalke 04,519,11,1.42432648,183,16,54,36,20,10,21,0,1844,0,3,away,2015-09-26,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Schalke 04,0.0,1.0,away_win,4231,3,4141.0,win
+3890318,Borussia Mönchengladbach,421,9,0.7868752489999999,203,18,57,48,20,16,38,0,1699,0,1,away,2015-09-26,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Borussia Mönchengladbach,1.0,3.0,away_win,442,1,442.0,win
+3890318,VfB Stuttgart,450,23,2.3708388385,218,16,65,49,22,7,15,0,1738,0,4,home,2015-09-26,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Borussia Mönchengladbach,1.0,3.0,away_win,442,3,352.0,loss
+3890319,Hannover 96,350,9,0.523992546,184,10,46,50,11,8,33,0,1408,0,2,away,2015-09-26,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Hannover 96,1.0,1.0,draw,4411,0,,draw
+3890319,Wolfsburg,725,23,1.4360242038,129,12,65,33,18,4,20,0,2471,0,2,home,2015-09-26,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Hannover 96,1.0,1.0,draw,4141,1,41212.0,draw
+3890320,Eintracht Frankfurt,420,12,1.28286821,171,12,50,49,11,16,23,0,1610,0,2,home,2015-09-27,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Hertha Berlin,1.0,1.0,draw,41212,1,442.0,draw
+3890320,Hertha Berlin,547,15,1.552944702,169,14,46,46,14,8,29,0,1943,0,1,away,2015-09-27,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Hertha Berlin,1.0,1.0,draw,4231,2,4231.0,draw
+3890321,Borussia Dortmund,809,15,2.4636512555000003,122,16,53,32,23,6,21,0,2607,0,0,home,2015-09-27,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Darmstadt 98,2.0,2.0,draw,433,4,442.0,draw
+3890321,Darmstadt 98,259,4,0.3154533003,204,14,42,46,7,14,49,0,1123,0,2,away,2015-09-27,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Darmstadt 98,2.0,2.0,draw,4411,1,451.0,draw
+3890322,Darmstadt 98,318,13,1.9649011779999999,182,13,49,54,6,10,25,0,1237,0,1,home,2015-10-02,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,FSV Mainz 05,2.0,3.0,away_win,4411,1,4411.0,loss
+3890322,FSV Mainz 05,503,14,1.634351134,117,21,64,48,23,8,26,0,1784,0,2,away,2015-10-02,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,FSV Mainz 05,2.0,3.0,away_win,4231,2,4231.0,win
+3890323,Borussia Mönchengladbach,488,10,1.426792336,149,15,46,31,11,10,11,0,1791,0,2,home,2015-10-03,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Wolfsburg,2.0,0.0,home_win,442,1,4231.0,win
+3890323,Wolfsburg,524,10,0.579322601,180,18,42,22,14,11,18,0,1859,0,3,away,2015-10-03,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Wolfsburg,2.0,0.0,home_win,4141,3,41212.0,loss
+3890324,Hamburger SV,581,8,0.495238156,201,16,45,45,11,8,13,0,2082,0,1,away,2015-10-03,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Hamburger SV,3.0,0.0,home_win,4411,2,4411.0,loss
+3890324,Hertha Berlin,461,14,2.021465219,207,13,60,36,19,7,27,0,1787,0,1,home,2015-10-03,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Hamburger SV,3.0,0.0,home_win,442,0,,win
+3890325,Hannover 96,335,12,0.764178652,116,18,46,49,11,14,35,0,1282,0,4,home,2015-10-03,Germany - 1. Bundesliga,2015/2016,Hannover 96,Werder Bremen,1.0,0.0,home_win,4231,1,4231.0,win
+3890325,Werder Bremen,491,18,1.255979725,133,12,54,48,13,7,22,0,1712,0,1,away,2015-10-03,Germany - 1. Bundesliga,2015/2016,Hannover 96,Werder Bremen,1.0,0.0,home_win,41212,1,41212.0,loss
+3890326,Eintracht Frankfurt,595,12,0.6605919464,178,12,59,51,16,15,32,0,2146,0,2,away,2015-10-03,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Eintracht Frankfurt,2.0,0.0,home_win,41212,2,41212.0,loss
+3890326,Ingolstadt,428,14,1.657632332,190,13,68,47,14,12,26,0,1560,0,1,home,2015-10-03,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Eintracht Frankfurt,2.0,0.0,home_win,433,1,433.0,win
+3890327,Hoffenheim,386,11,1.587110097,193,15,51,45,24,18,30,0,1488,0,3,home,2015-10-03,Germany - 1. Bundesliga,2015/2016,Hoffenheim,VfB Stuttgart,2.0,2.0,draw,442,2,343.0,draw
+3890327,VfB Stuttgart,525,18,1.792167571,194,15,58,54,11,16,29,0,1861,0,1,away,2015-10-03,Germany - 1. Bundesliga,2015/2016,Hoffenheim,VfB Stuttgart,2.0,2.0,draw,4231,1,41212.0,draw
+3890328,FC Köln,313,12,1.082642917,179,15,54,28,17,13,44,0,1274,0,2,away,2015-10-04,Germany - 1. Bundesliga,2015/2016,Schalke 04,FC Köln,0.0,3.0,away_win,4411,2,343.0,win
+3890328,Schalke 04,601,16,0.915915552,141,19,61,31,10,5,21,0,2058,0,2,home,2015-10-04,Germany - 1. Bundesliga,2015/2016,Schalke 04,FC Köln,0.0,3.0,away_win,442,3,442.0,loss
+3890329,Bayern Munich,646,15,3.5797219606999997,148,15,55,30,12,8,13,0,2129,0,3,home,2015-10-04,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Borussia Dortmund,5.0,1.0,home_win,3511,3,433.0,win
+3890329,Borussia Dortmund,448,10,1.549803499,222,10,49,26,18,11,31,0,1692,0,1,away,2015-10-04,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Borussia Dortmund,5.0,1.0,home_win,41212,3,4231.0,loss
+3890330,Augsburg,350,2,0.055498986,246,23,60,46,13,12,27,0,1400,0,3,away,2015-10-04,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Augsburg,1.0,1.0,draw,4231,1,4231.0,draw
+3890330,Bayer Leverkusen,618,22,2.551731347,141,14,63,25,18,8,5,0,2077,0,2,home,2015-10-04,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Augsburg,1.0,1.0,draw,442,0,,draw
+3890331,Borussia Dortmund,483,16,3.755273049,160,16,60,38,18,15,21,0,1741,0,1,away,2015-10-16,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Borussia Dortmund,0.0,2.0,away_win,4231,2,433.0,win
+3890331,FSV Mainz 05,543,11,1.235158652,227,15,38,37,21,20,14,0,1939,0,2,home,2015-10-16,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Borussia Dortmund,0.0,2.0,away_win,4231,2,4231.0,loss
+3890332,Bayern Munich,915,13,1.8755478380000001,87,13,51,38,20,4,5,0,2886,0,2,away,2015-10-17,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Bayern Munich,0.0,1.0,away_win,4141,2,4141.0,win
+3890332,Werder Bremen,245,8,0.850652404,207,17,49,30,12,11,13,0,1082,0,2,home,2015-10-17,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Bayern Munich,0.0,1.0,away_win,4141,1,442.0,loss
+3890333,Augsburg,630,20,1.210735174,72,13,60,35,14,5,18,0,2061,0,2,home,2015-10-17,Germany - 1. Bundesliga,2015/2016,Augsburg,Darmstadt 98,0.0,2.0,away_win,4231,2,433.0,loss
+3890333,Darmstadt 98,274,12,1.955174508,221,17,53,53,5,7,21,0,1096,0,3,away,2015-10-17,Germany - 1. Bundesliga,2015/2016,Augsburg,Darmstadt 98,0.0,2.0,away_win,442,0,,win
+3890334,Borussia Mönchengladbach,528,16,3.689561299,138,16,54,38,13,9,25,0,1773,0,3,away,2015-10-17,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Borussia Mönchengladbach,1.0,5.0,away_win,442,0,,win
+3890334,Eintracht Frankfurt,518,7,1.0062232247,190,20,44,29,4,17,5,0,1805,0,4,home,2015-10-17,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Borussia Mönchengladbach,1.0,5.0,away_win,41212,1,41212.0,loss
+3890335,Hoffenheim,497,8,0.939318307,209,13,45,40,13,13,16,0,1799,0,0,away,2015-10-17,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Hoffenheim,4.0,2.0,home_win,442,2,442.0,loss
+3890335,Wolfsburg,520,17,2.4022592715,169,15,51,33,28,10,14,0,1856,0,4,home,2015-10-17,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Hoffenheim,4.0,2.0,home_win,4231,1,4231.0,win
+3890336,Hertha Berlin,392,9,0.520455877,134,16,41,37,7,5,19,0,1411,1,4,away,2015-10-17,Germany - 1. Bundesliga,2015/2016,Schalke 04,Hertha Berlin,2.0,1.0,home_win,442,3,4411.0,loss
+3890336,Schalke 04,513,19,1.5938553839999998,145,19,50,25,16,5,16,0,1773,0,3,home,2015-10-17,Germany - 1. Bundesliga,2015/2016,Schalke 04,Hertha Berlin,2.0,1.0,home_win,442,2,4321.0,win
+3890337,Bayer Leverkusen,478,10,0.755120058,186,22,74,51,17,9,14,0,1736,0,2,away,2015-10-17,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Bayer Leverkusen,0.0,0.0,draw,442,2,442.0,draw
+3890337,Hamburger SV,427,8,0.41532530300000003,230,23,51,51,18,18,29,0,1600,0,6,home,2015-10-17,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Bayer Leverkusen,0.0,0.0,draw,4231,1,4231.0,draw
+3890338,Ingolstadt,453,13,1.8661245007999998,171,8,55,54,20,9,26,0,1593,0,1,away,2015-10-18,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Ingolstadt,1.0,0.0,home_win,4231,2,433.0,loss
+3890338,VfB Stuttgart,431,11,1.3287314925,219,20,58,61,21,7,22,0,1670,1,4,home,2015-10-18,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Ingolstadt,1.0,0.0,home_win,4231,1,4411.0,win
+3890339,FC Köln,617,15,1.462705909,139,16,46,48,12,5,13,0,2100,0,3,home,2015-10-18,Germany - 1. Bundesliga,2015/2016,FC Köln,Hannover 96,0.0,1.0,away_win,442,4,41212.0,loss
+3890339,Hannover 96,374,8,1.14009748,139,17,53,32,9,6,34,0,1382,0,2,away,2015-10-18,Germany - 1. Bundesliga,2015/2016,FC Köln,Hannover 96,0.0,1.0,away_win,4231,1,4231.0,win
+3890340,Hamburger SV,412,20,2.2001780568,181,23,48,41,10,15,14,0,1566,0,4,away,2015-10-23,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Hamburger SV,0.0,1.0,away_win,4231,1,4231.0,win
+3890340,Hoffenheim,367,12,0.7225691017,173,27,48,47,14,15,17,0,1429,1,3,home,2015-10-23,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Hamburger SV,0.0,1.0,away_win,442,2,41212.0,loss
+3890341,Bayern Munich,860,26,3.660628713,130,9,50,14,13,4,6,0,2767,0,1,home,2015-10-24,Germany - 1. Bundesliga,2015/2016,Bayern Munich,FC Köln,4.0,0.0,home_win,4141,6,4141.0,win
+3890341,FC Köln,311,4,0.182453062,163,5,26,29,12,13,27,0,1200,0,1,away,2015-10-24,Germany - 1. Bundesliga,2015/2016,Bayern Munich,FC Köln,4.0,0.0,home_win,343,1,343.0,loss
+3890342,Darmstadt 98,279,9,0.4633764486,165,18,38,60,8,7,26,0,1111,0,2,home,2015-10-24,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Wolfsburg,0.0,1.0,away_win,4411,1,4411.0,loss
+3890342,Wolfsburg,644,19,1.2160248103,91,16,68,34,13,8,19,0,2164,0,1,away,2015-10-24,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Wolfsburg,0.0,1.0,away_win,442,4,4411.0,win
+3890343,Hertha Berlin,469,5,0.869740588,189,12,60,56,16,6,65,0,1810,0,3,away,2015-10-24,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Hertha Berlin,0.0,1.0,away_win,4231,3,4231.0,win
+3890343,Ingolstadt,557,19,0.878346148,202,12,62,48,9,13,11,0,1947,0,2,home,2015-10-24,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Hertha Berlin,0.0,1.0,away_win,41212,1,41212.0,loss
+3890344,FSV Mainz 05,565,16,1.7521579649999999,209,20,62,54,23,10,21,0,2113,0,2,home,2015-10-24,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Werder Bremen,1.0,3.0,away_win,4231,3,3421.0,loss
+3890344,Werder Bremen,382,16,2.071160215,146,18,56,45,14,9,22,0,1454,0,1,away,2015-10-24,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Werder Bremen,1.0,3.0,away_win,4141,0,,win
+3890345,Eintracht Frankfurt,659,5,0.7915138656,125,18,45,41,13,6,22,0,2170,0,4,away,2015-10-24,Germany - 1. Bundesliga,2015/2016,Hannover 96,Eintracht Frankfurt,1.0,2.0,away_win,4411,0,,win
+3890345,Hannover 96,488,10,0.6500735390000001,104,15,65,42,12,9,25,0,1723,0,1,home,2015-10-24,Germany - 1. Bundesliga,2015/2016,Hannover 96,Eintracht Frankfurt,1.0,2.0,away_win,442,2,442.0,loss
+3890346,Bayer Leverkusen,541,19,2.96329161,183,16,60,49,25,7,26,0,1913,0,2,home,2015-10-24,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,VfB Stuttgart,4.0,3.0,home_win,442,0,,win
+3890346,VfB Stuttgart,339,12,1.790840584,232,13,52,54,22,17,22,0,1397,0,4,away,2015-10-24,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,VfB Stuttgart,4.0,3.0,home_win,41212,2,41212.0,loss
+3890347,Augsburg,417,4,0.40094397,186,15,48,31,9,12,21,0,1526,0,2,away,2015-10-25,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Augsburg,5.0,1.0,home_win,4231,1,4231.0,loss
+3890347,Borussia Dortmund,611,19,4.028479287,156,10,60,33,11,6,16,0,2100,0,0,home,2015-10-25,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Augsburg,5.0,1.0,home_win,433,1,4231.0,win
+3890348,Borussia Mönchengladbach,595,17,1.76322411,135,22,65,24,20,7,15,0,2068,0,2,home,2015-10-25,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Schalke 04,3.0,1.0,home_win,442,0,,win
+3890348,Schalke 04,374,14,0.5542684745,209,21,38,30,11,17,20,0,1508,1,3,away,2015-10-25,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Schalke 04,3.0,1.0,home_win,4231,3,4411.0,loss
+3890349,Bayern Munich,707,10,1.473892872,140,15,49,30,14,7,15,0,2384,0,2,away,2015-10-30,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Bayern Munich,0.0,0.0,draw,4141,6,4141.0,draw
+3890349,Eintracht Frankfurt,263,7,0.43722537,144,15,41,31,13,13,20,0,1042,0,4,home,2015-10-30,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Bayern Munich,0.0,0.0,draw,4141,2,4141.0,draw
+3890350,Bayer Leverkusen,483,14,1.0155034637,212,16,66,49,13,9,24,0,1777,0,2,away,2015-10-31,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Bayer Leverkusen,2.0,1.0,home_win,4231,1,442.0,loss
+3890350,Wolfsburg,469,13,1.9862431546,235,21,65,53,22,11,19,0,1831,0,0,home,2015-10-31,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Bayer Leverkusen,2.0,1.0,home_win,4231,1,4231.0,win
+3890351,Borussia Mönchengladbach,717,11,1.235507297,205,13,54,31,9,7,20,0,2414,0,1,away,2015-10-31,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Borussia Mönchengladbach,1.0,4.0,away_win,41212,0,,win
+3890351,Hertha Berlin,532,14,2.2044779255,237,11,42,49,13,14,14,0,1969,0,2,home,2015-10-31,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Borussia Mönchengladbach,1.0,4.0,away_win,4231,4,4231.0,loss
+3890352,FC Köln,587,13,1.534643262,214,12,47,37,13,13,21,0,2044,0,2,home,2015-10-31,Germany - 1. Bundesliga,2015/2016,FC Köln,Hoffenheim,0.0,0.0,draw,442,1,442.0,draw
+3890352,Hoffenheim,493,10,1.1254412010000001,208,17,51,36,10,10,28,0,1824,0,1,away,2015-10-31,Germany - 1. Bundesliga,2015/2016,FC Köln,Hoffenheim,0.0,0.0,draw,442,0,,draw
+3890353,Borussia Dortmund,817,12,3.12545774,152,17,38,28,14,1,18,0,2657,0,0,away,2015-10-31,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Borussia Dortmund,1.0,3.0,away_win,4231,1,4231.0,win
+3890353,Werder Bremen,320,8,1.3308466105,219,21,52,31,14,14,18,0,1327,0,3,home,2015-10-31,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Borussia Dortmund,1.0,3.0,away_win,3511,3,442.0,loss
+3890354,Augsburg,543,25,2.8406530385,169,12,59,64,22,8,31,0,1945,0,3,home,2015-10-31,Germany - 1. Bundesliga,2015/2016,Augsburg,FSV Mainz 05,3.0,3.0,draw,4231,1,4231.0,draw
+3890354,FSV Mainz 05,307,11,2.1265768772,254,17,38,71,13,19,33,0,1354,0,3,away,2015-10-31,Germany - 1. Bundesliga,2015/2016,Augsburg,FSV Mainz 05,3.0,3.0,draw,442,1,442.0,draw
+3890355,Ingolstadt,344,7,0.283861339,239,19,41,68,8,9,29,0,1448,0,2,away,2015-10-31,Germany - 1. Bundesliga,2015/2016,Schalke 04,Ingolstadt,1.0,1.0,draw,433,3,433.0,draw
+3890355,Schalke 04,586,18,1.073690162,154,18,52,40,25,4,20,0,1991,0,1,home,2015-10-31,Germany - 1. Bundesliga,2015/2016,Schalke 04,Ingolstadt,1.0,1.0,draw,442,1,442.0,draw
+3890356,Hamburger SV,598,17,2.5975762060000003,168,13,59,47,15,11,18,0,2067,0,0,home,2015-11-01,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Hannover 96,1.0,2.0,away_win,442,0,,loss
+3890356,Hannover 96,444,5,0.9391483654999999,191,15,45,46,21,13,33,0,1669,0,0,away,2015-11-01,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Hannover 96,1.0,2.0,away_win,4231,2,4231.0,win
+3890357,Darmstadt 98,294,17,1.2735283734,180,17,46,53,10,17,18,0,1132,0,2,away,2015-11-01,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Darmstadt 98,2.0,0.0,home_win,442,0,,loss
+3890357,VfB Stuttgart,405,18,2.151110377,179,21,42,54,17,12,50,0,1595,0,3,home,2015-11-01,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Darmstadt 98,2.0,0.0,home_win,41212,2,41212.0,win
+3890358,Hannover 96,520,8,1.273314632,169,19,40,40,12,6,21,0,1831,0,2,home,2015-11-06,Germany - 1. Bundesliga,2015/2016,Hannover 96,Hertha Berlin,1.0,3.0,away_win,4231,1,442.0,loss
+3890358,Hertha Berlin,510,12,2.2885739689999998,162,9,42,50,16,5,16,0,1804,0,3,away,2015-11-06,Germany - 1. Bundesliga,2015/2016,Hannover 96,Hertha Berlin,1.0,3.0,away_win,4231,3,4231.0,win
+3890359,Bayer Leverkusen,413,12,0.667584057,150,20,55,35,17,16,24,0,1585,1,1,home,2015-11-07,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,FC Köln,1.0,2.0,away_win,4231,2,3412.0,loss
+3890359,FC Köln,390,16,1.821247328,118,13,59,39,15,16,20,0,1441,0,2,away,2015-11-07,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,FC Köln,1.0,2.0,away_win,442,2,343.0,win
+3890360,Darmstadt 98,340,15,1.1498305989,181,16,50,58,4,7,22,0,1301,0,4,home,2015-11-07,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Hamburger SV,1.0,1.0,draw,4411,0,,draw
+3890360,Hamburger SV,538,8,1.330811216,94,19,48,43,15,7,29,0,1815,0,2,away,2015-11-07,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Hamburger SV,1.0,1.0,draw,442,2,4231.0,draw
+3890361,FSV Mainz 05,340,12,1.4155778356,197,28,47,34,18,9,8,0,1376,0,2,home,2015-11-07,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Wolfsburg,2.0,0.0,home_win,442,3,442.0,win
+3890361,Wolfsburg,579,7,0.231337605,117,24,51,44,24,7,12,0,2060,1,3,away,2015-11-07,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Wolfsburg,2.0,0.0,home_win,4231,1,4231.0,loss
+3890362,Eintracht Frankfurt,620,17,1.5692731297,147,15,50,23,18,8,4,0,2112,0,3,away,2015-11-07,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Eintracht Frankfurt,0.0,0.0,draw,4411,0,,draw
+3890362,Hoffenheim,614,8,0.7172744719999999,180,16,36,29,15,6,28,0,2114,0,1,home,2015-11-07,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Eintracht Frankfurt,0.0,0.0,draw,442,0,,draw
+3890363,Borussia Mönchengladbach,510,11,0.9676561402999999,149,18,57,48,29,12,26,0,1864,1,2,home,2015-11-07,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Ingolstadt,0.0,0.0,draw,442,2,433.0,draw
+3890363,Ingolstadt,376,14,0.877220756,214,19,57,48,20,10,26,0,1472,0,6,away,2015-11-07,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Ingolstadt,0.0,0.0,draw,433,0,,draw
+3890364,Bayern Munich,770,33,5.0847653442,72,8,46,18,16,2,15,0,2430,0,0,home,2015-11-07,Germany - 1. Bundesliga,2015/2016,Bayern Munich,VfB Stuttgart,4.0,0.0,home_win,3421,2,4141.0,win
+3890364,VfB Stuttgart,260,5,0.42491515,212,16,32,24,3,13,19,0,1084,0,0,away,2015-11-07,Germany - 1. Bundesliga,2015/2016,Bayern Munich,VfB Stuttgart,4.0,0.0,home_win,41212,1,4411.0,loss
+3890365,Borussia Dortmund,674,14,1.647311706,181,11,45,27,15,8,11,0,2270,0,3,home,2015-11-08,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Schalke 04,3.0,2.0,home_win,433,1,433.0,win
+3890365,Schalke 04,419,9,1.4780999245,200,17,39,38,14,14,19,0,1587,0,4,away,2015-11-08,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Schalke 04,3.0,2.0,home_win,442,1,442.0,loss
+3890366,Augsburg,507,18,1.5010340934,190,14,45,45,17,8,19,0,1853,0,1,home,2015-11-08,Germany - 1. Bundesliga,2015/2016,Augsburg,Werder Bremen,1.0,2.0,away_win,4231,4,442.0,loss
+3890366,Werder Bremen,330,16,0.942897843,213,22,37,58,15,12,26,0,1374,0,4,away,2015-11-08,Germany - 1. Bundesliga,2015/2016,Augsburg,Werder Bremen,1.0,2.0,away_win,4141,1,4141.0,win
+3890367,Borussia Dortmund,699,21,2.2993067568,118,10,52,36,25,4,13,0,2294,0,1,away,2015-11-20,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Borussia Dortmund,3.0,1.0,home_win,433,3,433.0,loss
+3890367,Hamburger SV,349,7,1.547297761,261,21,51,49,11,9,24,0,1498,0,0,home,2015-11-20,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Borussia Dortmund,3.0,1.0,home_win,4231,2,4231.0,win
+3890368,Werder Bremen,370,9,0.700276865,197,8,52,45,10,19,19,0,1433,0,2,away,2015-11-21,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Werder Bremen,6.0,0.0,home_win,451,2,442.0,loss
+3890368,Wolfsburg,681,21,2.9404911925,148,12,57,25,11,13,19,0,2203,0,0,home,2015-11-21,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Werder Bremen,6.0,0.0,home_win,4231,1,4231.0,win
+3890369,Bayern Munich,845,24,2.075429379,115,10,55,32,15,8,11,0,2815,0,0,away,2015-11-21,Germany - 1. Bundesliga,2015/2016,Schalke 04,Bayern Munich,1.0,3.0,away_win,4141,0,,win
+3890369,Schalke 04,343,5,0.323078937,192,16,37,33,10,14,24,0,1371,0,2,home,2015-11-21,Germany - 1. Bundesliga,2015/2016,Schalke 04,Bayern Munich,1.0,3.0,away_win,343,2,442.0,loss
+3890370,Bayer Leverkusen,512,16,2.046758995,165,20,48,53,19,14,25,0,1859,0,1,away,2015-11-21,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Bayer Leverkusen,1.0,3.0,away_win,4231,1,4231.0,win
+3890370,Eintracht Frankfurt,373,9,0.898138032,189,14,56,49,15,9,19,0,1465,0,2,home,2015-11-21,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Bayer Leverkusen,1.0,3.0,away_win,442,2,442.0,loss
+3890371,FC Köln,480,14,1.100590004,164,16,53,44,19,12,17,0,1729,0,1,home,2015-11-21,Germany - 1. Bundesliga,2015/2016,FC Köln,FSV Mainz 05,0.0,0.0,draw,442,1,442.0,draw
+3890371,FSV Mainz 05,537,7,0.434715194,138,14,51,32,20,7,23,0,1908,0,1,away,2015-11-21,Germany - 1. Bundesliga,2015/2016,FC Köln,FSV Mainz 05,0.0,0.0,draw,4231,0,,draw
+3890372,Augsburg,419,13,2.023465794,186,16,34,44,15,16,31,0,1567,0,1,away,2015-11-21,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Augsburg,0.0,4.0,away_win,4231,1,4231.0,win
+3890372,VfB Stuttgart,604,18,0.882228351,154,10,43,53,12,5,12,0,2062,0,2,home,2015-11-21,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Augsburg,0.0,4.0,away_win,4411,1,442.0,loss
+3890373,Borussia Mönchengladbach,669,21,1.9779015791999999,181,11,45,47,18,7,18,0,2309,0,1,home,2015-11-21,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Hannover 96,2.0,1.0,home_win,442,2,442.0,win
+3890373,Hannover 96,416,14,1.5245743185,211,11,47,25,18,7,24,0,1577,0,1,away,2015-11-21,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Hannover 96,2.0,1.0,home_win,4231,2,3412.0,loss
+3890374,Darmstadt 98,311,8,0.53013099,148,25,42,61,3,10,30,0,1173,0,3,away,2015-11-22,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Darmstadt 98,3.0,1.0,home_win,4231,1,4321.0,loss
+3890374,Ingolstadt,405,16,2.1678445902,106,20,60,36,12,4,34,0,1452,0,2,home,2015-11-22,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Darmstadt 98,3.0,1.0,home_win,442,3,433.0,win
+3890375,Hertha Berlin,508,1,0.12472461,257,28,46,39,15,9,26,0,1894,0,2,home,2015-11-22,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Hoffenheim,1.0,0.0,home_win,4231,0,,win
+3890375,Hoffenheim,605,8,0.609091322,235,18,49,33,13,4,21,0,2129,0,1,away,2015-11-22,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Hoffenheim,1.0,0.0,home_win,4231,1,442.0,loss
+3890376,Darmstadt 98,335,9,0.676632737,190,17,72,46,14,9,36,0,1371,0,2,home,2015-11-27,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,FC Köln,0.0,0.0,draw,4231,3,442.0,draw
+3890376,FC Köln,585,12,1.274576941,139,14,55,42,14,6,34,0,2020,0,1,away,2015-11-27,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,FC Köln,0.0,0.0,draw,4231,1,4231.0,draw
+3890377,Borussia Mönchengladbach,713,16,1.435138286,143,17,51,30,21,12,14,0,2398,0,1,away,2015-11-28,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Borussia Mönchengladbach,3.0,3.0,draw,41212,1,41212.0,draw
+3890377,Hoffenheim,331,18,1.5327231685,194,13,49,26,10,19,28,0,1358,0,2,home,2015-11-28,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Borussia Mönchengladbach,3.0,3.0,draw,442,0,,draw
+3890378,Bayern Munich,853,24,3.7367588720000002,111,13,45,19,6,5,16,0,2672,0,0,home,2015-11-28,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Hertha Berlin,2.0,0.0,home_win,433,3,433.0,win
+3890378,Hertha Berlin,363,4,0.34009863100000004,158,15,47,34,15,6,26,0,1365,0,3,away,2015-11-28,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Hertha Berlin,2.0,0.0,home_win,343,2,442.0,loss
+3890379,Hamburger SV,461,13,1.2854824186,200,19,52,76,17,9,45,0,1748,0,1,away,2015-11-28,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Hamburger SV,1.0,3.0,away_win,4231,2,4231.0,win
+3890379,Werder Bremen,492,14,1.150027842,187,23,74,63,14,11,18,0,1763,0,2,home,2015-11-28,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Hamburger SV,1.0,3.0,away_win,442,1,442.0,loss
+3890380,Hannover 96,409,8,1.057494591,189,23,50,53,15,13,18,0,1575,0,3,home,2015-11-28,Germany - 1. Bundesliga,2015/2016,Hannover 96,Ingolstadt,4.0,0.0,home_win,4231,0,,win
+3890380,Ingolstadt,483,10,0.3765137204,200,16,44,48,12,9,15,0,1733,0,3,away,2015-11-28,Germany - 1. Bundesliga,2015/2016,Hannover 96,Ingolstadt,4.0,0.0,home_win,433,2,433.0,loss
+3890381,Eintracht Frankfurt,463,14,0.8207025142000001,182,20,57,45,17,16,9,0,1713,1,3,away,2015-11-28,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Eintracht Frankfurt,2.0,1.0,home_win,4411,1,4411.0,loss
+3890381,FSV Mainz 05,525,14,1.7227353835,183,24,48,42,23,7,33,0,1930,0,4,home,2015-11-28,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Eintracht Frankfurt,2.0,1.0,home_win,4231,0,,win
+3890382,Bayer Leverkusen,527,18,1.6739158490000001,227,10,59,52,18,8,15,0,2021,0,1,home,2015-11-29,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Schalke 04,1.0,1.0,draw,4231,0,,draw
+3890382,Schalke 04,419,9,0.850999866,216,15,57,34,30,15,26,0,1658,0,2,away,2015-11-29,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Schalke 04,1.0,1.0,draw,4231,1,442.0,draw
+3890383,Augsburg,384,13,1.0467867685,203,21,32,34,9,15,16,0,1437,0,3,home,2015-11-29,Germany - 1. Bundesliga,2015/2016,Augsburg,Wolfsburg,0.0,0.0,draw,4231,0,,draw
+3890383,Wolfsburg,563,17,0.7276681535,119,12,45,31,10,11,22,0,1916,1,3,away,2015-11-29,Germany - 1. Bundesliga,2015/2016,Augsburg,Wolfsburg,0.0,0.0,draw,442,2,4411.0,draw
+3890384,Borussia Dortmund,758,14,1.8166922620000001,135,12,54,23,14,5,17,0,2461,0,1,home,2015-11-29,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,VfB Stuttgart,4.0,1.0,home_win,433,3,4231.0,win
+3890384,VfB Stuttgart,323,8,0.968795345,209,14,52,27,16,13,24,0,1274,0,0,away,2015-11-29,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,VfB Stuttgart,4.0,1.0,home_win,4231,0,,loss
+3890385,Hannover 96,394,7,0.44246886249999995,177,16,35,44,10,5,31,0,1494,0,1,away,2015-12-04,Germany - 1. Bundesliga,2015/2016,Schalke 04,Hannover 96,3.0,1.0,home_win,442,2,4231.0,loss
+3890385,Schalke 04,491,26,2.770772758,145,10,61,40,25,8,24,0,1778,0,1,home,2015-12-04,Germany - 1. Bundesliga,2015/2016,Schalke 04,Hannover 96,3.0,1.0,home_win,4231,0,,win
+3890386,FSV Mainz 05,437,11,0.895213661,211,21,52,40,22,14,15,0,1699,0,1,away,2015-12-05,Germany - 1. Bundesliga,2015/2016,Hamburger SV,FSV Mainz 05,1.0,3.0,away_win,4231,0,,win
+3890386,Hamburger SV,618,20,1.124661745,199,19,65,45,20,12,14,0,2207,0,2,home,2015-12-05,Germany - 1. Bundesliga,2015/2016,Hamburger SV,FSV Mainz 05,1.0,3.0,away_win,4231,2,4231.0,loss
+3890387,Bayern Munich,626,22,2.068263424,121,13,67,37,6,7,16,0,2070,0,2,away,2015-12-05,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Bayern Munich,3.0,1.0,home_win,433,3,4231.0,loss
+3890387,Borussia Mönchengladbach,412,13,1.703955633,209,14,44,40,12,16,46,0,1645,0,1,home,2015-12-05,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Bayern Munich,3.0,1.0,home_win,352,1,352.0,win
+3890388,Borussia Dortmund,391,14,2.419492207,178,17,48,44,9,6,30,0,1514,0,2,away,2015-12-05,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Borussia Dortmund,1.0,2.0,away_win,433,2,4141.0,win
+3890388,Wolfsburg,518,22,1.8650943500000001,105,16,58,31,16,15,22,0,1823,0,3,home,2015-12-05,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Borussia Dortmund,1.0,2.0,away_win,442,3,4141.0,loss
+3890389,Hoffenheim,485,6,0.8490158215000001,173,23,55,57,16,7,26,0,1785,0,1,away,2015-12-05,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Hoffenheim,1.0,1.0,draw,4411,2,4411.0,draw
+3890389,Ingolstadt,509,10,0.46192372,182,12,75,64,16,10,37,0,1870,0,2,home,2015-12-05,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Hoffenheim,1.0,1.0,draw,433,2,433.0,draw
+3890390,Bayer Leverkusen,455,7,0.968737909,230,16,51,38,18,11,14,0,1733,1,3,away,2015-12-05,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Bayer Leverkusen,2.0,1.0,home_win,4231,1,4411.0,loss
+3890390,Hertha Berlin,643,10,1.0117748467,197,19,55,36,21,6,14,0,2297,0,1,home,2015-12-05,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Bayer Leverkusen,2.0,1.0,home_win,442,2,442.0,win
+3890391,Augsburg,408,22,1.837166461,123,18,61,34,12,10,28,0,1551,0,4,away,2015-12-05,Germany - 1. Bundesliga,2015/2016,FC Köln,Augsburg,0.0,1.0,away_win,4231,2,4231.0,win
+3890391,FC Köln,430,22,2.273560491,169,19,53,45,13,5,16,0,1624,0,2,home,2015-12-05,Germany - 1. Bundesliga,2015/2016,FC Köln,Augsburg,0.0,1.0,away_win,442,2,442.0,loss
+3890392,VfB Stuttgart,511,11,1.1219057399999999,175,20,62,42,16,5,31,0,1829,0,2,home,2015-12-06,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Werder Bremen,1.0,1.0,draw,4141,0,,draw
+3890392,Werder Bremen,356,7,0.8722311036999999,145,17,48,35,12,15,35,0,1406,0,2,away,2015-12-06,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Werder Bremen,1.0,1.0,draw,4141,2,4411.0,draw
+3890393,Darmstadt 98,272,19,1.645993712,162,9,69,51,9,9,37,0,1175,0,3,away,2015-12-06,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Darmstadt 98,0.0,1.0,away_win,442,1,442.0,win
+3890393,Eintracht Frankfurt,573,15,1.180839611,122,20,61,56,17,7,35,0,2017,0,4,home,2015-12-06,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Darmstadt 98,0.0,1.0,away_win,433,1,4231.0,loss
+3890394,FSV Mainz 05,581,6,0.48930428400000003,257,13,64,57,29,11,27,0,2125,0,1,home,2015-12-11,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,VfB Stuttgart,0.0,0.0,draw,4231,0,,draw
+3890394,VfB Stuttgart,466,11,0.891664884,239,12,66,44,28,15,36,0,1762,0,1,away,2015-12-11,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,VfB Stuttgart,0.0,0.0,draw,4231,1,4231.0,draw
+3890395,Bayer Leverkusen,431,14,2.3223654254,208,14,84,45,21,19,26,0,1754,0,0,home,2015-12-12,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Borussia Mönchengladbach,5.0,0.0,home_win,442,1,442.0,win
+3890395,Borussia Mönchengladbach,504,6,0.438206183,195,20,44,57,21,12,26,0,1857,0,2,away,2015-12-12,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Borussia Mönchengladbach,5.0,0.0,home_win,352,1,3412.0,loss
+3890396,Hamburger SV,371,5,0.48342219880000004,285,23,56,45,16,10,42,0,1649,0,4,away,2015-12-12,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Hamburger SV,1.0,1.0,draw,4231,1,442.0,draw
+3890396,Wolfsburg,610,20,1.7809960455,157,16,64,58,27,6,19,0,2125,0,1,home,2015-12-12,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Hamburger SV,1.0,1.0,draw,4141,4,442.0,draw
+3890397,Hannover 96,499,19,1.4567732310000001,129,21,50,29,21,11,25,0,1757,0,3,away,2015-12-12,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Hannover 96,1.0,0.0,home_win,4231,3,4231.0,loss
+3890397,Hoffenheim,405,14,1.3787730426,177,18,50,41,11,17,34,0,1579,0,1,home,2015-12-12,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Hannover 96,1.0,0.0,home_win,4411,4,4411.0,win
+3890398,Darmstadt 98,299,10,0.524888686,203,21,37,52,9,15,32,0,1238,0,4,home,2015-12-12,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Hertha Berlin,0.0,4.0,away_win,4411,2,4411.0,loss
+3890398,Hertha Berlin,586,9,1.9312101899999998,126,14,41,41,15,9,32,0,2009,0,1,away,2015-12-12,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Hertha Berlin,0.0,4.0,away_win,4231,2,4231.0,win
+3890399,Bayern Munich,687,14,1.309472143,164,16,47,36,26,12,5,0,2310,0,2,home,2015-12-12,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Ingolstadt,2.0,0.0,home_win,4141,5,4141.0,win
+3890399,Ingolstadt,339,9,0.919283019,297,26,44,38,19,14,24,0,1439,0,1,away,2015-12-12,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Ingolstadt,2.0,0.0,home_win,4141,3,4141.0,loss
+3890400,FC Köln,586,12,1.26381201,195,14,50,39,14,8,30,0,2073,0,2,away,2015-12-12,Germany - 1. Bundesliga,2015/2016,Werder Bremen,FC Köln,1.0,1.0,draw,4231,2,343.0,draw
+3890400,Werder Bremen,416,10,1.4364467506,201,21,72,53,15,12,31,0,1662,0,3,home,2015-12-12,Germany - 1. Bundesliga,2015/2016,Werder Bremen,FC Köln,1.0,1.0,draw,4141,2,442.0,draw
+3890401,Borussia Dortmund,894,24,5.312835326,110,5,58,18,14,4,8,0,2771,0,0,home,2015-12-13,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Eintracht Frankfurt,4.0,1.0,home_win,433,3,433.0,win
+3890401,Eintracht Frankfurt,278,3,0.185625018,201,4,33,24,10,14,35,0,1118,1,1,away,2015-12-13,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Eintracht Frankfurt,4.0,1.0,home_win,4141,3,3511.0,loss
+3890402,Augsburg,379,22,1.0337153909999999,175,17,53,33,7,5,12,0,1439,0,2,home,2015-12-13,Germany - 1. Bundesliga,2015/2016,Augsburg,Schalke 04,2.0,1.0,home_win,4231,1,4231.0,win
+3890402,Schalke 04,511,15,1.222542135,146,18,43,38,18,11,29,0,1821,0,1,away,2015-12-13,Germany - 1. Bundesliga,2015/2016,Augsburg,Schalke 04,2.0,1.0,home_win,4231,1,4231.0,loss
+3890403,Hoffenheim,537,18,0.893999794,140,12,48,37,18,8,12,0,1845,0,2,away,2015-12-18,Germany - 1. Bundesliga,2015/2016,Schalke 04,Hoffenheim,1.0,0.0,home_win,4411,1,4411.0,loss
+3890403,Schalke 04,521,16,0.986242568,214,14,52,27,13,12,12,0,1922,0,1,home,2015-12-18,Germany - 1. Bundesliga,2015/2016,Schalke 04,Hoffenheim,1.0,0.0,home_win,442,1,433.0,win
+3890404,Augsburg,407,17,1.846175811,175,17,45,38,12,7,31,0,1524,0,2,away,2015-12-19,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Augsburg,0.0,1.0,away_win,4231,2,4231.0,win
+3890404,Hamburger SV,506,14,1.110670875,152,16,53,44,6,5,36,0,1783,0,0,home,2015-12-19,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Augsburg,0.0,1.0,away_win,4231,3,41212.0,loss
+3890405,Eintracht Frankfurt,426,16,2.141788278,196,17,58,59,11,12,27,0,1556,0,3,home,2015-12-19,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Werder Bremen,2.0,1.0,home_win,442,0,,win
+3890405,Werder Bremen,395,11,1.082900845,184,21,61,45,15,7,31,0,1446,0,5,away,2015-12-19,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Werder Bremen,2.0,1.0,home_win,442,2,442.0,loss
+3890406,Borussia Dortmund,664,14,0.5573932084000001,149,15,56,40,16,4,26,0,2245,0,1,away,2015-12-19,Germany - 1. Bundesliga,2015/2016,FC Köln,Borussia Dortmund,2.0,1.0,home_win,4231,0,,loss
+3890406,FC Köln,302,14,0.8817776663,231,21,48,44,17,18,32,0,1304,0,3,home,2015-12-19,Germany - 1. Bundesliga,2015/2016,FC Köln,Borussia Dortmund,2.0,1.0,home_win,352,2,343.0,win
+3890407,Bayern Munich,883,20,2.7342647326,110,11,40,41,20,6,16,0,2800,0,0,away,2015-12-19,Germany - 1. Bundesliga,2015/2016,Hannover 96,Bayern Munich,0.0,1.0,away_win,352,3,4231.0,win
+3890407,Hannover 96,235,6,0.3878381913,200,12,42,43,11,14,32,0,1051,0,0,home,2015-12-19,Germany - 1. Bundesliga,2015/2016,Hannover 96,Bayern Munich,0.0,1.0,away_win,4231,4,4231.0,loss
+3890408,VfB Stuttgart,264,9,1.459546435,193,8,42,30,10,9,26,0,1134,1,2,home,2015-12-19,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Wolfsburg,3.0,1.0,home_win,4231,2,4411.0,win
+3890408,Wolfsburg,745,17,1.4277417955,102,10,60,27,18,5,5,0,2409,0,1,away,2015-12-19,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Wolfsburg,3.0,1.0,home_win,4231,4,3421.0,loss
+3890409,Bayer Leverkusen,371,9,0.76858379,143,18,66,52,16,12,55,0,1423,0,3,away,2015-12-19,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Bayer Leverkusen,0.0,1.0,away_win,442,1,442.0,win
+3890409,Ingolstadt,427,12,0.7343143870000001,182,15,52,55,11,11,24,0,1512,0,2,home,2015-12-19,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Bayer Leverkusen,0.0,1.0,away_win,433,2,433.0,loss
+3890410,Borussia Mönchengladbach,507,13,1.0513833644,112,13,48,37,16,7,32,0,1782,1,1,home,2015-12-20,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Darmstadt 98,3.0,2.0,home_win,442,3,4411.0,win
+3890410,Darmstadt 98,365,15,1.868356351,159,24,53,39,6,15,13,0,1397,0,4,away,2015-12-20,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Darmstadt 98,3.0,2.0,home_win,4231,3,442.0,loss
+3890411,FSV Mainz 05,419,5,0.21639449800000002,220,13,35,35,12,10,24,0,1557,0,0,away,2015-12-20,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,FSV Mainz 05,2.0,0.0,home_win,442,1,4231.0,loss
+3890411,Hertha Berlin,638,7,1.399013439,156,14,44,35,15,7,12,0,2115,0,0,home,2015-12-20,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,FSV Mainz 05,2.0,0.0,home_win,4231,2,4231.0,win
+3890412,Bayern Munich,622,19,2.5020951279999997,138,11,40,38,16,8,7,0,2125,0,2,away,2016-01-22,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Bayern Munich,1.0,2.0,away_win,433,1,433.0,win
+3890412,Hamburger SV,265,7,0.346461366,247,23,51,62,7,12,24,0,1213,0,4,home,2016-01-22,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Bayern Munich,1.0,2.0,away_win,4231,0,,loss
+3890413,FC Köln,550,15,1.6736286325,179,11,51,34,13,9,17,0,1915,0,0,home,2016-01-23,Germany - 1. Bundesliga,2015/2016,FC Köln,VfB Stuttgart,1.0,3.0,away_win,442,1,4231.0,loss
+3890413,VfB Stuttgart,474,16,2.463091034,191,16,54,33,15,11,21,0,1777,0,1,away,2016-01-23,Germany - 1. Bundesliga,2015/2016,FC Köln,VfB Stuttgart,1.0,3.0,away_win,41212,0,,win
+3890414,Augsburg,359,12,1.028549352,198,23,48,28,14,4,18,0,1410,0,3,away,2016-01-23,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Augsburg,0.0,0.0,draw,4231,0,,draw
+3890414,Hertha Berlin,643,12,0.766690885,154,16,42,35,16,7,14,0,2179,0,2,home,2016-01-23,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Augsburg,0.0,0.0,draw,4231,2,4231.0,draw
+3890415,Bayer Leverkusen,607,17,2.01279595,160,15,68,34,15,9,15,0,2099,0,2,away,2016-01-23,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Bayer Leverkusen,1.0,1.0,draw,442,0,,draw
+3890415,Hoffenheim,360,5,1.155050181,192,16,44,48,13,11,19,0,1383,0,2,home,2016-01-23,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Bayer Leverkusen,1.0,1.0,draw,4231,0,,draw
+3890416,FSV Mainz 05,557,6,0.37698696600000003,138,18,60,51,15,13,18,0,1951,0,2,away,2016-01-23,Germany - 1. Bundesliga,2015/2016,Ingolstadt,FSV Mainz 05,1.0,0.0,home_win,4231,0,,loss
+3890416,Ingolstadt,355,9,1.681270719,274,24,40,48,8,10,24,0,1439,0,2,home,2016-01-23,Germany - 1. Bundesliga,2015/2016,Ingolstadt,FSV Mainz 05,1.0,0.0,home_win,433,2,433.0,win
+3890417,Borussia Dortmund,534,12,1.60606172,216,10,57,39,24,16,19,0,1962,0,1,away,2016-01-23,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Borussia Dortmund,1.0,3.0,away_win,433,2,433.0,win
+3890417,Borussia Mönchengladbach,552,10,0.834728692,199,12,59,50,15,4,18,0,1918,0,1,home,2016-01-23,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Borussia Dortmund,1.0,3.0,away_win,442,2,442.0,loss
+3890418,Darmstadt 98,280,13,2.3364409454,199,21,56,62,11,5,38,0,1201,0,5,away,2016-01-23,Germany - 1. Bundesliga,2015/2016,Hannover 96,Darmstadt 98,1.0,2.0,away_win,4231,0,,win
+3890418,Hannover 96,588,13,1.004659009,119,13,55,38,18,9,36,0,2033,0,2,home,2016-01-23,Germany - 1. Bundesliga,2015/2016,Hannover 96,Darmstadt 98,1.0,2.0,away_win,41212,2,41212.0,loss
+3890419,Schalke 04,585,19,1.9346213015,148,15,42,46,28,10,17,0,2026,0,1,home,2016-01-24,Germany - 1. Bundesliga,2015/2016,Schalke 04,Werder Bremen,1.0,3.0,away_win,4231,1,442.0,loss
+3890419,Werder Bremen,365,17,1.515445052,173,13,50,54,17,11,30,0,1453,0,3,away,2016-01-24,Germany - 1. Bundesliga,2015/2016,Schalke 04,Werder Bremen,1.0,3.0,away_win,442,0,,win
+3890420,Eintracht Frankfurt,421,12,0.808233983,182,16,67,43,12,11,33,0,1653,0,2,home,2016-01-24,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Wolfsburg,3.0,2.0,home_win,442,1,4231.0,win
+3890420,Wolfsburg,565,18,2.062849559,139,22,56,42,14,14,34,0,2033,0,0,away,2016-01-24,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Wolfsburg,3.0,2.0,home_win,442,1,442.0,loss
+3890421,Borussia Mönchengladbach,709,13,1.686870796,184,13,59,41,22,9,19,0,2430,0,2,away,2016-01-29,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Borussia Mönchengladbach,1.0,0.0,home_win,4141,2,4141.0,loss
+3890421,FSV Mainz 05,432,13,0.84416991,282,16,54,39,10,12,15,0,1691,0,0,home,2016-01-29,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Borussia Mönchengladbach,1.0,0.0,home_win,442,0,,win
+3890422,Borussia Dortmund,588,10,1.813851283,114,15,55,43,14,8,31,0,1947,0,4,home,2016-01-30,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Ingolstadt,2.0,0.0,home_win,4231,2,433.0,win
+3890422,Ingolstadt,287,5,0.181449566,197,21,43,65,9,19,38,0,1213,0,2,away,2016-01-30,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Ingolstadt,2.0,0.0,home_win,433,0,,loss
+3890423,Hamburger SV,494,12,1.36792936,172,13,54,50,21,10,29,0,1828,0,3,away,2016-01-30,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Hamburger SV,2.0,1.0,home_win,4231,2,442.0,loss
+3890423,VfB Stuttgart,411,25,2.386916929,190,14,74,45,23,10,15,0,1646,0,1,home,2016-01-30,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Hamburger SV,2.0,1.0,home_win,4141,2,442.0,win
+3890424,Darmstadt 98,286,6,0.15592461999999999,183,14,40,43,7,10,17,0,1108,0,3,home,2016-01-30,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Schalke 04,0.0,2.0,away_win,4411,2,4231.0,loss
+3890424,Schalke 04,440,11,1.181626191,86,21,59,45,17,7,48,0,1548,0,2,away,2016-01-30,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Schalke 04,0.0,2.0,away_win,4231,0,,win
+3890425,Hertha Berlin,460,11,0.833376599,147,18,55,49,16,8,27,0,1725,0,3,away,2016-01-30,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Hertha Berlin,3.0,3.0,draw,4231,2,442.0,draw
+3890425,Werder Bremen,484,16,2.648970133,166,22,73,46,23,10,12,0,1828,0,3,home,2016-01-30,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Hertha Berlin,3.0,3.0,draw,442,1,41212.0,draw
+3890426,Augsburg,435,7,0.579204896,183,18,41,57,7,9,19,0,1585,0,2,home,2016-01-30,Germany - 1. Bundesliga,2015/2016,Augsburg,Eintracht Frankfurt,0.0,0.0,draw,4231,1,4231.0,draw
+3890426,Eintracht Frankfurt,449,12,1.304352476,138,10,54,46,20,8,21,0,1583,0,2,away,2016-01-30,Germany - 1. Bundesliga,2015/2016,Augsburg,Eintracht Frankfurt,0.0,0.0,draw,4231,0,,draw
+3890427,Bayer Leverkusen,503,14,1.907045119,163,11,75,41,24,13,18,0,1855,0,0,home,2016-01-30,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Hannover 96,3.0,0.0,home_win,442,1,442.0,win
+3890427,Hannover 96,363,7,0.203165896,204,25,54,51,11,10,33,0,1439,0,3,away,2016-01-30,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Hannover 96,3.0,0.0,home_win,41212,1,41212.0,loss
+3890428,Bayern Munich,827,30,2.9537803736,143,11,46,23,23,9,11,0,2745,0,1,home,2016-01-31,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Hoffenheim,2.0,0.0,home_win,4141,1,4141.0,win
+3890428,Hoffenheim,291,5,0.5755142400000001,204,14,39,38,12,16,26,0,1225,0,1,away,2016-01-31,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Hoffenheim,2.0,0.0,home_win,4231,1,4231.0,loss
+3890429,FC Köln,339,11,0.8591617811,223,11,43,41,9,17,26,0,1365,0,1,away,2016-01-31,Germany - 1. Bundesliga,2015/2016,Wolfsburg,FC Köln,1.0,1.0,draw,4231,2,352.0,draw
+3890429,Wolfsburg,695,17,1.602881947,116,13,57,35,17,6,14,0,2263,0,3,home,2016-01-31,Germany - 1. Bundesliga,2015/2016,Wolfsburg,FC Köln,1.0,1.0,draw,442,1,442.0,draw
+3890430,Borussia Mönchengladbach,411,18,3.3578564749999997,197,15,50,46,16,6,17,0,1577,0,1,home,2016-02-05,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Werder Bremen,5.0,1.0,home_win,442,1,442.0,win
+3890430,Werder Bremen,458,15,1.958161639,159,16,74,41,22,6,13,0,1709,0,2,away,2016-02-05,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Werder Bremen,5.0,1.0,home_win,442,3,442.0,loss
+3890431,Bayer Leverkusen,316,6,0.286842782,247,23,62,46,17,11,16,0,1343,0,0,home,2016-02-06,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Bayern Munich,0.0,0.0,draw,442,2,4231.0,draw
+3890431,Bayern Munich,532,9,0.860405002,146,13,41,45,25,4,22,0,1844,1,1,away,2016-02-06,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Bayern Munich,0.0,0.0,draw,4231,2,4231.0,draw
+3890432,Schalke 04,361,15,0.621451985,121,17,54,36,20,7,20,0,1361,0,2,home,2016-02-06,Germany - 1. Bundesliga,2015/2016,Schalke 04,Wolfsburg,3.0,0.0,home_win,4231,0,,win
+3890432,Wolfsburg,522,14,0.740058013,186,15,62,27,20,8,19,0,1919,0,3,away,2016-02-06,Germany - 1. Bundesliga,2015/2016,Schalke 04,Wolfsburg,3.0,0.0,home_win,4141,3,4231.0,loss
+3890433,Eintracht Frankfurt,641,17,1.8477894196,169,11,51,24,18,10,14,0,2171,1,2,home,2016-02-06,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,VfB Stuttgart,2.0,4.0,away_win,4231,2,4231.0,loss
+3890433,VfB Stuttgart,463,16,3.4669098995,205,16,42,33,14,11,16,0,1719,1,2,away,2016-02-06,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,VfB Stuttgart,2.0,4.0,away_win,4141,2,4141.0,win
+3890434,FSV Mainz 05,461,14,0.961633361,202,13,64,60,23,22,39,0,1770,0,2,away,2016-02-06,Germany - 1. Bundesliga,2015/2016,Hannover 96,FSV Mainz 05,0.0,1.0,away_win,4231,2,4231.0,win
+3890434,Hannover 96,598,8,0.567861826,242,21,58,61,8,13,20,0,2036,0,1,home,2016-02-06,Germany - 1. Bundesliga,2015/2016,Hannover 96,FSV Mainz 05,0.0,1.0,away_win,41212,1,41212.0,loss
+3890435,Borussia Dortmund,723,10,0.485543955,166,16,48,34,22,11,11,0,2436,0,2,away,2016-02-06,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Borussia Dortmund,0.0,0.0,draw,433,4,4231.0,draw
+3890435,Hertha Berlin,363,10,0.7045480089999999,170,13,45,42,24,21,12,0,1406,0,0,home,2016-02-06,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Borussia Dortmund,0.0,0.0,draw,4411,3,4411.0,draw
+3890436,Augsburg,453,7,0.235179726,166,26,57,50,12,7,41,0,1661,0,3,away,2016-02-06,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Augsburg,2.0,1.0,home_win,4231,1,4231.0,loss
+3890436,Ingolstadt,345,24,2.531783054,201,20,66,70,16,7,24,0,1417,0,2,home,2016-02-06,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Augsburg,2.0,1.0,home_win,433,0,,win
+3890437,Darmstadt 98,304,9,1.209874263,225,18,50,37,11,12,41,0,1263,0,3,away,2016-02-07,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Darmstadt 98,0.0,2.0,away_win,4411,0,,win
+3890437,Hoffenheim,663,11,0.610539911,147,18,54,48,25,9,13,0,2280,0,1,home,2016-02-07,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Darmstadt 98,0.0,2.0,away_win,4231,2,352.0,loss
+3890438,FC Köln,434,18,1.0356975935,166,6,41,45,6,9,19,0,1523,0,2,away,2016-02-07,Germany - 1. Bundesliga,2015/2016,Hamburger SV,FC Köln,1.0,1.0,draw,343,0,,draw
+3890438,Hamburger SV,543,5,0.26248339,148,18,43,41,16,8,25,0,1825,0,5,home,2016-02-07,Germany - 1. Bundesliga,2015/2016,Hamburger SV,FC Köln,1.0,1.0,draw,4231,0,,draw
+3890439,FSV Mainz 05,414,11,0.600904138,177,9,58,48,15,11,26,0,1615,0,3,home,2016-02-12,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Schalke 04,2.0,1.0,home_win,4231,0,,win
+3890439,Schalke 04,542,14,1.186978927,176,18,53,50,17,3,14,0,1921,0,1,away,2016-02-12,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Schalke 04,2.0,1.0,home_win,4231,1,352.0,loss
+3890440,Eintracht Frankfurt,558,14,0.731285223,122,21,50,38,10,8,19,0,1883,0,6,away,2016-02-13,Germany - 1. Bundesliga,2015/2016,FC Köln,Eintracht Frankfurt,3.0,1.0,home_win,4141,1,442.0,loss
+3890440,FC Köln,448,11,2.1355946775,145,17,35,24,9,13,29,0,1554,0,2,home,2016-02-13,Germany - 1. Bundesliga,2015/2016,FC Köln,Eintracht Frankfurt,3.0,1.0,home_win,3421,4,4411.0,win
+3890441,Hertha Berlin,526,7,0.647517208,167,15,32,40,13,10,18,0,1778,0,3,away,2016-02-13,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Hertha Berlin,2.0,0.0,home_win,4411,1,442.0,loss
+3890441,VfB Stuttgart,519,15,1.204342209,172,12,48,25,20,5,8,0,1870,0,3,home,2016-02-13,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Hertha Berlin,2.0,0.0,home_win,4141,1,4141.0,win
+3890442,Borussia Dortmund,843,13,1.182692295,166,14,60,38,14,12,13,0,2801,0,1,home,2016-02-13,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Hannover 96,1.0,0.0,home_win,433,2,433.0,win
+3890442,Hannover 96,343,5,0.250007443,218,10,53,32,18,18,36,0,1404,0,1,away,2016-02-13,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Hannover 96,1.0,0.0,home_win,4141,1,4141.0,loss
+3890443,Hoffenheim,463,11,0.5368956266,201,21,62,57,21,13,40,0,1770,1,4,away,2016-02-13,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Hoffenheim,1.0,1.0,draw,3412,3,4411.0,draw
+3890443,Werder Bremen,466,16,1.621217185,173,15,58,39,20,18,15,0,1729,0,1,home,2016-02-13,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Hoffenheim,1.0,1.0,draw,4141,1,4231.0,draw
+3890444,Bayer Leverkusen,421,13,1.433295591,124,18,53,47,21,4,31,0,1558,0,3,away,2016-02-13,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Bayer Leverkusen,1.0,2.0,away_win,442,1,4222.0,win
+3890444,Darmstadt 98,278,14,1.337297468,192,24,46,63,7,12,28,0,1177,0,6,home,2016-02-13,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Bayer Leverkusen,1.0,2.0,away_win,4411,1,442.0,loss
+3890445,Ingolstadt,432,11,0.609674344,176,17,56,58,8,14,25,0,1604,0,0,away,2016-02-13,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Ingolstadt,2.0,0.0,home_win,433,0,,loss
+3890445,Wolfsburg,441,8,1.514239802,158,19,61,44,12,4,29,0,1587,0,0,home,2016-02-13,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Ingolstadt,2.0,0.0,home_win,4231,0,,win
+3890446,Augsburg,348,6,0.46570843700000003,165,14,47,35,6,12,16,0,1341,0,0,home,2016-02-14,Germany - 1. Bundesliga,2015/2016,Augsburg,Bayern Munich,1.0,3.0,away_win,4231,2,4231.0,loss
+3890446,Bayern Munich,798,24,1.823597735,101,11,53,26,17,4,6,0,2537,0,1,away,2016-02-14,Germany - 1. Bundesliga,2015/2016,Augsburg,Bayern Munich,1.0,3.0,away_win,4141,1,4141.0,win
+3890447,Borussia Mönchengladbach,587,11,1.524287399,191,8,62,50,20,13,35,0,2042,0,1,away,2016-02-14,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Borussia Mönchengladbach,3.0,2.0,home_win,442,2,442.0,loss
+3890447,Hamburger SV,439,17,2.153361425,221,17,76,49,16,16,30,0,1719,0,3,home,2016-02-14,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Borussia Mönchengladbach,3.0,2.0,home_win,4231,3,4231.0,win
+3890448,Eintracht Frankfurt,464,8,0.386111336,164,13,59,43,17,4,26,0,1688,0,2,home,2016-02-19,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Hamburger SV,0.0,0.0,draw,4231,2,4231.0,draw
+3890448,Hamburger SV,520,11,0.935656193,141,24,55,54,16,10,16,0,1862,0,3,away,2016-02-19,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Hamburger SV,0.0,0.0,draw,4231,2,4231.0,draw
+3890449,Ingolstadt,346,9,2.1108278187,181,15,52,57,4,6,41,0,1312,0,2,home,2016-02-20,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Werder Bremen,2.0,0.0,home_win,433,1,433.0,win
+3890449,Werder Bremen,445,12,0.7402050722,132,23,51,56,12,16,32,0,1540,0,2,away,2016-02-20,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Werder Bremen,2.0,0.0,home_win,4231,2,41212.0,loss
+3890450,Borussia Mönchengladbach,580,17,1.1361680695,152,21,66,46,18,6,19,0,1974,0,2,home,2016-02-20,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,FC Köln,1.0,0.0,home_win,442,1,442.0,win
+3890450,FC Köln,445,11,0.538896528,213,23,49,44,16,6,15,0,1637,0,3,away,2016-02-20,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,FC Köln,1.0,0.0,home_win,4231,2,442.0,loss
+3890451,Hertha Berlin,416,9,0.9771944810000001,138,17,48,34,11,6,24,0,1512,0,3,home,2016-02-20,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Wolfsburg,1.0,1.0,draw,442,0,,draw
+3890451,Wolfsburg,458,13,0.9988436427,110,17,44,32,7,10,18,0,1567,0,2,away,2016-02-20,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Wolfsburg,1.0,1.0,draw,442,1,442.0,draw
+3890452,FSV Mainz 05,494,13,1.160692565,189,17,48,27,15,17,19,0,1822,0,2,away,2016-02-20,Germany - 1. Bundesliga,2015/2016,Hoffenheim,FSV Mainz 05,3.0,2.0,home_win,442,2,3511.0,loss
+3890452,Hoffenheim,467,13,1.615278598,138,10,39,31,24,20,22,0,1696,0,1,home,2016-02-20,Germany - 1. Bundesliga,2015/2016,Hoffenheim,FSV Mainz 05,3.0,2.0,home_win,433,1,4231.0,win
+3890453,Bayern Munich,831,35,3.3639945344999997,70,13,56,22,19,7,12,0,2704,0,2,home,2016-02-20,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Darmstadt 98,3.0,1.0,home_win,4141,1,4141.0,win
+3890453,Darmstadt 98,216,6,0.437312073,153,14,39,40,8,18,27,0,978,0,0,away,2016-02-20,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Darmstadt 98,3.0,1.0,home_win,4411,1,4411.0,loss
+3890454,Augsburg,503,11,0.825534928,167,19,53,50,24,10,27,0,1855,0,2,away,2016-02-21,Germany - 1. Bundesliga,2015/2016,Hannover 96,Augsburg,0.0,1.0,away_win,4231,3,4231.0,win
+3890454,Hannover 96,492,16,0.586642335,183,14,68,50,9,11,9,0,1780,0,2,home,2016-02-21,Germany - 1. Bundesliga,2015/2016,Hannover 96,Augsburg,0.0,1.0,away_win,4141,2,41212.0,loss
+3890455,Schalke 04,393,15,1.318817094,152,17,40,31,19,8,38,0,1471,0,3,home,2016-02-21,Germany - 1. Bundesliga,2015/2016,Schalke 04,VfB Stuttgart,1.0,1.0,draw,4231,2,4231.0,draw
+3890455,VfB Stuttgart,489,18,1.9537566802,150,17,43,47,10,7,23,0,1700,0,1,away,2016-02-21,Germany - 1. Bundesliga,2015/2016,Schalke 04,VfB Stuttgart,1.0,1.0,draw,4141,1,41212.0,draw
+3890456,Bayer Leverkusen,462,9,0.6232203735,175,20,55,48,13,11,13,0,1694,0,5,home,2016-02-21,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Borussia Dortmund,0.0,1.0,away_win,442,0,,loss
+3890456,Borussia Dortmund,433,6,1.644813587,193,12,46,43,16,13,33,0,1641,0,1,away,2016-02-21,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Borussia Dortmund,0.0,1.0,away_win,433,0,,win
+3890457,FC Köln,445,14,0.875179232,199,16,42,54,11,5,32,0,1653,0,2,home,2016-02-26,Germany - 1. Bundesliga,2015/2016,FC Köln,Hertha Berlin,0.0,1.0,away_win,3421,2,442.0,loss
+3890457,Hertha Berlin,524,11,0.889824759,151,12,55,46,21,7,24,0,1805,0,2,away,2016-02-26,Germany - 1. Bundesliga,2015/2016,FC Köln,Hertha Berlin,0.0,1.0,away_win,442,1,442.0,win
+3890458,Bayern Munich,767,14,1.060078521,165,11,54,28,24,5,5,0,2556,0,1,away,2016-02-27,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Bayern Munich,0.0,2.0,away_win,4141,2,4141.0,win
+3890458,Wolfsburg,371,12,0.994515894,197,11,44,33,13,7,18,0,1429,0,0,home,2016-02-27,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Bayern Munich,0.0,2.0,away_win,4231,2,4231.0,loss
+3890459,Darmstadt 98,266,8,1.338580678,188,25,45,75,12,13,38,0,1181,0,3,away,2016-02-27,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Darmstadt 98,2.0,2.0,draw,4231,0,,draw
+3890459,Werder Bremen,470,15,1.8587255087,103,24,55,60,19,12,42,0,1698,0,3,home,2016-02-27,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Darmstadt 98,2.0,2.0,draw,41212,0,,draw
+3890460,Hannover 96,402,12,1.362854015,178,12,38,37,17,9,42,0,1511,0,3,away,2016-02-27,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Hannover 96,1.0,2.0,away_win,442,0,,win
+3890460,VfB Stuttgart,583,22,2.873978539,206,17,56,34,18,13,22,0,2033,0,1,home,2016-02-27,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Hannover 96,1.0,2.0,away_win,4141,1,41212.0,loss
+3890461,Hamburger SV,411,7,0.881534418,166,19,53,69,10,7,23,0,1483,0,3,home,2016-02-27,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Ingolstadt,1.0,1.0,draw,4231,2,4231.0,draw
+3890461,Ingolstadt,409,12,0.671265281,166,14,58,55,13,8,22,0,1489,0,5,away,2016-02-27,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Ingolstadt,1.0,1.0,draw,433,0,,draw
+3890462,Augsburg,533,24,1.654786174,162,18,57,40,10,9,26,0,1909,0,0,home,2016-02-28,Germany - 1. Bundesliga,2015/2016,Augsburg,Borussia Mönchengladbach,2.0,2.0,draw,4231,0,,draw
+3890462,Borussia Mönchengladbach,587,9,1.778186615,187,11,49,31,14,9,38,0,2091,0,0,away,2016-02-28,Germany - 1. Bundesliga,2015/2016,Augsburg,Borussia Mönchengladbach,2.0,2.0,draw,442,2,442.0,draw
+3890463,Bayer Leverkusen,507,12,0.8494687786,220,17,62,50,28,15,31,0,1922,0,1,away,2016-02-28,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Bayer Leverkusen,3.0,1.0,home_win,4231,1,4231.0,loss
+3890463,FSV Mainz 05,373,14,2.314230261,215,18,41,60,16,13,30,0,1485,0,1,home,2016-02-28,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Bayer Leverkusen,3.0,1.0,home_win,4411,0,,win
+3890464,Borussia Dortmund,871,26,2.8029310845,144,8,62,33,18,7,21,0,2880,0,0,home,2016-02-28,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Hoffenheim,3.0,1.0,home_win,4231,2,3412.0,win
+3890464,Hoffenheim,285,9,0.947075938,237,12,40,28,12,10,33,0,1233,1,0,away,2016-02-28,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Hoffenheim,3.0,1.0,home_win,3412,1,3412.0,loss
+3890465,Eintracht Frankfurt,476,11,0.7363226857,201,14,53,42,8,12,18,0,1765,0,1,home,2016-02-28,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Schalke 04,0.0,0.0,draw,41212,2,41212.0,draw
+3890465,Schalke 04,550,6,0.217166361,148,13,53,42,13,11,33,0,1872,0,2,away,2016-02-28,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Schalke 04,0.0,0.0,draw,4231,1,4231.0,draw
+3890466,Hannover 96,476,6,0.44722426860000003,196,6,37,20,9,11,16,0,1665,0,2,home,2016-03-01,Germany - 1. Bundesliga,2015/2016,Hannover 96,Wolfsburg,0.0,4.0,away_win,442,1,442.0,loss
+3890466,Wolfsburg,829,23,3.519793648,160,9,53,22,11,9,13,0,2725,0,1,away,2016-03-01,Germany - 1. Bundesliga,2015/2016,Hannover 96,Wolfsburg,0.0,4.0,away_win,41212,3,4411.0,win
+3890467,FC Köln,401,8,0.763117738,225,19,45,65,14,2,51,0,1568,0,1,away,2016-03-01,Germany - 1. Bundesliga,2015/2016,Ingolstadt,FC Köln,1.0,1.0,draw,4231,3,442.0,draw
+3890467,Ingolstadt,487,14,0.8318088699999999,147,15,60,59,25,8,22,0,1729,0,2,home,2016-03-01,Germany - 1. Bundesliga,2015/2016,Ingolstadt,FC Köln,1.0,1.0,draw,433,4,433.0,draw
+3890468,Borussia Dortmund,685,13,2.660476681,181,16,73,40,27,11,26,0,2360,0,1,away,2016-03-02,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Borussia Dortmund,0.0,2.0,away_win,41212,0,,win
+3890468,Darmstadt 98,327,5,0.5215533419999999,208,14,56,42,3,12,20,0,1264,0,0,home,2016-03-02,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Borussia Dortmund,0.0,2.0,away_win,4411,1,4411.0,loss
+3890469,Augsburg,486,14,1.71559913,146,17,52,37,15,15,26,0,1727,0,4,away,2016-03-02,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Augsburg,2.0,1.0,home_win,4231,0,,loss
+3890469,Hoffenheim,518,14,1.663747504,174,9,57,25,15,9,29,0,1857,0,2,home,2016-03-02,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Augsburg,2.0,1.0,home_win,433,1,3412.0,win
+3890470,Eintracht Frankfurt,509,11,0.3675600064,153,17,62,67,14,9,10,0,1775,0,2,away,2016-03-02,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Eintracht Frankfurt,2.0,0.0,home_win,4231,1,4231.0,loss
+3890470,Hertha Berlin,493,12,1.500296063,177,18,54,39,13,2,37,0,1789,0,3,home,2016-03-02,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Eintracht Frankfurt,2.0,0.0,home_win,442,4,4411.0,win
+3890471,Borussia Mönchengladbach,596,14,2.4388732237,149,8,58,36,20,10,25,0,1987,0,1,home,2016-03-02,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,VfB Stuttgart,4.0,0.0,home_win,3412,2,3412.0,win
+3890471,VfB Stuttgart,459,7,0.4113522,234,14,70,33,11,8,11,0,1707,0,2,away,2016-03-02,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,VfB Stuttgart,4.0,0.0,home_win,4141,2,4141.0,loss
+3890472,Bayer Leverkusen,555,16,0.784595753,179,15,71,41,26,8,16,0,2017,0,1,home,2016-03-02,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Werder Bremen,1.0,4.0,away_win,4231,7,4231.0,loss
+3890472,Werder Bremen,327,11,1.8090304265,149,9,63,49,24,11,34,0,1308,0,1,away,2016-03-02,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Werder Bremen,1.0,4.0,away_win,4141,1,4141.0,win
+3890473,Hamburger SV,312,8,0.52462178,227,17,54,50,10,14,29,0,1344,2,1,away,2016-03-02,Germany - 1. Bundesliga,2015/2016,Schalke 04,Hamburger SV,3.0,2.0,home_win,4231,2,4411.0,loss
+3890473,Schalke 04,632,26,2.1669389104,144,14,68,46,15,7,24,0,2181,0,2,home,2016-03-02,Germany - 1. Bundesliga,2015/2016,Schalke 04,Hamburger SV,3.0,2.0,home_win,4231,1,4231.0,win
+3890474,Bayern Munich,945,17,0.9138403377000001,104,12,70,25,32,14,8,0,2986,0,1,home,2016-03-02,Germany - 1. Bundesliga,2015/2016,Bayern Munich,FSV Mainz 05,1.0,2.0,away_win,4141,3,4141.0,loss
+3890474,FSV Mainz 05,267,5,0.822105539,266,13,33,49,9,14,40,0,1193,0,2,away,2016-03-02,Germany - 1. Bundesliga,2015/2016,Bayern Munich,FSV Mainz 05,1.0,2.0,away_win,3421,1,3421.0,win
+3890475,Borussia Mönchengladbach,683,15,1.386295263,201,15,44,29,8,11,17,0,2360,0,3,away,2016-03-05,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Borussia Mönchengladbach,2.0,1.0,home_win,343,3,442.0,loss
+3890475,Wolfsburg,540,11,0.678924059,174,17,46,28,15,9,16,0,1910,0,2,home,2016-03-05,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Borussia Mönchengladbach,2.0,1.0,home_win,433,1,4231.0,win
+3890476,Hoffenheim,577,13,0.9577156455,138,9,42,27,14,7,15,0,1986,0,2,away,2016-03-05,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Hoffenheim,5.0,1.0,home_win,352,2,4231.0,loss
+3890476,VfB Stuttgart,362,22,2.3537407623,196,18,55,33,16,15,17,0,1448,0,1,home,2016-03-05,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Hoffenheim,5.0,1.0,home_win,4141,2,4231.0,win
+3890477,Augsburg,456,10,1.088797371,184,11,49,46,16,8,47,0,1665,1,2,home,2016-03-05,Germany - 1. Bundesliga,2015/2016,Augsburg,Bayer Leverkusen,3.0,3.0,draw,4411,1,4411.0,draw
+3890477,Bayer Leverkusen,609,20,1.5692638895,155,15,74,45,14,8,24,0,2137,0,1,away,2016-03-05,Germany - 1. Bundesliga,2015/2016,Augsburg,Bayer Leverkusen,3.0,3.0,draw,442,1,442.0,draw
+3890478,Hannover 96,496,15,1.5352773440000003,148,19,48,51,20,10,15,0,1695,0,2,away,2016-03-05,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Hannover 96,4.0,1.0,home_win,4231,1,442.0,loss
+3890478,Werder Bremen,413,15,2.307219902,201,19,51,52,24,17,23,0,1627,0,2,home,2016-03-05,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Hannover 96,4.0,1.0,home_win,4231,0,,win
+3890479,Eintracht Frankfurt,577,21,2.4790601527,112,22,57,55,9,3,11,0,1903,0,5,home,2016-03-05,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Ingolstadt,1.0,1.0,draw,41212,2,41212.0,draw
+3890479,Ingolstadt,306,12,1.980252238,178,24,38,53,4,10,48,0,1256,1,5,away,2016-03-05,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Ingolstadt,1.0,1.0,draw,433,2,4411.0,draw
+3890480,FC Köln,485,16,1.81392873,198,15,58,42,14,10,23,0,1797,0,1,home,2016-03-05,Germany - 1. Bundesliga,2015/2016,FC Köln,Schalke 04,1.0,3.0,away_win,4231,2,442.0,loss
+3890480,Schalke 04,547,17,1.995408489,131,19,57,42,23,14,20,0,1998,0,0,away,2016-03-05,Germany - 1. Bundesliga,2015/2016,FC Köln,Schalke 04,1.0,3.0,away_win,4231,0,,win
+3890481,Bayern Munich,730,17,1.6732908445999999,157,13,48,26,11,10,7,0,2334,0,1,away,2016-03-05,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Bayern Munich,0.0,0.0,draw,4231,1,4231.0,draw
+3890481,Borussia Dortmund,451,11,0.811540664,248,10,50,32,16,9,37,0,1683,0,1,home,2016-03-05,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Bayern Munich,0.0,0.0,draw,343,0,,draw
+3890482,Darmstadt 98,311,15,0.840026658,171,19,56,64,8,15,29,0,1204,0,5,away,2016-03-06,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Darmstadt 98,0.0,0.0,draw,4411,1,4411.0,draw
+3890482,FSV Mainz 05,509,11,1.049309146,158,18,54,40,16,16,30,0,1825,1,0,home,2016-03-06,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Darmstadt 98,0.0,0.0,draw,4231,1,4231.0,draw
+3890483,Hamburger SV,591,15,1.016612867,167,15,61,46,16,7,21,0,2016,0,4,home,2016-03-06,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Hertha Berlin,2.0,0.0,home_win,4231,1,4231.0,win
+3890483,Hertha Berlin,444,3,0.25555180099999997,241,10,44,54,9,12,23,0,1670,0,1,away,2016-03-06,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Hertha Berlin,2.0,0.0,home_win,4411,2,4411.0,loss
+3890484,Hertha Berlin,460,17,1.555961233,200,18,42,38,16,7,23,0,1707,0,2,home,2016-03-11,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Schalke 04,2.0,0.0,home_win,4231,0,,win
+3890484,Schalke 04,536,16,1.346624209,156,16,43,30,12,6,31,0,1861,0,1,away,2016-03-11,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Schalke 04,2.0,0.0,home_win,4231,2,41212.0,loss
+3890485,Ingolstadt,350,22,1.611316555,182,14,70,56,19,15,17,0,1419,0,2,home,2016-03-12,Germany - 1. Bundesliga,2015/2016,Ingolstadt,VfB Stuttgart,3.0,3.0,draw,433,0,,draw
+3890485,VfB Stuttgart,396,15,2.8000045772999997,141,20,57,57,17,7,37,0,1501,0,3,away,2016-03-12,Germany - 1. Bundesliga,2015/2016,Ingolstadt,VfB Stuttgart,3.0,3.0,draw,4141,2,4231.0,draw
+3890486,Hoffenheim,393,10,1.19958208,193,10,57,39,28,7,28,0,1535,0,1,home,2016-03-12,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Wolfsburg,1.0,0.0,home_win,433,1,433.0,win
+3890486,Wolfsburg,698,15,0.5780817362,156,18,53,33,20,8,14,0,2403,0,1,away,2016-03-12,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Wolfsburg,1.0,0.0,home_win,433,3,442.0,loss
+3890487,Augsburg,505,16,1.3524788909999998,105,17,51,50,18,4,41,0,1765,0,1,away,2016-03-12,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Augsburg,2.0,2.0,draw,4231,2,4231.0,draw
+3890487,Darmstadt 98,276,11,1.24229091,172,18,50,57,10,11,25,0,1155,0,2,home,2016-03-12,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Augsburg,2.0,2.0,draw,4411,5,4411.0,draw
+3890488,Borussia Mönchengladbach,744,16,1.5119711814999999,167,9,54,33,13,11,20,0,2460,0,1,home,2016-03-12,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Eintracht Frankfurt,3.0,0.0,home_win,343,3,442.0,win
+3890488,Eintracht Frankfurt,427,4,0.145629654,239,24,48,29,8,17,20,0,1620,0,3,away,2016-03-12,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Eintracht Frankfurt,3.0,0.0,home_win,433,4,4231.0,loss
+3890489,Bayern Munich,991,20,1.817325858,121,8,43,35,20,4,9,0,3071,0,1,home,2016-03-12,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Werder Bremen,5.0,0.0,home_win,4141,0,,win
+3890489,Werder Bremen,221,2,0.104096997,279,9,34,32,16,11,28,0,1090,0,3,away,2016-03-12,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Werder Bremen,5.0,0.0,home_win,343,5,433.0,loss
+3890490,FC Köln,427,11,1.052292939,239,11,50,49,23,10,57,0,1721,0,1,away,2016-03-12,Germany - 1. Bundesliga,2015/2016,Hannover 96,FC Köln,0.0,2.0,away_win,4411,1,4141.0,win
+3890490,Hannover 96,659,17,0.8387661406,168,18,66,49,11,12,20,0,2217,0,1,home,2016-03-12,Germany - 1. Bundesliga,2015/2016,Hannover 96,FC Köln,0.0,2.0,away_win,4231,1,442.0,loss
+3890491,Borussia Dortmund,741,22,3.958714703,212,9,61,37,25,6,15,0,2521,0,0,home,2016-03-13,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,FSV Mainz 05,2.0,0.0,home_win,4231,1,4231.0,win
+3890491,FSV Mainz 05,386,4,0.1466802063,223,15,57,59,10,13,13,0,1572,0,0,away,2016-03-13,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,FSV Mainz 05,2.0,0.0,home_win,4231,1,4231.0,loss
+3890492,Bayer Leverkusen,371,13,1.1164172584,199,21,56,48,12,19,25,0,1456,1,5,home,2016-03-13,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Hamburger SV,1.0,0.0,home_win,4231,4,442.0,win
+3890492,Hamburger SV,424,10,1.283962289,180,18,62,65,17,9,33,0,1628,0,2,away,2016-03-13,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Hamburger SV,1.0,0.0,home_win,4231,1,41212.0,loss
+3890493,Borussia Mönchengladbach,714,22,2.683801602,161,10,58,40,23,11,13,0,2433,0,0,away,2016-03-18,Germany - 1. Bundesliga,2015/2016,Schalke 04,Borussia Mönchengladbach,2.0,1.0,home_win,3412,3,3421.0,loss
+3890493,Schalke 04,433,6,0.22748701600000001,168,11,44,38,11,21,20,0,1647,0,1,home,2016-03-18,Germany - 1. Bundesliga,2015/2016,Schalke 04,Borussia Mönchengladbach,2.0,1.0,home_win,3421,5,343.0,win
+3890494,FSV Mainz 05,536,8,0.826527524,190,20,60,54,16,11,24,0,1894,0,2,away,2016-03-19,Germany - 1. Bundesliga,2015/2016,Werder Bremen,FSV Mainz 05,1.0,1.0,draw,4231,0,,draw
+3890494,Werder Bremen,456,10,1.259528278,223,11,71,43,22,12,31,0,1780,0,2,home,2016-03-19,Germany - 1. Bundesliga,2015/2016,Werder Bremen,FSV Mainz 05,1.0,1.0,draw,4141,1,41212.0,draw
+3890495,Bayern Munich,888,6,0.489157062,69,15,52,30,26,8,14,0,2845,0,1,away,2016-03-19,Germany - 1. Bundesliga,2015/2016,FC Köln,Bayern Munich,0.0,1.0,away_win,4141,0,,win
+3890495,FC Köln,280,6,0.42936605949999995,263,24,40,47,7,13,26,0,1224,0,1,home,2016-03-19,Germany - 1. Bundesliga,2015/2016,FC Köln,Bayern Munich,0.0,1.0,away_win,343,2,442.0,loss
+3890496,Hertha Berlin,542,7,0.9330038445,153,14,50,41,19,13,22,0,1917,0,2,home,2016-03-19,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Ingolstadt,2.0,1.0,home_win,4231,1,4231.0,win
+3890496,Ingolstadt,461,9,0.776075681,181,22,46,52,4,16,12,0,1592,0,3,away,2016-03-19,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Ingolstadt,2.0,1.0,home_win,433,2,433.0,loss
+3890497,Eintracht Frankfurt,527,10,1.481242561,164,19,83,56,13,11,14,0,1877,0,1,home,2016-03-19,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Hannover 96,1.0,0.0,home_win,4231,1,4231.0,win
+3890497,Hannover 96,400,7,0.359659137,163,22,63,54,25,14,35,0,1552,0,3,away,2016-03-19,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Hannover 96,1.0,0.0,home_win,442,2,442.0,loss
+3890498,Darmstadt 98,243,11,1.282228235,196,18,40,42,2,13,24,0,1060,0,1,away,2016-03-19,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Darmstadt 98,1.0,1.0,draw,4411,1,433.0,draw
+3890498,Wolfsburg,725,19,1.268381037,69,16,47,42,16,6,18,0,2342,0,1,home,2016-03-19,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Darmstadt 98,1.0,1.0,draw,41212,3,4231.0,draw
+3890499,Hamburger SV,560,24,2.5997063639999998,180,18,60,55,14,5,7,0,1975,0,3,home,2016-03-19,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Hoffenheim,1.0,3.0,away_win,4231,2,41212.0,loss
+3890499,Hoffenheim,349,14,1.8950392325,132,19,53,50,14,11,54,0,1414,0,1,away,2016-03-19,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Hoffenheim,1.0,3.0,away_win,433,1,343.0,win
+3890500,Bayer Leverkusen,411,15,2.127092613,134,21,58,59,16,5,32,0,1517,0,3,away,2016-03-20,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Bayer Leverkusen,0.0,2.0,away_win,442,1,442.0,win
+3890500,VfB Stuttgart,497,13,0.9012751960000001,179,18,61,57,9,6,24,0,1793,0,3,home,2016-03-20,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Bayer Leverkusen,0.0,2.0,away_win,4141,3,41212.0,loss
+3890501,Augsburg,313,7,1.407555056,228,18,33,24,5,12,20,0,1235,0,4,home,2016-03-20,Germany - 1. Bundesliga,2015/2016,Augsburg,Borussia Dortmund,1.0,3.0,away_win,343,1,343.0,loss
+3890501,Borussia Dortmund,950,13,1.588013701,106,7,59,28,14,3,5,0,2960,0,1,away,2016-03-20,Germany - 1. Bundesliga,2015/2016,Augsburg,Borussia Dortmund,1.0,3.0,away_win,4231,3,4231.0,win
+3890502,Bayer Leverkusen,438,12,0.749369139,176,13,53,40,10,12,10,0,1620,0,0,home,2016-04-01,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Wolfsburg,3.0,0.0,home_win,4231,2,4231.0,win
+3890502,Wolfsburg,515,10,0.889642625,171,18,51,37,17,9,19,0,1820,0,4,away,2016-04-01,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Wolfsburg,3.0,0.0,home_win,4231,2,4231.0,loss
+3890503,Augsburg,442,14,0.624416336,126,12,53,29,12,6,31,0,1602,0,2,away,2016-04-02,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Augsburg,4.0,2.0,home_win,4231,2,4231.0,loss
+3890503,FSV Mainz 05,436,18,3.534769019,128,21,52,32,11,12,27,0,1608,0,1,home,2016-04-02,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Augsburg,4.0,2.0,home_win,4231,0,,win
+3890504,Hamburger SV,434,9,1.768780828,212,12,55,66,5,9,31,0,1676,0,1,away,2016-04-02,Germany - 1. Bundesliga,2015/2016,Hannover 96,Hamburger SV,0.0,3.0,away_win,4231,2,4231.0,win
+3890504,Hannover 96,517,16,1.245220073,140,18,66,42,16,10,35,0,1804,0,1,home,2016-04-02,Germany - 1. Bundesliga,2015/2016,Hannover 96,Hamburger SV,0.0,3.0,away_win,41212,1,41212.0,loss
+3890505,Bayern Munich,698,20,1.837663753,102,17,52,29,15,6,17,0,2268,0,2,home,2016-04-02,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Eintracht Frankfurt,1.0,0.0,home_win,433,1,433.0,win
+3890505,Eintracht Frankfurt,316,4,0.121696462,217,19,48,36,11,10,23,0,1303,0,5,away,2016-04-02,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Eintracht Frankfurt,1.0,0.0,home_win,343,0,,loss
+3890506,Darmstadt 98,260,15,2.288448637,116,14,52,53,3,11,26,0,1034,0,4,home,2016-04-02,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,VfB Stuttgart,2.0,2.0,draw,4411,0,,draw
+3890506,VfB Stuttgart,383,9,0.891014128,102,18,59,52,15,7,47,0,1458,0,1,away,2016-04-02,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,VfB Stuttgart,2.0,2.0,draw,4231,2,442.0,draw
+3890507,Borussia Dortmund,737,24,2.772864835,105,14,56,43,13,2,11,0,2416,0,1,home,2016-04-02,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Werder Bremen,3.0,2.0,home_win,4231,2,352.0,win
+3890507,Werder Bremen,313,7,0.5124201935,154,9,46,35,11,9,32,0,1235,0,3,away,2016-04-02,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Werder Bremen,3.0,2.0,home_win,3421,2,433.0,loss
+3890508,Ingolstadt,368,12,1.6742844915,262,13,56,61,7,10,30,0,1485,0,1,home,2016-04-02,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Schalke 04,3.0,0.0,home_win,433,1,433.0,win
+3890508,Schalke 04,507,9,0.9837626012999999,132,23,71,50,15,6,24,0,1787,0,5,away,2016-04-02,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Schalke 04,3.0,0.0,home_win,442,2,442.0,loss
+3890509,FC Köln,495,8,0.871820697,159,14,51,25,11,5,9,0,1723,0,1,away,2016-04-03,Germany - 1. Bundesliga,2015/2016,Hoffenheim,FC Köln,1.0,1.0,draw,451,2,4411.0,draw
+3890509,Hoffenheim,593,15,1.3699727259999999,115,11,49,37,14,7,22,0,2021,0,2,home,2016-04-03,Germany - 1. Bundesliga,2015/2016,Hoffenheim,FC Köln,1.0,1.0,draw,343,2,4231.0,draw
+3890510,Borussia Mönchengladbach,540,17,2.45862917,133,17,41,51,10,6,24,0,1882,0,1,home,2016-04-03,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Hertha Berlin,5.0,0.0,home_win,3412,2,442.0,win
+3890510,Hertha Berlin,498,7,0.739373824,113,11,48,33,9,6,20,0,1692,0,2,away,2016-04-03,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Hertha Berlin,5.0,0.0,home_win,4231,2,4231.0,loss
+3890511,Hannover 96,342,12,0.8005099840000001,145,22,45,38,12,8,35,0,1329,0,4,away,2016-04-08,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Hannover 96,2.0,2.0,draw,4231,3,4231.0,draw
+3890511,Hertha Berlin,606,12,1.496190296,123,10,40,30,20,7,25,0,2066,0,3,home,2016-04-08,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Hannover 96,2.0,2.0,draw,4231,2,442.0,draw
+3890512,Eintracht Frankfurt,426,10,0.610633009,201,22,67,49,8,8,30,0,1622,0,3,home,2016-04-09,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Hoffenheim,0.0,2.0,away_win,4231,0,,loss
+3890512,Hoffenheim,379,7,1.26470781,170,22,49,45,17,10,46,0,1461,0,4,away,2016-04-09,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Hoffenheim,0.0,2.0,away_win,4231,2,433.0,win
+3890513,FSV Mainz 05,458,16,1.83109741,138,15,44,37,15,6,23,0,1653,0,2,away,2016-04-09,Germany - 1. Bundesliga,2015/2016,Wolfsburg,FSV Mainz 05,1.0,1.0,draw,4231,0,,draw
+3890513,Wolfsburg,469,16,1.061310138,144,12,43,25,9,5,23,0,1628,1,3,home,2016-04-09,Germany - 1. Bundesliga,2015/2016,Wolfsburg,FSV Mainz 05,1.0,1.0,draw,433,2,4231.0,draw
+3890514,Augsburg,347,4,0.571443467,195,21,42,56,13,5,36,0,1421,0,5,away,2016-04-09,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Augsburg,1.0,2.0,away_win,4411,1,4411.0,win
+3890514,Werder Bremen,474,18,0.977070616,131,17,57,53,14,7,13,0,1692,0,2,home,2016-04-09,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Augsburg,1.0,2.0,away_win,4141,3,4141.0,loss
+3890515,Darmstadt 98,280,9,0.8335020289999999,147,21,44,54,9,8,26,0,1113,0,2,away,2016-04-09,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Darmstadt 98,1.0,2.0,away_win,4231,1,3421.0,win
+3890515,Hamburger SV,620,10,0.7958294223,144,17,55,38,11,4,11,0,2112,0,3,home,2016-04-09,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Darmstadt 98,1.0,2.0,away_win,4231,1,4231.0,loss
+3890516,Bayern Munich,828,13,0.7113153135,98,15,42,29,15,4,30,0,2706,0,3,away,2016-04-09,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Bayern Munich,1.0,3.0,away_win,3421,3,4231.0,win
+3890516,VfB Stuttgart,247,9,0.9743895340000001,274,12,38,50,10,10,13,0,1126,0,1,home,2016-04-09,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Bayern Munich,1.0,3.0,away_win,343,1,442.0,loss
+3890517,Borussia Mönchengladbach,391,5,0.3222938945,148,12,61,61,10,10,38,0,1482,0,1,away,2016-04-09,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Borussia Mönchengladbach,1.0,0.0,home_win,3412,2,4231.0,loss
+3890517,Ingolstadt,459,13,1.7983400440000001,139,9,64,65,13,7,27,0,1649,0,1,home,2016-04-09,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Borussia Mönchengladbach,1.0,0.0,home_win,433,0,,win
+3890518,Borussia Dortmund,412,15,1.515110113,156,13,47,49,14,9,17,0,1537,0,3,away,2016-04-10,Germany - 1. Bundesliga,2015/2016,Schalke 04,Borussia Dortmund,2.0,2.0,draw,343,2,4141.0,draw
+3890518,Schalke 04,430,10,1.1805544085,224,24,42,43,21,9,22,0,1701,0,5,home,2016-04-10,Germany - 1. Bundesliga,2015/2016,Schalke 04,Borussia Dortmund,2.0,2.0,draw,343,1,4231.0,draw
+3890519,Bayer Leverkusen,501,12,0.9316171873,137,13,53,39,11,11,41,0,1809,1,3,away,2016-04-10,Germany - 1. Bundesliga,2015/2016,FC Köln,Bayer Leverkusen,0.0,2.0,away_win,4411,2,442.0,win
+3890519,FC Köln,548,17,0.8359122777,132,12,51,45,14,13,16,0,1837,1,1,home,2016-04-10,Germany - 1. Bundesliga,2015/2016,FC Köln,Bayer Leverkusen,0.0,2.0,away_win,41212,2,442.0,loss
+3890520,Borussia Mönchengladbach,582,8,0.716077522,133,12,54,44,9,10,28,0,1961,0,0,away,2016-04-15,Germany - 1. Bundesliga,2015/2016,Hannover 96,Borussia Mönchengladbach,2.0,0.0,home_win,4231,3,343.0,loss
+3890520,Hannover 96,418,12,1.73306218,169,22,57,44,9,11,29,0,1576,0,2,home,2016-04-15,Germany - 1. Bundesliga,2015/2016,Hannover 96,Borussia Mönchengladbach,2.0,0.0,home_win,4231,0,,win
+3890521,Bayer Leverkusen,526,12,1.106188017,194,17,60,52,24,17,18,0,1922,0,4,home,2016-04-16,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Eintracht Frankfurt,3.0,0.0,home_win,4231,2,4231.0,win
+3890521,Eintracht Frankfurt,336,10,1.0195333039999999,223,23,59,53,19,11,15,0,1384,0,3,away,2016-04-16,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Eintracht Frankfurt,3.0,0.0,home_win,4141,3,4231.0,loss
+3890522,Augsburg,414,12,1.673274452,166,16,62,33,25,5,46,0,1612,0,2,home,2016-04-16,Germany - 1. Bundesliga,2015/2016,Augsburg,VfB Stuttgart,1.0,0.0,home_win,4231,1,343.0,win
+3890522,VfB Stuttgart,426,10,0.4227076195,135,15,52,54,10,6,24,0,1489,0,0,away,2016-04-16,Germany - 1. Bundesliga,2015/2016,Augsburg,VfB Stuttgart,1.0,0.0,home_win,442,1,4141.0,loss
+3890523,Werder Bremen,379,21,3.9076326949999998,254,21,61,59,13,16,23,0,1540,0,1,home,2016-04-16,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Wolfsburg,3.0,2.0,home_win,4231,1,343.0,win
+3890523,Wolfsburg,505,8,0.6421666185,169,19,54,38,17,15,26,0,1825,0,5,away,2016-04-16,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Wolfsburg,3.0,2.0,home_win,4231,2,4231.0,loss
+3890524,Hertha Berlin,479,10,1.4067066320000001,207,19,43,29,12,7,13,0,1726,0,0,away,2016-04-16,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Hertha Berlin,2.0,1.0,home_win,4231,0,,loss
+3890524,Hoffenheim,559,17,1.3354562532999998,168,12,48,28,17,9,14,0,1980,0,2,home,2016-04-16,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Hertha Berlin,2.0,1.0,home_win,352,1,4141.0,win
+3890525,Darmstadt 98,251,6,1.2737191700000001,195,24,50,53,4,8,45,0,1080,0,2,home,2016-04-16,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Ingolstadt,2.0,0.0,home_win,4231,1,4231.0,win
+3890525,Ingolstadt,466,7,0.6562168955,132,23,40,45,15,10,16,0,1575,0,3,away,2016-04-16,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Ingolstadt,2.0,0.0,home_win,433,3,433.0,loss
+3890526,Bayern Munich,802,14,1.136818166,160,11,52,29,17,10,9,0,2713,0,0,home,2016-04-16,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Schalke 04,3.0,0.0,home_win,4141,0,,win
+3890526,Schalke 04,410,7,0.44570890399999996,191,10,41,35,15,14,18,0,1584,0,0,away,2016-04-16,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Schalke 04,3.0,0.0,home_win,343,2,343.0,loss
+3890527,FC Köln,484,12,1.239822617,175,11,46,45,12,9,18,0,1774,0,2,away,2016-04-17,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,FC Köln,2.0,3.0,away_win,343,2,433.0,win
+3890527,FSV Mainz 05,449,18,1.361937396,136,14,60,34,12,11,18,0,1651,0,1,home,2016-04-17,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,FC Köln,2.0,3.0,away_win,4231,1,3412.0,loss
+3890528,Borussia Dortmund,800,14,1.845096908,149,7,53,22,22,12,11,0,2729,0,0,home,2016-04-17,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Hamburger SV,3.0,0.0,home_win,4231,2,41212.0,win
+3890528,Hamburger SV,317,5,0.409784034,223,17,40,45,17,14,21,0,1336,1,0,away,2016-04-17,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Hamburger SV,3.0,0.0,home_win,4231,1,4231.0,loss
+3890529,Hamburger SV,400,12,1.6008545476,229,23,47,76,20,19,47,0,1715,0,3,home,2016-04-22,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Werder Bremen,2.0,1.0,home_win,4231,4,4231.0,win
+3890529,Werder Bremen,494,21,2.7323496879999998,158,14,87,48,34,9,43,0,1861,0,4,away,2016-04-22,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Werder Bremen,2.0,1.0,home_win,4231,0,,loss
+3890530,Borussia Dortmund,596,15,3.230173912,196,13,63,33,35,15,27,0,2260,0,1,away,2016-04-23,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Borussia Dortmund,0.0,3.0,away_win,4141,3,4141.0,win
+3890530,VfB Stuttgart,515,8,0.5010954004,286,23,49,46,16,9,16,0,1949,0,0,home,2016-04-23,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,Borussia Dortmund,0.0,3.0,away_win,4231,1,4231.0,loss
+3890531,Darmstadt 98,325,15,0.6730902933,135,19,51,46,8,7,14,0,1166,0,2,away,2016-04-23,Germany - 1. Bundesliga,2015/2016,FC Köln,Darmstadt 98,4.0,1.0,home_win,4231,2,4231.0,loss
+3890531,FC Köln,491,15,2.6873814177,138,17,49,32,11,6,53,0,1716,0,2,home,2016-04-23,Germany - 1. Bundesliga,2015/2016,FC Köln,Darmstadt 98,4.0,1.0,home_win,4231,1,4231.0,win
+3890532,Hannover 96,562,13,0.9216060189999999,171,13,74,59,19,19,36,0,2012,0,2,away,2016-04-23,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Hannover 96,2.0,2.0,draw,4231,2,433.0,draw
+3890532,Ingolstadt,295,9,0.732632252,259,13,58,78,26,12,51,0,1412,1,2,home,2016-04-23,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Hannover 96,2.0,2.0,draw,433,4,41212.0,draw
+3890533,Bayern Munich,826,6,0.338381723,145,17,66,30,19,7,13,0,2696,0,4,away,2016-04-23,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Bayern Munich,0.0,2.0,away_win,4231,3,4231.0,win
+3890533,Hertha Berlin,290,8,0.346317439,274,10,54,41,12,16,17,0,1250,0,0,home,2016-04-23,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Bayern Munich,0.0,2.0,away_win,4141,1,4141.0,loss
+3890534,Bayer Leverkusen,425,17,1.631818309,254,18,65,39,14,13,23,0,1713,0,3,away,2016-04-23,Germany - 1. Bundesliga,2015/2016,Schalke 04,Bayer Leverkusen,2.0,3.0,away_win,4231,1,442.0,win
+3890534,Schalke 04,565,20,2.634257289,140,20,68,35,33,10,17,0,2016,0,3,home,2016-04-23,Germany - 1. Bundesliga,2015/2016,Schalke 04,Bayer Leverkusen,2.0,3.0,away_win,4231,2,442.0,loss
+3890535,Augsburg,311,8,1.374192874,221,18,54,53,12,10,55,0,1324,0,2,away,2016-04-23,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Augsburg,0.0,2.0,away_win,4411,1,3421.0,win
+3890535,Wolfsburg,776,19,1.167257349,177,9,63,39,16,6,9,0,2585,0,0,home,2016-04-23,Germany - 1. Bundesliga,2015/2016,Wolfsburg,Augsburg,0.0,2.0,away_win,4411,2,41212.0,loss
+3890536,Borussia Mönchengladbach,606,24,3.0398398049999997,214,15,59,34,15,10,22,0,2150,0,1,home,2016-04-24,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Hoffenheim,3.0,1.0,home_win,3421,2,352.0,win
+3890536,Hoffenheim,463,14,2.756695141,185,13,51,43,24,5,26,0,1706,0,2,away,2016-04-24,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Hoffenheim,3.0,1.0,home_win,352,2,433.0,loss
+3890537,Eintracht Frankfurt,454,8,1.1123913859999999,191,25,48,44,16,13,25,0,1652,0,4,home,2016-04-24,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,FSV Mainz 05,2.0,1.0,home_win,4231,1,4231.0,win
+3890537,FSV Mainz 05,363,8,0.663626801,179,23,57,48,14,5,33,0,1447,0,4,away,2016-04-24,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,FSV Mainz 05,2.0,1.0,home_win,4231,1,4231.0,loss
+3890538,Augsburg,599,13,1.1969711680000001,91,11,42,30,14,7,21,0,1966,0,3,home,2016-04-29,Germany - 1. Bundesliga,2015/2016,Augsburg,FC Köln,0.0,0.0,draw,4231,1,442.0,draw
+3890538,FC Köln,365,8,0.18071852160000001,159,15,38,29,6,11,23,0,1330,1,3,away,2016-04-29,Germany - 1. Bundesliga,2015/2016,Augsburg,FC Köln,0.0,0.0,draw,4231,1,4411.0,draw
+3890539,Darmstadt 98,281,10,1.360068922,129,16,43,50,10,8,45,0,1100,0,2,home,2016-04-30,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Eintracht Frankfurt,1.0,2.0,away_win,4411,2,442.0,loss
+3890539,Eintracht Frankfurt,479,12,0.823806276,114,14,54,58,13,3,26,0,1686,0,2,away,2016-04-30,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Eintracht Frankfurt,1.0,2.0,away_win,4231,2,343.0,win
+3890540,Bayer Leverkusen,505,19,1.710586608,135,17,49,41,11,12,16,0,1782,0,1,home,2016-04-30,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Hertha Berlin,2.0,1.0,home_win,4231,3,433.0,win
+3890540,Hertha Berlin,454,8,0.49794047399999997,151,24,50,29,30,5,19,0,1613,0,6,away,2016-04-30,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Hertha Berlin,2.0,1.0,home_win,442,3,442.0,loss
+3890541,Bayern Munich,631,8,0.266765141,212,12,64,44,26,21,12,0,2222,0,2,home,2016-04-30,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Borussia Mönchengladbach,1.0,1.0,draw,343,3,433.0,draw
+3890541,Borussia Mönchengladbach,497,8,0.626722924,251,18,62,44,10,16,24,0,1832,0,1,away,2016-04-30,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Borussia Mönchengladbach,1.0,1.0,draw,3412,0,,draw
+3890542,Borussia Dortmund,675,19,2.642703663,185,9,46,31,22,9,16,0,2335,0,2,home,2016-04-30,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Wolfsburg,5.0,1.0,home_win,4231,1,4231.0,win
+3890542,Wolfsburg,392,7,0.820585369,196,13,48,44,15,11,13,0,1515,0,0,away,2016-04-30,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Wolfsburg,5.0,1.0,home_win,4231,5,4231.0,loss
+3890543,Hannover 96,419,21,2.193958447,178,16,66,53,15,12,23,0,1636,0,0,home,2016-04-30,Germany - 1. Bundesliga,2015/2016,Hannover 96,Schalke 04,1.0,3.0,away_win,4231,3,41212.0,loss
+3890543,Schalke 04,451,10,2.538639329,133,21,58,56,26,17,33,0,1707,0,0,away,2016-04-30,Germany - 1. Bundesliga,2015/2016,Hannover 96,Schalke 04,1.0,3.0,away_win,4231,2,4411.0,win
+3890544,Hoffenheim,427,10,1.8430487489999998,151,18,61,45,15,6,22,0,1644,0,3,home,2016-04-30,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Ingolstadt,2.0,1.0,home_win,4231,1,4231.0,win
+3890544,Ingolstadt,377,15,1.8401448345,195,24,50,48,11,10,27,0,1513,0,4,away,2016-04-30,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Ingolstadt,2.0,1.0,home_win,433,4,433.0,loss
+3890545,FSV Mainz 05,473,12,0.906745919,130,23,58,52,14,3,23,0,1735,0,0,home,2016-04-30,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Hamburger SV,0.0,0.0,draw,4231,2,4231.0,draw
+3890545,Hamburger SV,374,7,0.47657353100000005,215,31,43,53,12,20,23,0,1560,0,3,away,2016-04-30,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Hamburger SV,0.0,0.0,draw,4231,1,4231.0,draw
+3890546,VfB Stuttgart,527,12,1.024636154,182,15,58,40,17,13,21,0,1898,0,1,away,2016-05-02,Germany - 1. Bundesliga,2015/2016,Werder Bremen,VfB Stuttgart,6.0,2.0,home_win,4141,3,442.0,loss
+3890546,Werder Bremen,368,16,2.7567737424,165,12,60,43,13,16,20,0,1440,0,1,home,2016-05-02,Germany - 1. Bundesliga,2015/2016,Werder Bremen,VfB Stuttgart,6.0,2.0,home_win,4231,1,4231.0,win
+3890547,Hannover 96,426,14,0.43883610970000003,192,21,46,44,17,12,26,0,1645,0,3,home,2016-05-07,Germany - 1. Bundesliga,2015/2016,Hannover 96,Hoffenheim,1.0,0.0,home_win,4231,3,433.0,win
+3890547,Hoffenheim,526,16,1.599174522,161,25,44,41,15,8,11,0,1778,0,2,away,2016-05-07,Germany - 1. Bundesliga,2015/2016,Hannover 96,Hoffenheim,1.0,0.0,home_win,433,1,433.0,loss
+3890548,Bayern Munich,491,12,1.6419081395,175,17,45,43,19,9,23,0,1711,0,3,away,2016-05-07,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Bayern Munich,1.0,2.0,away_win,4231,2,4231.0,win
+3890548,Ingolstadt,355,17,2.499539788,172,17,60,45,10,8,12,0,1359,0,2,home,2016-05-07,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Bayern Munich,1.0,2.0,away_win,433,3,433.0,loss
+3890549,Augsburg,284,5,0.3758453006,215,18,38,35,9,15,35,0,1220,0,5,away,2016-05-07,Germany - 1. Bundesliga,2015/2016,Schalke 04,Augsburg,1.0,1.0,draw,343,2,4231.0,draw
+3890549,Schalke 04,589,20,1.7775837970000001,114,10,68,35,25,3,10,0,1981,0,1,home,2016-05-07,Germany - 1. Bundesliga,2015/2016,Schalke 04,Augsburg,1.0,1.0,draw,4231,1,442.0,draw
+3890550,Bayer Leverkusen,405,16,2.0131110667,189,9,56,44,8,11,15,0,1510,0,2,away,2016-05-07,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Bayer Leverkusen,2.0,1.0,home_win,442,2,442.0,loss
+3890550,Borussia Mönchengladbach,586,14,0.870910584,152,18,52,40,22,10,13,0,2034,0,2,home,2016-05-07,Germany - 1. Bundesliga,2015/2016,Borussia Mönchengladbach,Bayer Leverkusen,2.0,1.0,home_win,3412,2,442.0,win
+3890551,Hamburger SV,387,5,0.427703333,151,20,40,45,8,10,28,0,1410,0,0,home,2016-05-07,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Wolfsburg,0.0,1.0,away_win,4231,1,41212.0,loss
+3890551,Wolfsburg,470,12,1.5161863307999999,157,11,40,34,17,12,21,0,1646,0,0,away,2016-05-07,Germany - 1. Bundesliga,2015/2016,Hamburger SV,Wolfsburg,0.0,1.0,away_win,4231,2,4231.0,win
+3890552,FSV Mainz 05,380,19,3.79130092,159,20,49,44,19,10,21,0,1427,0,2,away,2016-05-07,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,FSV Mainz 05,1.0,3.0,away_win,4231,0,,win
+3890552,VfB Stuttgart,419,7,0.637846558,211,13,37,45,8,12,36,0,1587,0,3,home,2016-05-07,Germany - 1. Bundesliga,2015/2016,VfB Stuttgart,FSV Mainz 05,1.0,3.0,away_win,4231,2,433.0,loss
+3890553,Borussia Dortmund,826,13,1.1912590395,78,12,49,20,11,5,12,0,2603,0,3,away,2016-05-07,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Borussia Dortmund,1.0,0.0,home_win,41212,2,352.0,loss
+3890553,Eintracht Frankfurt,172,6,0.401769447,246,29,39,30,4,8,32,0,927,0,5,home,2016-05-07,Germany - 1. Bundesliga,2015/2016,Eintracht Frankfurt,Borussia Dortmund,1.0,0.0,home_win,343,1,343.0,win
+3890554,FC Köln,494,9,0.732007374,161,22,52,55,13,3,15,0,1753,0,3,home,2016-05-07,Germany - 1. Bundesliga,2015/2016,FC Köln,Werder Bremen,0.0,0.0,draw,4231,1,4231.0,draw
+3890554,Werder Bremen,365,13,0.716943899,146,21,46,37,8,10,27,0,1417,0,2,away,2016-05-07,Germany - 1. Bundesliga,2015/2016,FC Köln,Werder Bremen,0.0,0.0,draw,4141,2,442.0,draw
+3890555,Darmstadt 98,226,8,1.0361670945,250,24,43,53,3,10,24,0,1061,1,2,away,2016-05-07,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Darmstadt 98,1.0,2.0,away_win,4231,2,4411.0,win
+3890555,Hertha Berlin,708,17,1.1099404146,70,17,54,28,9,9,15,0,2265,0,3,home,2016-05-07,Germany - 1. Bundesliga,2015/2016,Hertha Berlin,Darmstadt 98,1.0,2.0,away_win,4141,1,4231.0,loss
+3890556,VfB Stuttgart,490,13,0.915592377,262,16,65,48,11,11,12,0,1850,0,2,away,2016-05-14,Germany - 1. Bundesliga,2015/2016,Wolfsburg,VfB Stuttgart,3.0,1.0,home_win,4231,1,4231.0,loss
+3890556,Wolfsburg,567,17,2.2466789147,111,9,59,27,17,17,25,0,1923,0,2,home,2016-05-14,Germany - 1. Bundesliga,2015/2016,Wolfsburg,VfB Stuttgart,3.0,1.0,home_win,4141,2,4231.0,win
+3890557,Eintracht Frankfurt,305,4,0.1681919166,206,18,60,59,15,7,25,0,1290,0,2,away,2016-05-14,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Eintracht Frankfurt,1.0,0.0,home_win,4231,2,343.0,loss
+3890557,Werder Bremen,560,16,1.6842142226,133,17,53,38,17,14,17,0,1945,0,4,home,2016-05-14,Germany - 1. Bundesliga,2015/2016,Werder Bremen,Eintracht Frankfurt,1.0,0.0,home_win,4231,1,433.0,win
+3890558,FSV Mainz 05,348,7,1.064920681,212,14,47,45,9,9,48,0,1416,0,3,home,2016-05-14,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Hertha Berlin,0.0,0.0,draw,4231,0,,draw
+3890558,Hertha Berlin,615,11,0.847503751,141,20,51,40,19,8,24,0,2033,1,4,away,2016-05-14,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Hertha Berlin,0.0,0.0,draw,4231,1,4231.0,draw
+3890559,Bayern Munich,664,20,2.421191398,177,13,67,41,24,6,22,0,2320,0,0,home,2016-05-14,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Hannover 96,3.0,1.0,home_win,4231,3,4141.0,win
+3890559,Hannover 96,352,20,1.7460605366,371,20,58,35,9,12,21,0,1609,0,1,away,2016-05-14,Germany - 1. Bundesliga,2015/2016,Bayern Munich,Hannover 96,3.0,1.0,home_win,4231,2,4231.0,loss
+3890560,Borussia Mönchengladbach,728,22,1.6780261755,125,13,62,35,21,6,27,0,2471,0,0,away,2016-05-14,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Borussia Mönchengladbach,0.0,2.0,away_win,3412,3,3412.0,win
+3890560,Darmstadt 98,326,9,0.6706238409999999,202,13,46,42,10,12,17,0,1300,0,3,home,2016-05-14,Germany - 1. Bundesliga,2015/2016,Darmstadt 98,Borussia Mönchengladbach,0.0,2.0,away_win,4411,2,4411.0,loss
+3890561,Hoffenheim,506,13,1.1688748137,178,15,38,32,14,8,7,0,1840,0,1,home,2016-05-14,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Schalke 04,1.0,4.0,away_win,3421,3,442.0,loss
+3890561,Schalke 04,590,12,1.6057035259999999,193,15,38,26,27,18,16,0,2100,0,1,away,2016-05-14,Germany - 1. Bundesliga,2015/2016,Hoffenheim,Schalke 04,1.0,4.0,away_win,4141,1,4141.0,win
+3890562,Borussia Dortmund,977,13,1.224463485,88,9,52,30,15,5,8,0,3103,0,1,home,2016-05-14,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,FC Köln,2.0,2.0,draw,4231,1,4231.0,draw
+3890562,FC Köln,213,6,1.308468257,227,10,45,30,9,9,32,0,1006,0,0,away,2016-05-14,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,FC Köln,2.0,2.0,draw,343,1,343.0,draw
+3890563,Bayer Leverkusen,345,10,3.4965765648,221,21,51,52,15,19,28,0,1410,0,1,home,2016-05-14,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Ingolstadt,3.0,2.0,home_win,442,2,442.0,win
+3890563,Ingolstadt,438,21,3.2418109805,152,13,55,45,25,16,18,0,1565,0,1,away,2016-05-14,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Ingolstadt,3.0,2.0,home_win,433,1,433.0,loss
+3890564,Augsburg,480,12,1.4049957100000001,194,14,48,44,17,5,7,0,1741,0,3,home,2016-05-14,Germany - 1. Bundesliga,2015/2016,Augsburg,Hamburger SV,1.0,3.0,away_win,4231,3,4231.0,loss
+3890564,Hamburger SV,437,14,1.794981004,192,25,49,36,29,13,15,0,1631,0,3,away,2016-05-14,Germany - 1. Bundesliga,2015/2016,Augsburg,Hamburger SV,1.0,3.0,away_win,4231,1,4231.0,win
+3895052,Bayer Leverkusen,481,11,1.523364167,122,14,42,27,12,11,15,0,1662,0,1,,,,,,,,,,343,1,352.0,loss
+3895052,RB Leipzig,600,14,1.722110068,175,12,45,26,14,13,11,0,2077,0,2,,,,,,,,,,442,2,3421.0,loss
+3895060,Bayer Leverkusen,737,24,2.719870674,90,10,51,25,13,10,14,0,2474,0,3,,,,,,,,,,343,1,4231.0,loss
+3895060,Borussia Mönchengladbach,502,12,0.7992645627000001,207,9,48,31,5,13,20,0,1837,0,2,,,,,,,,,,343,6,4231.0,loss
+3895067,Bayer Leverkusen,820,25,3.304641177,86,8,66,15,22,8,6,0,2723,0,3,,,,,,,,,,343,3,343.0,loss
+3895067,Darmstadt 98,310,5,0.579202448,163,14,36,40,5,20,28,0,1254,0,2,,,,,,,,,,352,2,442.0,loss
+3895074,Bayer Leverkusen,603,13,2.218056773,151,7,58,32,30,15,31,0,2148,0,3,,,,,,,,,,343,3,442.0,loss
+3895074,Bayern Munich,637,16,2.209524405,184,7,52,35,15,16,12,0,2198,0,0,,,,,,,,,,4231,3,4231.0,loss
+3895086,Bayer Leverkusen,873,21,3.708372054,109,10,58,24,16,4,13,0,2757,0,1,,,,,,,,,,3421,1,4231.0,loss
+3895086,FC Heidenheim,364,2,0.32678839,245,13,34,29,11,8,21,0,1476,0,1,,,,,,,,,,4231,1,4231.0,loss
+3895095,Bayer Leverkusen,635,6,0.793664845,189,11,46,29,14,6,25,0,2186,0,1,,,,,,,,,,3421,1,3421.0,loss
+3895095,FSV Mainz 05,527,10,0.435265024,169,16,45,30,15,14,6,0,1849,0,4,,,,,,,,,,343,3,3421.0,loss
+3895107,Bayer Leverkusen,775,23,2.9421685534,166,8,54,19,21,12,8,0,2636,0,3,,,,,,,,,,3421,0,,loss
+3895107,FC Köln,436,7,1.190464235,212,10,34,27,4,15,28,0,1613,0,0,,,,,,,,,,41212,2,4231.0,loss
+3895113,Bayer Leverkusen,654,13,1.962671917,140,15,55,14,20,12,14,0,2278,0,5,,,,,,,,,,3421,1,3421.0,loss
+3895113,Wolfsburg,473,18,1.1983493379999999,202,19,45,26,7,23,15,0,1740,0,3,,,,,,,,,,352,1,433.0,loss
+3895121,Bayer Leverkusen,752,18,1.4253422826,93,12,64,30,23,3,31,0,2572,0,0,,,,,,,,,,3421,0,,loss
+3895121,Freiburg,329,10,0.768274225,140,13,42,40,13,11,19,0,1299,0,2,,,,,,,,,,4141,1,4141.0,loss
+3895134,Bayer Leverkusen,588,10,1.274476137,181,14,44,11,13,8,32,0,2008,0,2,,,,,,,,,,3421,1,352.0,loss
+3895134,Hoffenheim,540,12,1.483510532,192,9,41,23,11,16,19,0,1873,0,3,,,,,,,,,,352,1,352.0,loss
+3895139,Bayer Leverkusen,855,18,1.883218353,134,8,47,18,13,5,11,0,2802,0,0,,,,,,,,,,3421,1,3421.0,loss
+3895139,Union Berlin,402,2,0.038901003,247,5,37,34,6,15,14,0,1566,0,1,,,,,,,,,,343,2,343.0,loss
+3895153,Bayer Leverkusen,772,14,1.091059273,206,4,48,28,20,9,18,0,2595,0,1,,,,,,,,,,3421,3,3421.0,loss
+3895153,Werder Bremen,537,2,0.185946346,210,16,55,27,10,15,20,0,1925,0,3,,,,,,,,,,352,2,3421.0,loss
+3895158,Bayer Leverkusen,727,24,2.144726791,119,14,72,27,21,10,9,0,2438,0,3,,,,,,,,,,3421,2,3421.0,loss
+3895158,Borussia Dortmund,339,6,0.8077303976,187,12,42,37,10,11,42,0,1428,0,2,,,,,,,,,,4231,2,343.0,loss
+3895167,Bayer Leverkusen,564,19,1.532379643,144,9,51,39,27,10,15,0,2028,0,1,,,,,,,,,,343,1,4231.0,loss
+3895167,VfB Stuttgart,608,22,2.4035395945999998,178,10,49,40,14,18,18,0,2191,0,1,,,,,,,,,,3421,4,442.0,loss
+3895180,Bayer Leverkusen,779,14,2.753240414,168,5,67,25,24,12,17,0,2596,0,1,,,,,,,,,,3421,1,3421.0,loss
+3895180,Eintracht Frankfurt,494,4,0.184912791,211,16,49,39,9,10,23,0,1852,0,1,,,,,,,,,,343,1,343.0,loss
+3895182,Bayer Leverkusen,786,16,3.4008051630000002,147,9,49,25,11,6,19,0,2559,0,0,,,,,,,,,,3421,4,3421.0,loss
+3895182,Bochum,351,6,0.28767202399999997,258,16,53,46,4,22,9,0,1445,0,2,,,,,,,,,,433,3,3511.0,loss
+3895194,Augsburg,280,4,0.315864105,266,15,49,37,11,18,34,0,1304,0,3,,,,,,,,,,41212,1,352.0,loss
+3895194,Bayer Leverkusen,852,25,1.575537092,118,5,59,26,14,2,11,0,2759,0,1,,,,,,,,,,3421,0,,loss
+3895202,Bayer Leverkusen,675,18,1.8806014,149,14,41,29,13,4,20,0,2314,0,3,,,,,,,,,,3421,0,,loss
+3895202,RB Leipzig,455,10,1.086765495,164,11,45,33,15,15,8,0,1694,0,2,,,,,,,,,,4222,2,4222.0,loss
+3895210,Bayer Leverkusen,1002,28,2.561261506,160,17,65,25,14,7,5,0,3311,0,3,,,,,,,,,,343,1,343.0,loss
+3895210,Borussia Mönchengladbach,344,4,0.183674806,325,8,37,33,8,19,48,0,1582,0,1,,,,,,,,,,352,1,352.0,loss
+3895220,Bayer Leverkusen,803,20,1.951917007,119,10,49,33,23,5,22,0,2617,0,2,,,,,,,,,,3421,2,4231.0,loss
+3895220,Darmstadt 98,391,8,0.7708953119999999,296,17,49,38,16,12,20,0,1641,0,2,,,,,,,,,,442,2,352.0,loss
+3895232,Bayer Leverkusen,453,14,1.033846879,219,14,33,29,11,19,23,0,1721,0,3,,,,,,,,,,3421,1,343.0,loss
+3895232,Bayern Munich,713,9,0.618117409,181,14,39,30,19,11,7,0,2438,0,2,,,,,,,,,,3421,4,442.0,loss
+3895244,Bayer Leverkusen,662,18,1.8190613249999998,162,5,63,41,29,6,22,0,2268,0,1,,,,,,,,,,3412,2,4231.0,loss
+3895244,FC Heidenheim,422,6,0.457262184,250,16,47,50,18,8,26,0,1668,0,2,,,,,,,,,,4141,2,4141.0,loss
+3895250,Bayer Leverkusen,723,17,1.1127182105,131,14,43,21,13,6,14,0,2350,0,3,,,,,,,,,,3421,3,3421.0,loss
+3895250,FSV Mainz 05,364,13,1.141172176,169,16,51,45,5,20,28,0,1476,1,5,,,,,,,,,,3421,2,3511.0,loss
+3895258,Bayer Leverkusen,874,17,1.2933706569999999,122,9,37,24,8,8,3,0,2791,0,2,,,,,,,,,,3421,1,442.0,loss
+3895258,FC Köln,257,6,0.68641333,192,11,33,20,10,12,23,0,1115,1,2,,,,,,,,,,442,4,4411.0,loss
+3895266,Bayer Leverkusen,940,19,1.7859470585,110,6,46,19,13,4,8,0,2976,0,1,,,,,,,,,,3421,2,4231.0,loss
+3895266,Wolfsburg,300,3,0.226787301,115,9,30,25,7,13,20,0,1128,1,2,,,,,,,,,,343,3,4411.0,loss
+3895275,Bayer Leverkusen,764,19,2.596176258,129,7,49,32,12,6,15,0,2549,0,0,,,,,,,,,,3421,2,3511.0,loss
+3895275,Freiburg,373,11,0.930620068,124,13,49,40,2,8,29,0,1360,0,1,,,,,,,,,,343,0,,loss
+3895286,Bayer Leverkusen,785,34,2.769983018,127,9,61,20,14,10,13,0,2524,0,0,,,,,,,,,,3421,1,442.0,loss
+3895286,Hoffenheim,369,6,0.649217861,164,9,30,34,9,17,38,0,1370,0,1,,,,,,,,,,352,1,352.0,loss
+3895292,Bayer Leverkusen,708,20,2.5635430059999997,124,15,48,32,17,9,24,0,2379,0,2,,,,,,,,,,3421,1,3421.0,loss
+3895292,Union Berlin,372,9,0.5450826365,154,11,53,44,12,11,20,0,1464,1,2,,,,,,,,,,3511,3,41212.0,loss
+3895302,Bayer Leverkusen,651,20,3.004243277,220,11,54,18,14,7,9,0,2315,0,2,,,,,,,,,,3421,1,3421.0,loss
+3895302,Werder Bremen,521,7,0.683732782,212,6,40,34,12,10,15,0,1908,0,1,,,,,,,,,,352,1,352.0,loss
+3895309,Bayer Leverkusen,564,13,1.3641123442,151,16,50,30,17,5,11,0,1985,0,3,,,,,,,,,,343,1,3412.0,loss
+3895309,Borussia Dortmund,520,8,0.554835216,208,16,51,43,10,11,12,0,1905,0,4,,,,,,,,,,451,4,4231.0,loss
+3895320,Bayer Leverkusen,530,14,1.652524151,148,10,55,29,13,5,5,0,1787,0,4,,,,,,,,,,3421,2,3421.0,loss
+3895320,VfB Stuttgart,546,11,1.799442311,195,19,44,22,8,10,11,0,1984,0,3,,,,,,,,,,4222,2,343.0,loss
+3895333,Bayer Leverkusen,441,9,2.585808739,157,6,26,20,15,6,37,0,1606,0,0,,,,,,,,,,3421,2,3421.0,loss
+3895333,Eintracht Frankfurt,566,17,1.441534367,162,11,47,33,5,15,13,0,1943,0,0,,,,,,,,,,4222,0,,loss
+3895340,Bayer Leverkusen,645,29,4.301661423,73,11,50,29,18,6,18,0,2163,0,1,,,,,,,,,,343,3,343.0,loss
+3895340,Bochum,311,3,0.314100486,113,6,28,40,6,13,20,0,1152,1,2,,,,,,,,,,4231,5,3511.0,loss
+3895348,Augsburg,417,10,0.780331769,163,9,42,27,7,10,19,0,1570,0,1,,,,,,,,,,41212,1,41212.0,loss
+3895348,Bayer Leverkusen,771,20,2.164920404,122,7,50,19,22,9,14,0,2563,0,0,,,,,,,,,,3421,4,3421.0,loss

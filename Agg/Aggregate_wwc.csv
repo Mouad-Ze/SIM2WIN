@@ -1,0 +1,233 @@
+match_id,team,passes,shots,xg,pressures,fouls_committed,ball_recoveries,duels,dribbles,interceptions,clearances,tackles,possession_events,red_cards,yellow_cards,home_away,match_date,competition,season,home_team,away_team,home_score,away_score,result,starting_formation,tactical_shifts,last_formation,team_result
+22921,France Women's,641,21,1.143879698,104,12,47,16,17,9,10,0,2063,0,0,home,2019-06-07,International - Women's World Cup,2019.0,France Women's,Korea Republic Women's,4.0,0.0,home_win,442,2,4231.0,win
+22921,Korea Republic Women's,328,5,0.286732512,167,11,47,27,12,7,45,0,1340,0,0,away,2019-06-07,International - Women's World Cup,2019.0,France Women's,Korea Republic Women's,4.0,0.0,home_win,4411,0,,loss
+22924,Nigeria Women's,332,10,0.797710509,176,11,63,38,28,7,23,0,1361,0,2,away,2019-06-08,International - Women's World Cup,2019.0,Norway Women's,Nigeria Women's,3.0,0.0,home_win,4231,4,4231.0,loss
+22924,Norway Women's,470,10,0.7858000190000001,119,7,50,31,34,7,23,0,1710,0,0,home,2019-06-08,International - Women's World Cup,2019.0,Norway Women's,Nigeria Women's,3.0,0.0,home_win,442,0,,win
+22926,China PR Women's,344,5,0.556224445,118,24,58,54,18,10,80,0,1378,0,4,away,2019-06-08,International - Women's World Cup,2019.0,Germany Women's,China PR Women's,1.0,0.0,home_win,442,2,442.0,loss
+22926,Germany Women's,541,16,0.982400505,168,7,85,44,29,9,19,0,2021,0,1,home,2019-06-08,International - Women's World Cup,2019.0,Germany Women's,China PR Women's,1.0,0.0,home_win,451,2,451.0,win
+22930,South Africa Women's,216,4,0.39702972,301,14,65,32,17,15,67,0,1230,1,3,away,2019-06-08,International - Women's World Cup,2019.0,Spain Women's,South Africa Women's,3.0,1.0,home_win,442,0,,loss
+22930,Spain Women's,625,28,4.3168905504,169,11,63,22,35,11,21,0,2239,0,1,home,2019-06-08,International - Women's World Cup,2019.0,Spain Women's,South Africa Women's,3.0,1.0,home_win,433,1,433.0,win
+22933,Australia Women's,495,16,2.968020948,102,20,66,27,13,6,29,0,1730,0,1,home,2019-06-09,International - Women's World Cup,2019.0,Australia Women's,Italy Women's,1.0,2.0,away_win,451,0,,loss
+22933,Italy Women's,302,6,0.4505479603,105,20,50,30,10,8,30,0,1159,0,3,away,2019-06-09,International - Women's World Cup,2019.0,Australia Women's,Italy Women's,1.0,2.0,away_win,41212,1,4321.0,win
+22934,Brazil Women's,476,17,2.5194792102,140,17,63,38,19,8,14,0,1723,0,2,home,2019-06-09,International - Women's World Cup,2019.0,Brazil Women's,Jamaica Women's,3.0,0.0,home_win,442,2,442.0,win
+22934,Jamaica Women's,299,12,0.49637214999999996,89,10,78,31,28,8,25,0,1221,0,1,away,2019-06-09,International - Women's World Cup,2019.0,Brazil Women's,Jamaica Women's,3.0,0.0,home_win,433,0,,loss
+22936,England Women's,581,15,2.2976177722999997,252,8,45,25,23,1,10,0,2062,0,0,home,2019-06-09,International - Women's World Cup,2019.0,England Women's,Scotland Women's,2.0,1.0,home_win,4141,0,,win
+22936,Scotland Women's,407,9,0.4793350255,99,8,59,36,17,8,29,0,1518,0,2,away,2019-06-09,International - Women's World Cup,2019.0,England Women's,Scotland Women's,2.0,1.0,home_win,451,0,,loss
+22939,Cameroon Women's,228,4,0.211641613,184,13,74,41,26,14,45,0,1068,0,2,away,2019-06-10,International - Women's World Cup,2019.0,Canada Women's,Cameroon Women's,1.0,0.0,home_win,3511,2,3511.0,loss
+22939,Canada Women's,620,16,1.280142589,110,10,53,40,16,3,16,0,2106,0,0,home,2019-06-10,International - Women's World Cup,2019.0,Canada Women's,Cameroon Women's,1.0,0.0,home_win,442,0,,win
+22940,Argentina Women's,297,5,0.1949314686,186,8,65,36,20,14,53,0,1297,0,0,home,2019-06-10,International - Women's World Cup,2019.0,Argentina Women's,Japan Women's,0.0,0.0,draw,4141,0,,draw
+22940,Japan Women's,713,8,0.346519747,126,7,57,35,30,8,16,0,2402,0,3,away,2019-06-10,International - Women's World Cup,2019.0,Argentina Women's,Japan Women's,0.0,0.0,draw,442,1,442.0,draw
+22942,Netherlands Women's,725,16,2.1951364535,159,8,60,24,22,7,13,0,2471,0,0,away,2019-06-11,International - Women's World Cup,2019.0,New Zealand Women's,Netherlands Women's,0.0,1.0,away_win,433,0,,win
+22942,New Zealand Women's,327,6,0.697050917,202,5,60,48,19,8,30,0,1378,0,0,home,2019-06-11,International - Women's World Cup,2019.0,New Zealand Women's,Netherlands Women's,0.0,1.0,away_win,4411,0,,loss
+22943,Thailand Women's,264,2,0.02030972,180,6,38,55,5,19,51,0,1137,0,1,away,2019-06-11,International - Women's World Cup,2019.0,United States Women's,Thailand Women's,13.0,0.0,home_win,4231,0,,loss
+22943,United States Women's,710,39,5.9534656550000005,67,5,91,22,38,9,10,0,2340,0,0,home,2019-06-11,International - Women's World Cup,2019.0,United States Women's,Thailand Women's,13.0,0.0,home_win,433,1,352.0,win
+22944,Chile Women's,279,5,0.11702237339999999,204,11,56,42,7,15,28,0,1225,0,2,home,2019-06-11,International - Women's World Cup,2019.0,Chile Women's,Sweden Women's,0.0,2.0,away_win,433,0,,loss
+22944,Sweden Women's,583,25,2.5943669065,123,13,69,29,27,10,14,0,2029,0,1,away,2019-06-11,International - Women's World Cup,2019.0,Chile Women's,Sweden Women's,0.0,2.0,away_win,4231,1,4231.0,win
+22945,Korea Republic Women's,553,17,0.857578245,116,9,73,30,13,2,27,0,1969,0,2,away,2019-06-12,International - Women's World Cup,2019.0,Nigeria Women's,Korea Republic Women's,2.0,0.0,home_win,4411,1,451.0,loss
+22945,Nigeria Women's,315,13,0.801949223,151,10,51,33,28,14,42,0,1267,0,1,home,2019-06-12,International - Women's World Cup,2019.0,Nigeria Women's,Korea Republic Women's,2.0,0.0,home_win,433,0,,win
+22948,France Women's,361,16,2.109810502,143,7,82,32,21,10,21,0,1421,0,1,home,2019-06-12,International - Women's World Cup,2019.0,France Women's,Norway Women's,2.0,1.0,home_win,442,1,451.0,win
+22948,Norway Women's,442,4,0.306314692,102,9,46,46,7,8,48,0,1566,0,1,away,2019-06-12,International - Women's World Cup,2019.0,France Women's,Norway Women's,2.0,1.0,home_win,442,1,442.0,loss
+22949,Germany Women's,307,13,1.478954139,166,10,82,53,19,12,49,0,1381,0,1,home,2019-06-12,International - Women's World Cup,2019.0,Germany Women's,Spain Women's,1.0,0.0,home_win,442,1,442.0,win
+22949,Spain Women's,563,17,0.9877610683,128,9,80,48,36,1,12,0,1981,0,0,away,2019-06-12,International - Women's World Cup,2019.0,Germany Women's,Spain Women's,1.0,0.0,home_win,433,0,,loss
+22955,Australia Women's,528,10,0.984112444,224,7,51,34,18,10,27,0,1960,0,0,home,2019-06-13,International - Women's World Cup,2019.0,Australia Women's,Brazil Women's,3.0,2.0,home_win,433,0,,win
+22955,Brazil Women's,423,11,1.5135259429999999,148,9,58,35,27,14,25,0,1612,0,3,away,2019-06-13,International - Women's World Cup,2019.0,Australia Women's,Brazil Women's,3.0,2.0,home_win,4141,1,4141.0,loss
+22956,China PR Women's,490,15,1.199871356,210,12,58,30,29,12,21,0,1777,0,0,away,2019-06-13,International - Women's World Cup,2019.0,South Africa Women's,China PR Women's,0.0,1.0,away_win,442,1,442.0,win
+22956,South Africa Women's,447,5,0.21343773,147,3,58,60,22,5,42,0,1623,0,1,home,2019-06-13,International - Women's World Cup,2019.0,South Africa Women's,China PR Women's,0.0,1.0,away_win,433,0,,loss
+22961,Japan Women's,509,18,2.273645313,164,11,41,33,17,15,17,0,1784,0,1,home,2019-06-14,International - Women's World Cup,2019.0,Japan Women's,Scotland Women's,2.0,1.0,home_win,442,0,,win
+22961,Scotland Women's,498,12,0.5290946405,180,6,56,30,10,8,17,0,1802,0,1,away,2019-06-14,International - Women's World Cup,2019.0,Japan Women's,Scotland Women's,2.0,1.0,home_win,442,0,,loss
+22962,Argentina Women's,222,2,0.0269828437,257,12,56,37,13,13,27,0,1092,0,2,away,2019-06-14,International - Women's World Cup,2019.0,England Women's,Argentina Women's,1.0,0.0,home_win,451,0,,loss
+22962,England Women's,617,17,3.245917304,100,10,55,31,16,3,9,0,2051,0,1,home,2019-06-14,International - Women's World Cup,2019.0,England Women's,Argentina Women's,1.0,0.0,home_win,4141,2,4141.0,win
+22963,Italy Women's,483,16,3.7530825127,227,3,77,32,18,4,35,0,1915,0,0,away,2019-06-14,International - Women's World Cup,2019.0,Jamaica Women's,Italy Women's,0.0,5.0,away_win,41212,1,41212.0,win
+22963,Jamaica Women's,374,8,0.313995843,227,9,77,33,34,11,37,0,1606,0,2,home,2019-06-14,International - Women's World Cup,2019.0,Jamaica Women's,Italy Women's,0.0,5.0,away_win,442,0,,loss
+22964,Cameroon Women's,345,10,1.028300077,229,18,84,44,19,10,21,0,1531,0,3,away,2019-06-15,International - Women's World Cup,2019.0,Netherlands Women's,Cameroon Women's,3.0,1.0,home_win,433,0,,loss
+22964,Netherlands Women's,522,9,1.5053251109999999,135,6,63,32,19,11,24,0,1901,0,0,home,2019-06-15,International - Women's World Cup,2019.0,Netherlands Women's,Cameroon Women's,3.0,1.0,home_win,433,1,433.0,win
+22966,Canada Women's,663,22,2.7431126054,98,8,71,41,19,7,21,0,2252,0,0,home,2019-06-15,International - Women's World Cup,2019.0,Canada Women's,New Zealand Women's,2.0,0.0,home_win,3511,2,3511.0,win
+22966,New Zealand Women's,296,2,0.08579355899999999,166,6,52,39,13,4,45,0,1206,0,0,away,2019-06-15,International - Women's World Cup,2019.0,Canada Women's,New Zealand Women's,2.0,0.0,home_win,442,2,352.0,loss
+22973,Sweden Women's,661,35,3.980368564,128,10,58,25,27,6,4,0,2309,0,0,home,2019-06-16,International - Women's World Cup,2019.0,Sweden Women's,Thailand Women's,5.0,1.0,home_win,4231,1,4231.0,win
+22973,Thailand Women's,258,7,0.286477061,144,7,39,48,13,20,39,0,1163,0,2,away,2019-06-16,International - Women's World Cup,2019.0,Sweden Women's,Thailand Women's,5.0,1.0,home_win,4141,0,,loss
+22974,Chile Women's,255,1,0.0063354955,303,14,50,46,19,9,32,0,1301,0,3,away,2019-06-16,International - Women's World Cup,2019.0,United States Women's,Chile Women's,3.0,0.0,home_win,433,2,4231.0,loss
+22974,United States Women's,613,28,3.137677051,89,15,61,25,33,5,6,0,2068,0,2,home,2019-06-16,International - Women's World Cup,2019.0,United States Women's,Chile Women's,3.0,0.0,home_win,433,2,433.0,win
+22980,France Women's,575,20,2.028490302,142,12,63,24,29,8,24,0,2059,0,1,away,2019-06-17,International - Women's World Cup,2019.0,Nigeria Women's,France Women's,0.0,1.0,away_win,442,1,442.0,win
+22980,Nigeria Women's,239,2,0.17556812700000002,157,14,43,46,29,15,25,0,1042,1,3,home,2019-06-17,International - Women's World Cup,2019.0,Nigeria Women's,France Women's,0.0,1.0,away_win,433,1,442.0,loss
+22981,Korea Republic Women's,480,22,2.161687729,195,15,68,35,19,10,12,0,1772,0,2,home,2019-06-17,International - Women's World Cup,2019.0,Korea Republic Women's,Norway Women's,1.0,2.0,away_win,442,1,442.0,loss
+22981,Norway Women's,343,8,2.162097936,126,13,39,26,19,7,44,0,1327,0,0,away,2019-06-17,International - Women's World Cup,2019.0,Korea Republic Women's,Norway Women's,1.0,2.0,away_win,442,2,4231.0,win
+22983,China PR Women's,335,1,0.02244288,203,15,55,61,8,15,49,0,1396,0,1,home,2019-06-17,International - Women's World Cup,2019.0,China PR Women's,Spain Women's,0.0,0.0,draw,442,0,,draw
+22983,Spain Women's,610,25,1.697005864,135,14,91,33,31,7,29,0,2110,0,0,away,2019-06-17,International - Women's World Cup,2019.0,China PR Women's,Spain Women's,0.0,0.0,draw,442,2,433.0,draw
+22984,Germany Women's,597,23,4.612660633,162,9,57,29,16,17,12,0,2129,0,1,away,2019-06-17,International - Women's World Cup,2019.0,South Africa Women's,Germany Women's,0.0,4.0,away_win,442,0,,win
+22984,South Africa Women's,405,8,0.6760514378,111,14,69,26,31,10,30,0,1525,0,3,home,2019-06-17,International - Women's World Cup,2019.0,South Africa Women's,Germany Women's,0.0,4.0,away_win,4141,1,4141.0,loss
+68311,Australia Women's,704,11,2.068743195,122,14,57,25,20,14,16,0,2345,0,1,away,2019-06-18,International - Women's World Cup,2019.0,Jamaica Women's,Australia Women's,1.0,4.0,away_win,433,1,433.0,win
+68311,Jamaica Women's,267,10,0.709874941,199,7,65,37,31,12,29,0,1214,0,1,home,2019-06-18,International - Women's World Cup,2019.0,Jamaica Women's,Australia Women's,1.0,4.0,away_win,4231,1,4231.0,loss
+68312,Brazil Women's,420,11,1.717116743,122,15,56,28,23,7,23,0,1554,0,2,away,2019-06-18,International - Women's World Cup,2019.0,Italy Women's,Brazil Women's,0.0,1.0,away_win,4411,1,4411.0,win
+68312,Italy Women's,390,10,0.945588433,176,13,64,35,16,4,21,0,1531,0,1,home,2019-06-18,International - Women's World Cup,2019.0,Italy Women's,Brazil Women's,0.0,1.0,away_win,41212,0,,loss
+68337,England Women's,575,16,1.434248508,267,11,60,37,23,7,19,0,2146,0,0,away,2019-06-19,International - Women's World Cup,2019.0,Japan Women's,England Women's,0.0,2.0,away_win,4141,0,,win
+68337,Japan Women's,517,16,1.1124942504,218,9,49,34,24,9,42,0,1981,0,0,home,2019-06-19,International - Women's World Cup,2019.0,Japan Women's,England Women's,0.0,2.0,away_win,442,1,442.0,loss
+68338,Argentina Women's,387,11,1.5321079181,203,13,72,39,20,7,30,0,1594,0,1,away,2019-06-19,International - Women's World Cup,2019.0,Scotland Women's,Argentina Women's,3.0,3.0,draw,4411,0,,draw
+68338,Scotland Women's,400,11,1.9250947840000001,168,17,62,37,26,7,15,0,1535,0,3,home,2019-06-19,International - Women's World Cup,2019.0,Scotland Women's,Argentina Women's,3.0,3.0,draw,4231,0,,draw
+68343,Chile Women's,562,28,2.7339740802,92,8,91,17,25,11,17,0,1942,0,0,away,2019-06-20,International - Women's World Cup,2019.0,Thailand Women's,Chile Women's,0.0,2.0,away_win,433,1,352.0,win
+68343,Thailand Women's,305,4,0.190000546,136,11,52,35,12,8,44,0,1230,0,2,home,2019-06-20,International - Women's World Cup,2019.0,Thailand Women's,Chile Women's,0.0,2.0,away_win,4141,1,442.0,loss
+68344,Canada Women's,462,12,1.248275455,165,8,76,33,42,10,17,0,1708,0,2,away,2019-06-20,International - Women's World Cup,2019.0,Netherlands Women's,Canada Women's,2.0,1.0,home_win,442,1,4231.0,loss
+68344,Netherlands Women's,444,8,1.533231195,265,14,53,44,22,10,35,0,1785,0,2,home,2019-06-20,International - Women's World Cup,2019.0,Netherlands Women's,Canada Women's,2.0,1.0,home_win,433,0,,win
+68345,Sweden Women's,401,7,0.6278866439999999,185,10,52,38,18,10,36,0,1535,0,1,home,2019-06-20,International - Women's World Cup,2019.0,Sweden Women's,United States Women's,0.0,2.0,away_win,4231,1,4231.0,loss
+68345,United States Women's,639,16,1.7987431010000001,188,5,70,40,18,5,21,0,2273,0,1,away,2019-06-20,International - Women's World Cup,2019.0,Sweden Women's,United States Women's,0.0,2.0,away_win,433,0,,win
+68346,Cameroon Women's,369,22,2.0206160902,168,16,68,50,30,12,28,0,1461,0,1,home,2019-06-20,International - Women's World Cup,2019.0,Cameroon Women's,New Zealand Women's,2.0,1.0,home_win,433,0,,win
+68346,New Zealand Women's,472,9,0.8330351447,122,12,47,51,25,8,32,0,1631,0,1,away,2019-06-20,International - Women's World Cup,2019.0,Cameroon Women's,New Zealand Women's,2.0,1.0,home_win,352,1,352.0,loss
+68355,Germany Women's,463,12,1.676943118,114,17,49,31,20,7,33,0,1691,0,2,home,2019-06-22,International - Women's World Cup,2019.0,Germany Women's,Nigeria Women's,3.0,0.0,home_win,442,0,,win
+68355,Nigeria Women's,232,7,0.2883710255,101,20,50,43,25,4,14,0,968,0,3,away,2019-06-22,International - Women's World Cup,2019.0,Germany Women's,Nigeria Women's,3.0,0.0,home_win,442,3,442.0,loss
+68357,Australia Women's,671,20,3.5211034103,159,9,68,32,11,14,33,0,2353,1,0,away,2019-06-22,International - Women's World Cup,2019.0,Norway Women's,Australia Women's,1.0,1.0,draw,433,2,433.0,draw
+68357,Norway Women's,576,32,4.989112048,244,13,81,42,22,18,56,0,2244,0,3,home,2019-06-22,International - Women's World Cup,2019.0,Norway Women's,Australia Women's,1.0,1.0,draw,4411,0,,draw
+68362,Cameroon Women's,300,7,0.5922388854,202,13,68,40,15,12,45,0,1307,0,2,away,2019-06-23,International - Women's World Cup,2019.0,England Women's,Cameroon Women's,3.0,0.0,home_win,4231,0,,loss
+68362,England Women's,619,7,1.29601896,79,4,61,21,35,9,42,0,2028,0,0,home,2019-06-23,International - Women's World Cup,2019.0,England Women's,Cameroon Women's,3.0,0.0,home_win,4141,1,4141.0,win
+69137,Brazil Women's,479,12,0.8794135236,177,23,78,52,25,12,51,0,1829,0,4,away,2019-06-23,International - Women's World Cup,2019.0,France Women's,Brazil Women's,2.0,1.0,home_win,442,1,442.0,loss
+69137,France Women's,498,14,1.984868016,167,11,81,43,22,6,35,0,1831,0,1,home,2019-06-23,International - Women's World Cup,2019.0,France Women's,Brazil Women's,2.0,1.0,home_win,442,1,442.0,win
+69161,Spain Women's,368,4,0.20409348500000002,196,19,47,52,15,9,25,0,1470,0,1,home,2019-06-24,International - Women's World Cup,2019.0,Spain Women's,United States Women's,1.0,2.0,away_win,433,1,442.0,loss
+69161,United States Women's,428,11,2.17424655,100,6,57,38,34,9,46,0,1585,0,1,away,2019-06-24,International - Women's World Cup,2019.0,Spain Women's,United States Women's,1.0,2.0,away_win,433,0,,win
+69163,Canada Women's,558,11,1.256878542,172,6,66,51,17,5,21,0,1979,0,1,away,2019-06-24,International - Women's World Cup,2019.0,Sweden Women's,Canada Women's,1.0,0.0,home_win,442,3,442.0,loss
+69163,Sweden Women's,384,8,0.619273636,192,12,65,44,10,5,33,0,1511,0,2,home,2019-06-24,International - Women's World Cup,2019.0,Sweden Women's,Canada Women's,1.0,0.0,home_win,4231,2,4231.0,win
+69188,Japan Women's,526,12,1.072232486,166,8,56,28,19,6,34,0,1898,0,1,away,2019-06-25,International - Women's World Cup,2019.0,Netherlands Women's,Japan Women's,2.0,1.0,home_win,442,0,,loss
+69188,Netherlands Women's,606,11,1.624428172,198,9,74,20,16,10,22,0,2179,0,0,home,2019-06-25,International - Women's World Cup,2019.0,Netherlands Women's,Japan Women's,2.0,1.0,home_win,433,0,,win
+69191,China PR Women's,577,19,0.704297258,122,10,64,36,14,4,40,0,2004,0,0,away,2019-06-25,International - Women's World Cup,2019.0,Italy Women's,China PR Women's,2.0,0.0,home_win,442,3,442.0,loss
+69191,Italy Women's,361,15,0.9897985447,158,9,68,56,11,14,32,0,1414,0,0,home,2019-06-25,International - Women's World Cup,2019.0,Italy Women's,China PR Women's,2.0,0.0,home_win,41212,2,41212.0,win
+69199,England Women's,496,16,2.756277429,158,9,53,30,10,9,22,0,1776,0,0,away,2019-06-27,International - Women's World Cup,2019.0,Norway Women's,England Women's,0.0,3.0,away_win,4141,0,,win
+69199,Norway Women's,483,12,0.7359335859999999,146,12,48,25,10,14,18,0,1710,0,1,home,2019-06-27,International - Women's World Cup,2019.0,Norway Women's,England Women's,0.0,3.0,away_win,442,2,442.0,loss
+69202,France Women's,512,20,1.1991003575,137,8,61,38,15,12,4,0,1802,0,2,home,2019-06-28,International - Women's World Cup,2019.0,France Women's,United States Women's,1.0,2.0,away_win,4231,1,4231.0,loss
+69202,United States Women's,331,10,0.472523115,177,12,52,40,16,8,37,0,1359,0,0,away,2019-06-28,International - Women's World Cup,2019.0,France Women's,United States Women's,1.0,2.0,away_win,433,0,,win
+69205,Italy Women's,297,6,0.5500126120000001,172,13,50,31,17,13,17,0,1235,0,4,home,2019-06-29,International - Women's World Cup,2019.0,Italy Women's,Netherlands Women's,0.0,2.0,away_win,442,0,,loss
+69205,Netherlands Women's,501,20,1.69370208,97,18,45,24,22,12,15,0,1735,0,0,away,2019-06-29,International - Women's World Cup,2019.0,Italy Women's,Netherlands Women's,0.0,2.0,away_win,433,1,433.0,win
+69208,Germany Women's,567,13,1.269988922,100,6,63,37,16,2,30,0,1901,0,0,home,2019-06-29,International - Women's World Cup,2019.0,Germany Women's,Sweden Women's,1.0,2.0,away_win,442,2,442.0,loss
+69208,Sweden Women's,337,11,1.322665298,196,8,59,37,6,1,26,0,1352,0,1,away,2019-06-29,International - Women's World Cup,2019.0,Germany Women's,Sweden Women's,1.0,2.0,away_win,4231,0,,win
+69258,England Women's,500,7,1.4089289983,116,14,69,39,17,10,18,0,1741,1,1,home,2019-07-02,International - Women's World Cup,2019.0,England Women's,United States Women's,1.0,2.0,away_win,4231,1,4231.0,loss
+69258,United States Women's,373,11,0.791733162,125,10,56,29,14,13,16,0,1373,0,2,away,2019-07-02,International - Women's World Cup,2019.0,England Women's,United States Women's,1.0,2.0,away_win,433,2,343.0,win
+69284,Netherlands Women's,644,16,1.1736169887,203,14,85,78,6,19,38,0,2357,0,2,home,2019-07-03,International - Women's World Cup,2019.0,Netherlands Women's,Sweden Women's,1.0,0.0,home_win,433,0,,win
+69284,Sweden Women's,501,11,0.769092483,191,25,84,42,25,12,29,0,1885,0,1,away,2019-07-03,International - Women's World Cup,2019.0,Netherlands Women's,Sweden Women's,1.0,0.0,home_win,4231,0,,loss
+69301,England Women's,568,11,0.4738433137,100,11,64,31,18,5,32,0,1929,0,1,home,2019-07-06,International - Women's World Cup,2019.0,England Women's,Sweden Women's,1.0,2.0,away_win,4141,1,4141.0,loss
+69301,Sweden Women's,353,8,0.5492785125,136,12,62,41,7,14,25,0,1360,0,1,away,2019-07-06,International - Women's World Cup,2019.0,England Women's,Sweden Women's,1.0,2.0,away_win,4231,1,343.0,win
+69321,Netherlands Women's,415,6,0.191006669,123,11,47,56,26,8,27,0,1462,0,2,away,2019-07-07,International - Women's World Cup,2019.0,United States Women's,Netherlands Women's,2.0,0.0,home_win,4231,1,343.0,loss
+69321,United States Women's,424,15,2.171741284,127,10,73,50,34,3,47,0,1606,0,1,home,2019-07-07,International - Women's World Cup,2019.0,United States Women's,Netherlands Women's,2.0,0.0,home_win,433,0,,win
+3893787,New Zealand Women's,417,12,1.6264745423,211,6,72,59,13,8,24,0,1632,0,0,,,,,,,,,,442,0,,loss
+3893787,Norway Women's,405,13,0.978000758,219,15,60,47,21,12,42,0,1596,0,1,,,,,,,,,,4141,0,,loss
+3893788,Australia Women's,491,13,1.4420012665,119,13,72,34,21,5,33,0,1806,0,0,,,,,,,,,,4231,2,3421.0,loss
+3893788,Republic of Ireland Women's,304,9,0.694994207,236,11,57,48,10,8,17,0,1305,0,1,,,,,,,,,,343,2,3412.0,loss
+3893789,Philippines Women's,290,3,0.173312468,314,7,53,29,11,13,33,0,1362,0,1,,,,,,,,,,352,2,442.0,loss
+3893789,Switzerland Women's,791,18,3.353672381,106,10,62,27,13,10,17,0,2628,0,2,,,,,,,,,,433,1,433.0,loss
+3893790,Canada Women's,513,16,1.60596582,136,6,56,31,22,9,17,0,1823,0,2,,,,,,,,,,4231,3,4231.0,loss
+3893790,Nigeria Women's,255,10,0.4691193334,175,18,60,49,8,8,21,0,1151,1,1,,,,,,,,,,4141,2,4141.0,loss
+3893791,Costa Rica Women's,177,1,0.12987016,239,10,48,58,7,12,57,0,1022,0,0,,,,,,,,,,343,2,4231.0,loss
+3893791,Spain Women's,671,46,4.171521951,93,8,89,25,30,1,18,0,2302,0,0,,,,,,,,,,433,2,433.0,loss
+3893792,United States Women's,543,29,4.267207448,87,14,101,26,28,9,17,0,1945,0,1,,,,,,,,,,433,1,433.0,loss
+3893792,Vietnam Women's,281,0,0.0,189,21,45,49,6,13,48,0,1155,0,1,,,,,,,,,,343,1,343.0,loss
+3893793,Japan Women's,654,26,4.6190356464,165,5,63,22,14,12,11,0,2218,0,0,,,,,,,,,,343,1,343.0,loss
+3893793,Zambia Women's,455,0,0.0,228,11,70,28,17,14,17,0,1759,1,1,,,,,,,,,,4141,5,4411.0,loss
+3893794,England Women's,698,20,2.5237454112999997,174,19,63,36,16,10,11,0,2352,0,2,,,,,,,,,,433,2,433.0,loss
+3893794,Haiti Women's,253,7,0.6454013455000001,182,5,65,47,15,13,25,0,1187,0,1,,,,,,,,,,4231,2,4231.0,loss
+3893795,China PR Women's,434,8,0.262731132,181,9,73,50,19,15,43,0,1706,0,0,,,,,,,,,,442,2,442.0,loss
+3893795,Denmark Women's,551,13,0.864348365,187,9,84,45,19,4,28,0,2026,0,1,,,,,,,,,,433,2,4141.0,loss
+3893796,South Africa Women's,292,10,1.036704651,187,8,61,41,3,12,35,0,1197,0,2,,,,,,,,,,442,2,433.0,loss
+3893796,Sweden Women's,618,16,1.604097829,122,9,62,22,14,4,13,0,2028,0,0,,,,,,,,,,3421,1,4411.0,loss
+3893797,Netherlands Women's,457,12,1.217858819,222,8,62,51,17,19,18,0,1800,0,1,,,,,,,,,,352,2,3511.0,loss
+3893797,Portugal Women's,360,2,0.08419394,247,15,60,52,24,20,11,0,1538,0,2,,,,,,,,,,3412,2,41212.0,loss
+3893798,France Women's,553,14,1.899174133,129,16,73,29,16,6,19,0,1919,0,1,,,,,,,,,,442,0,,loss
+3893798,Jamaica Women's,230,6,0.1644574482,210,11,57,48,11,10,35,0,1090,1,2,,,,,,,,,,4411,1,4411.0,loss
+3893799,Germany Women's,770,16,2.315462014,182,10,58,33,29,9,7,0,2643,0,1,,,,,,,,,,4231,2,4231.0,loss
+3893799,Morocco Women's,282,6,0.1764720397,273,12,59,43,23,14,21,0,1365,0,0,,,,,,,,,,442,0,,loss
+3893800,Argentina Women's,388,5,0.2361659321,203,20,66,44,24,15,40,0,1598,0,4,,,,,,,,,,4231,0,,loss
+3893800,Italy Women's,438,12,0.538951171,237,20,63,43,25,6,17,0,1786,0,2,,,,,,,,,,4231,1,4231.0,loss
+3893801,Brazil Women's,631,33,3.555328247,121,6,81,25,29,9,15,0,2184,0,0,,,,,,,,,,442,0,,loss
+3893801,Panama Women's,251,6,0.16133432520000002,202,13,47,42,13,17,26,0,1141,0,0,,,,,,,,,,343,3,4141.0,loss
+3893802,Colombia Women's,403,17,1.512752494,199,10,82,61,25,7,28,0,1697,0,2,,,,,,,,,,4231,6,4231.0,loss
+3893802,Korea Republic Women's,314,5,0.32761481200000003,269,17,49,63,10,19,19,0,1380,0,2,,,,,,,,,,352,5,4231.0,loss
+3893803,New Zealand Women's,605,18,1.3607474370000001,125,10,89,38,12,3,20,0,2019,0,1,,,,,,,,,,433,2,343.0,loss
+3893803,Philippines Women's,290,4,0.30559884000000004,216,9,57,39,4,9,34,0,1166,0,1,,,,,,,,,,442,3,442.0,loss
+3893804,Norway Women's,522,15,1.212328821,157,12,57,23,9,10,16,0,1794,0,0,,,,,,,,,,433,1,433.0,loss
+3893804,Switzerland Women's,510,8,0.948405092,143,12,57,25,9,9,20,0,1757,0,0,,,,,,,,,,4321,0,,loss
+3893805,Costa Rica Women's,456,6,0.145332879,198,15,52,26,6,10,36,0,1694,0,1,,,,,,,,,,4411,1,4411.0,loss
+3893805,Japan Women's,592,23,2.46197941,146,10,59,27,14,14,13,0,2069,0,0,,,,,,,,,,3421,2,3421.0,loss
+3893806,Spain Women's,784,22,3.775187021,187,7,74,37,33,9,26,0,2721,0,0,,,,,,,,,,433,2,433.0,loss
+3893806,Zambia Women's,281,10,0.4060642065,319,6,76,34,17,20,28,0,1438,0,2,,,,,,,,,,4231,0,,loss
+3893807,Canada Women's,574,17,1.771984611,141,6,67,44,23,8,27,0,2047,0,2,,,,,,,,,,4231,2,4231.0,loss
+3893807,Republic of Ireland Women's,360,14,1.023560795,235,13,59,53,13,5,18,0,1456,0,1,,,,,,,,,,343,2,442.0,loss
+3893808,Netherlands Women's,530,5,0.487140879,184,16,64,51,13,5,48,0,1987,0,0,,,,,,,,,,352,1,352.0,loss
+3893808,United States Women's,419,18,1.008045193,245,14,87,36,16,12,19,0,1732,0,1,,,,,,,,,,433,0,,loss
+3893809,Australia Women's,518,29,2.330214533,130,5,78,27,13,13,21,0,1844,0,1,,,,,,,,,,442,1,442.0,loss
+3893809,Nigeria Women's,305,11,1.1819037143,152,8,66,36,18,8,39,0,1273,0,2,,,,,,,,,,4231,5,343.0,loss
+3893810,Portugal Women's,614,29,3.8234859485,136,10,74,23,32,3,11,0,2134,0,1,,,,,,,,,,3412,2,3412.0,loss
+3893810,Vietnam Women's,284,5,0.165503021,229,8,57,40,10,12,24,0,1242,0,0,,,,,,,,,,343,3,343.0,loss
+3893811,Denmark Women's,288,6,0.5216109680000001,196,15,39,41,8,9,31,0,1150,0,0,,,,,,,,,,4231,2,4231.0,loss
+3893811,England Women's,657,12,1.014831096,125,7,60,35,16,8,30,0,2212,0,0,,,,,,,,,,433,2,433.0,loss
+3893812,Argentina Women's,553,13,0.588288102,151,9,60,35,17,8,19,0,1950,0,1,,,,,,,,,,4231,2,433.0,loss
+3893812,South Africa Women's,365,13,2.181358387,283,15,90,51,22,17,17,0,1652,0,2,,,,,,,,,,4231,1,4231.0,loss
+3893813,China PR Women's,444,8,1.259252412,129,11,69,43,16,15,36,0,1695,1,0,,,,,,,,,,4231,5,4411.0,loss
+3893813,Haiti Women's,419,7,0.761060866,137,8,72,42,15,9,19,0,1544,0,1,,,,,,,,,,4231,2,41212.0,loss
+3893814,Italy Women's,512,12,0.6824053325,237,1,63,45,14,13,16,0,1981,0,0,,,,,,,,,,4231,2,41212.0,loss
+3893814,Sweden Women's,463,21,3.5935176159999997,198,14,82,31,17,5,12,0,1729,0,0,,,,,,,,,,4231,0,,loss
+3893815,Brazil Women's,408,11,0.950032264,225,12,61,47,23,10,30,0,1632,0,1,,,,,,,,,,442,1,442.0,loss
+3893815,France Women's,473,20,0.9078841072,155,14,84,60,17,17,23,0,1787,0,3,,,,,,,,,,442,3,4141.0,loss
+3893816,Jamaica Women's,385,21,1.042438936,177,15,61,28,28,13,33,0,1549,0,1,,,,,,,,,,4141,1,4141.0,loss
+3893816,Panama Women's,400,13,0.5091767395,211,11,78,46,21,10,27,0,1665,0,2,,,,,,,,,,4231,1,4231.0,loss
+3893817,New Zealand Women's,534,12,0.697832184,240,7,76,61,9,14,17,0,2025,0,0,,,,,,,,,,433,3,433.0,loss
+3893817,Switzerland Women's,540,3,0.082423238,180,15,77,40,16,9,36,0,1940,0,0,,,,,,,,,,433,3,41212.0,loss
+3893818,Colombia Women's,301,9,0.4837397987,261,19,75,44,23,9,30,0,1439,0,3,,,,,,,,,,4231,3,4141.0,loss
+3893818,Germany Women's,619,14,1.49605654,169,9,66,44,27,6,20,0,2192,0,1,,,,,,,,,,4231,5,4231.0,loss
+3893819,Korea Republic Women's,514,17,1.3857554852,138,7,69,40,17,8,17,0,1810,0,0,,,,,,,,,,352,4,442.0,loss
+3893819,Morocco Women's,305,10,1.032568492,233,17,60,51,23,14,33,0,1359,0,1,,,,,,,,,,4411,2,4411.0,loss
+3893820,Norway Women's,685,31,3.481048792,106,8,75,23,10,2,31,0,2257,0,1,,,,,,,,,,4141,1,4141.0,loss
+3893820,Philippines Women's,292,4,0.11139621599999999,218,7,64,31,4,12,36,0,1264,1,1,,,,,,,,,,442,2,41212.0,loss
+3893821,Australia Women's,370,11,3.1008675615,160,9,65,46,15,6,33,0,1434,0,2,,,,,,,,,,442,1,343.0,loss
+3893821,Canada Women's,550,11,0.52952204,171,5,84,43,18,13,20,0,1957,0,0,,,,,,,,,,4231,2,442.0,loss
+3893822,Japan Women's,301,7,0.8821753840000001,229,4,55,46,8,16,18,0,1291,0,0,,,,,,,,,,3421,0,,loss
+3893822,Spain Women's,939,10,0.5793094562,185,13,67,17,22,8,12,0,3142,0,2,,,,,,,,,,433,3,433.0,loss
+3893823,Costa Rica Women's,434,16,2.299469828,183,14,72,25,17,14,28,0,1691,0,3,,,,,,,,,,4231,4,4231.0,loss
+3893823,Zambia Women's,325,15,1.9483859435,209,21,75,28,19,6,25,0,1376,0,2,,,,,,,,,,4141,0,,loss
+3893824,Nigeria Women's,394,11,1.130158966,222,11,46,24,30,16,11,0,1597,0,0,,,,,,,,,,4231,1,4231.0,loss
+3893824,Republic of Ireland Women's,573,5,0.496109389,204,7,58,28,18,12,6,0,2039,0,1,,,,,,,,,,343,1,343.0,loss
+3893825,Denmark Women's,522,9,1.812893586,160,11,60,40,15,6,26,0,1878,0,1,,,,,,,,,,4231,3,343.0,loss
+3893825,Haiti Women's,337,9,0.5274343557,165,6,84,43,19,11,19,0,1382,0,0,,,,,,,,,,4231,1,4231.0,loss
+3893826,Portugal Women's,444,6,0.323351046,145,16,56,39,19,11,20,0,1654,0,3,,,,,,,,,,41212,3,41212.0,loss
+3893826,United States Women's,326,17,1.58616484,246,15,55,34,15,14,41,0,1418,0,3,,,,,,,,,,433,1,343.0,loss
+3893827,Netherlands Women's,762,41,4.2380863391,121,12,67,20,24,8,14,0,2543,0,0,,,,,,,,,,352,0,,loss
+3893827,Vietnam Women's,337,5,0.276434381,299,5,34,42,7,11,16,0,1434,0,1,,,,,,,,,,343,2,343.0,loss
+3893828,China PR Women's,298,7,1.015911129,242,5,51,41,12,7,39,0,1287,0,0,,,,,,,,,,442,3,442.0,loss
+3893828,England Women's,826,17,2.26111686,159,11,64,35,16,10,20,0,2772,0,1,,,,,,,,,,3412,0,,loss
+3893829,France Women's,560,26,3.339155279,141,19,87,52,23,11,18,0,2075,0,0,,,,,,,,,,4411,2,4411.0,loss
+3893829,Panama Women's,233,6,1.426944113,188,9,79,37,15,9,36,0,1148,0,1,,,,,,,,,,451,4,4231.0,loss
+3893830,Argentina Women's,352,6,0.3403296344,172,8,45,44,13,10,11,0,1339,0,1,,,,,,,,,,4141,3,442.0,loss
+3893830,Sweden Women's,478,7,1.557407935,153,22,61,37,26,12,13,0,1763,0,1,,,,,,,,,,4231,1,4231.0,loss
+3893831,Italy Women's,514,17,3.196025029,148,9,76,27,17,19,21,0,1866,0,0,,,,,,,,,,4231,3,352.0,loss
+3893831,South Africa Women's,302,12,0.7722712755000001,261,12,63,44,14,5,48,0,1378,0,0,,,,,,,,,,4231,2,4231.0,loss
+3893832,Brazil Women's,676,18,1.2934621858,101,4,76,37,14,3,18,0,2197,0,0,,,,,,,,,,442,2,352.0,loss
+3893832,Jamaica Women's,279,3,0.16734487800000003,245,10,67,47,15,13,41,0,1265,0,1,,,,,,,,,,4411,0,,loss
+3893833,Germany Women's,597,12,1.317291036,110,14,64,30,19,14,32,0,2054,0,1,,,,,,,,,,4231,2,4231.0,loss
+3893833,Korea Republic Women's,268,5,1.0127225388,211,12,64,65,9,10,26,0,1218,0,0,,,,,,,,,,4141,1,343.0,loss
+3893834,Colombia Women's,529,11,0.562399456,206,10,75,37,16,20,18,0,1992,0,1,,,,,,,,,,4231,5,3421.0,loss
+3893834,Morocco Women's,363,10,1.7962492335,232,12,70,46,33,17,19,0,1484,0,1,,,,,,,,,,4411,0,,loss
+3901733,Spain Women's,727,26,2.828262955,182,16,78,27,12,8,7,0,2532,0,0,,,,,,,,,,433,1,4231.0,loss
+3901733,Switzerland Women's,323,2,0.242317785,235,9,42,38,9,23,25,0,1407,0,1,,,,,,,,,,433,2,433.0,loss
+3901734,Japan Women's,650,17,0.992503,114,7,45,39,2,9,28,0,2140,0,0,,,,,,,,,,3421,0,,loss
+3901734,Norway Women's,455,8,0.6256051220000001,177,9,42,22,9,11,31,0,1610,0,0,,,,,,,,,,4141,3,41212.0,loss
+3901735,England Women's,587,17,4.668493601,222,8,63,54,18,9,60,0,2187,1,0,,,,,,,,,,3412,2,4411.0,loss
+3901735,Nigeria Women's,485,23,4.22521706,259,14,90,57,16,16,21,0,1941,0,0,,,,,,,,,,4231,1,352.0,loss
+3901736,Australia Women's,414,10,0.83442416,141,9,74,31,25,8,41,0,1593,0,0,,,,,,,,,,442,2,343.0,loss
+3901736,Denmark Women's,547,13,0.6248664549999999,160,11,60,44,11,7,22,0,1906,0,1,,,,,,,,,,4231,1,4231.0,loss
+3901796,Netherlands Women's,718,12,1.3935986697,172,9,59,40,11,10,12,0,2444,0,1,,,,,,,,,,352,1,3421.0,loss
+3901796,South Africa Women's,317,14,0.9574853170000001,255,12,79,46,30,11,18,0,1451,0,0,,,,,,,,,,4231,1,4231.0,loss
+3901797,Sweden Women's,476,16,5.987829422,296,16,71,53,11,15,57,0,1982,0,1,,,,,,,,,,4231,1,4231.0,loss
+3901797,United States Women's,669,29,6.815847317299999,175,11,88,55,25,7,31,0,2391,0,1,,,,,,,,,,4231,1,4231.0,loss
+3901832,Colombia Women's,369,11,1.145772376,178,6,72,36,16,10,33,0,1510,0,1,,,,,,,,,,4231,1,4231.0,loss
+3901832,Jamaica Women's,378,6,0.71232446,228,9,53,46,20,13,27,0,1502,0,2,,,,,,,,,,4231,3,4141.0,loss
+3901833,France Women's,708,15,1.84046928,149,10,66,34,28,12,7,0,2418,0,0,,,,,,,,,,4411,5,4411.0,loss
+3901833,Morocco Women's,261,1,0.024844848,263,13,63,37,27,18,21,0,1246,0,1,,,,,,,,,,442,0,,loss
+3902239,Japan Women's,541,11,1.7383049099999999,207,6,59,31,14,13,25,0,1963,0,1,,,,,,,,,,343,3,442.0,loss
+3902239,Sweden Women's,552,15,2.164580699,226,11,61,31,11,11,26,0,2018,0,0,,,,,,,,,,4231,1,4231.0,loss
+3902240,Netherlands Women's,464,9,0.947865454,368,24,84,60,12,18,56,0,1973,0,1,,,,,,,,,,352,6,3412.0,loss
+3902240,Spain Women's,757,27,2.877165184,203,7,100,70,25,16,22,0,2603,0,1,,,,,,,,,,433,2,433.0,loss
+3902967,Colombia Women's,369,15,0.4357513145,233,10,75,43,22,5,29,0,1609,0,0,,,,,,,,,,4231,2,4231.0,loss
+3902967,England Women's,552,10,1.529686562,212,8,61,37,26,11,21,0,2059,0,0,,,,,,,,,,352,0,,loss
+3902968,Australia Women's,505,26,9.782630647,110,11,77,45,20,8,56,0,1843,0,1,,,,,,,,,,442,1,442.0,loss
+3902968,France Women's,505,32,9.498576009499999,231,12,79,59,20,12,42,0,2033,0,0,,,,,,,,,,442,3,442.0,loss
+3904628,Spain Women's,558,13,1.37595531,152,8,70,29,20,18,19,0,2011,0,0,,,,,,,,,,433,2,433.0,loss
+3904628,Sweden Women's,366,6,0.790858708,257,16,48,41,9,8,21,0,1472,0,0,,,,,,,,,,4231,1,4231.0,loss
+3904629,Australia Women's,389,12,1.142442332,131,4,46,38,11,1,11,0,1352,0,0,,,,,,,,,,442,2,442.0,loss
+3904629,England Women's,511,15,1.052778834,135,14,51,44,10,7,30,0,1807,0,2,,,,,,,,,,3412,3,343.0,loss
+3906389,Australia Women's,418,11,0.7433371977000001,145,9,66,35,10,17,9,0,1538,0,1,,,,,,,,,,4231,2,433.0,loss
+3906389,Sweden Women's,479,11,1.5701500685,163,19,65,48,17,12,29,0,1804,0,2,,,,,,,,,,4231,2,3421.0,loss
+3906390,England Women's,408,8,0.46967891310000004,234,18,54,43,9,7,18,0,1617,0,1,,,,,,,,,,3412,2,3412.0,loss
+3906390,Spain Women's,519,14,2.194123064,199,13,71,41,17,8,36,0,1964,0,1,,,,,,,,,,4231,2,433.0,loss

@@ -1,0 +1,105 @@
+match_id,team,passes,shots,xg,pressures,fouls_committed,ball_recoveries,duels,dribbles,interceptions,clearances,tackles,possession_events,red_cards,yellow_cards,home_away,match_date,competition,season,home_team,away_team,home_score,away_score,result,starting_formation,tactical_shifts,last_formation,team_result
+3920384,Côte d'Ivoire,598,10,0.7068961659999999,103,12,48,20,10,9,9,0,1998,0,2,home,2024-01-13,Africa - African Cup of Nations,2023,Côte d'Ivoire,Guinea-Bissau,2,0,home_win,433,3,433.0,win
+3920384,Guinea-Bissau,394,10,0.5296147163,145,13,36,26,11,15,17,0,1450,0,1,away,2024-01-13,Africa - African Cup of Nations,2023,Côte d'Ivoire,Guinea-Bissau,2,0,home_win,4231,2,433.0,loss
+3920385,Egypt,589,22,1.9291997944000001,141,9,59,25,15,11,12,0,2024,0,1,home,2024-01-14,Africa - African Cup of Nations,2023,Egypt,Mozambique,2,2,draw,4231,2,442.0,draw
+3920385,Mozambique,373,6,0.728198501,140,9,31,19,15,11,40,0,1445,0,3,away,2024-01-14,Africa - African Cup of Nations,2023,Egypt,Mozambique,2,2,draw,4411,2,343.0,draw
+3920386,Equatorial Guinea,365,8,0.332085009,143,12,46,41,7,5,27,0,1358,0,2,away,2024-01-14,Africa - African Cup of Nations,2023,Nigeria,Equatorial Guinea,1,1,draw,4231,1,4231.0,draw
+3920386,Nigeria,380,19,2.6872513775,150,13,50,25,15,5,15,0,1412,0,1,home,2024-01-14,Africa - African Cup of Nations,2023,Nigeria,Equatorial Guinea,1,1,draw,4141,2,4141.0,draw
+3920387,Cape Verde Islands,417,15,2.720214145,122,15,34,24,24,9,17,0,1511,0,3,away,2024-01-14,Africa - African Cup of Nations,2023,Ghana,Cape Verde Islands,1,2,away_win,433,1,433.0,win
+3920387,Ghana,386,11,1.437942942,185,17,40,33,16,16,13,0,1504,0,3,home,2024-01-14,Africa - African Cup of Nations,2023,Ghana,Cape Verde Islands,1,2,away_win,4231,0,,loss
+3920388,Gambia,291,12,1.008395458,128,13,41,24,11,8,20,0,1143,1,0,away,2024-01-15,Africa - African Cup of Nations,2023,Senegal,Gambia,3,0,home_win,4321,3,3412.0,loss
+3920388,Senegal,594,14,1.7206511999999998,129,20,34,32,8,5,8,0,1986,0,2,home,2024-01-15,Africa - African Cup of Nations,2023,Senegal,Gambia,3,0,home_win,433,2,433.0,win
+3920389,Cameroon,510,13,0.8791736,94,14,45,24,12,4,11,0,1711,0,2,home,2024-01-15,Africa - African Cup of Nations,2023,Cameroon,Guinea,1,1,draw,433,2,442.0,draw
+3920389,Guinea,231,6,0.7102196794,136,15,34,23,6,8,27,0,954,1,1,away,2024-01-15,Africa - African Cup of Nations,2023,Cameroon,Guinea,1,1,draw,4231,2,4411.0,draw
+3920390,Algeria,589,16,0.696929411,101,13,40,27,17,7,6,0,1935,0,4,home,2024-01-15,Africa - African Cup of Nations,2023,Algeria,Angola,1,1,draw,433,0,,draw
+3920390,Angola,296,7,1.197465477,189,19,39,26,10,13,26,0,1215,0,1,away,2024-01-15,Africa - African Cup of Nations,2023,Algeria,Angola,1,1,draw,352,1,343.0,draw
+3920391,Mali,438,16,2.3419830654,184,14,43,43,9,14,17,0,1623,0,3,home,2024-01-16,Africa - African Cup of Nations,2023,Mali,South Africa,2,0,home_win,41212,3,4231.0,win
+3920391,South Africa,531,12,1.3898648275999999,160,12,57,20,16,9,18,0,1885,0,2,away,2024-01-16,Africa - African Cup of Nations,2023,Mali,South Africa,2,0,home_win,442,1,442.0,loss
+3920392,Burkina Faso,457,11,1.1366585009999999,112,21,48,26,14,12,15,0,1652,0,3,home,2024-01-16,Africa - African Cup of Nations,2023,Burkina Faso,Mauritania,1,0,home_win,4231,1,4231.0,win
+3920392,Mauritania,269,9,0.515656181,171,13,46,43,22,16,22,0,1197,0,2,away,2024-01-16,Africa - African Cup of Nations,2023,Burkina Faso,Mauritania,1,0,home_win,4411,2,4141.0,loss
+3920393,Namibia,325,13,1.6100867957,228,13,66,42,6,18,19,0,1404,0,0,away,2024-01-16,Africa - African Cup of Nations,2023,Tunisia,Namibia,0,1,away_win,4141,3,4231.0,win
+3920393,Tunisia,490,9,0.8706826865,129,11,37,24,10,7,45,0,1687,0,0,home,2024-01-16,Africa - African Cup of Nations,2023,Tunisia,Namibia,0,1,away_win,433,2,4231.0,loss
+3920394,Morocco,520,15,2.300281349,127,14,45,18,18,6,12,0,1779,0,2,home,2024-01-17,Africa - African Cup of Nations,2023,Morocco,Tanzania,3,0,home_win,4141,1,4141.0,win
+3920394,Tanzania,470,2,0.011926915,120,16,41,23,4,10,23,0,1645,1,4,away,2024-01-17,Africa - African Cup of Nations,2023,Morocco,Tanzania,3,0,home_win,433,4,4231.0,loss
+3920395,Congo DR,499,27,2.6822564570000003,81,11,56,17,12,2,13,0,1683,0,1,home,2024-01-17,Africa - African Cup of Nations,2023,Congo DR,Zambia,1,1,draw,4231,2,4231.0,draw
+3920395,Zambia,409,3,0.096432803,104,13,27,28,11,1,27,0,1420,0,1,away,2024-01-17,Africa - African Cup of Nations,2023,Congo DR,Zambia,1,1,draw,4141,2,4231.0,draw
+3920396,Egypt,479,11,1.20358015,155,14,35,26,17,13,22,0,1723,0,0,home,2024-01-18,Africa - African Cup of Nations,2023,Egypt,Ghana,2,2,draw,433,3,433.0,draw
+3920396,Ghana,355,6,0.425947081,163,20,40,26,16,9,36,0,1398,0,1,away,2024-01-18,Africa - African Cup of Nations,2023,Egypt,Ghana,2,2,draw,4231,0,,draw
+3920397,Equatorial Guinea,405,8,1.7774974069999998,161,15,35,30,10,5,25,0,1494,0,2,home,2024-01-18,Africa - African Cup of Nations,2023,Equatorial Guinea,Guinea-Bissau,4,2,home_win,4231,2,4231.0,win
+3920397,Guinea-Bissau,387,12,1.034414044,136,11,33,23,15,5,15,0,1413,0,0,away,2024-01-18,Africa - African Cup of Nations,2023,Equatorial Guinea,Guinea-Bissau,4,2,home_win,433,3,433.0,loss
+3920398,Côte d'Ivoire,460,14,0.6072311182,88,16,42,31,17,4,17,0,1577,0,0,home,2024-01-18,Africa - African Cup of Nations,2023,Côte d'Ivoire,Nigeria,0,1,away_win,433,3,3421.0,loss
+3920398,Nigeria,268,11,1.575570081,103,19,36,37,8,7,29,0,1074,0,1,away,2024-01-18,Africa - African Cup of Nations,2023,Côte d'Ivoire,Nigeria,0,1,away_win,343,2,343.0,win
+3920399,Cape Verde Islands,458,11,0.5990378949,142,17,36,36,13,8,23,0,1666,0,1,home,2024-01-19,Africa - African Cup of Nations,2023,Cape Verde Islands,Mozambique,3,0,home_win,4141,2,4141.0,win
+3920399,Mozambique,471,8,0.3310106096,99,15,52,22,15,10,5,0,1672,0,0,away,2024-01-19,Africa - African Cup of Nations,2023,Cape Verde Islands,Mozambique,3,0,home_win,3421,1,3412.0,loss
+3920400,Cameroon,424,5,0.248547065,160,14,43,21,14,5,18,0,1514,0,3,away,2024-01-19,Africa - African Cup of Nations,2023,Senegal,Cameroon,3,1,home_win,4141,2,4141.0,loss
+3920400,Senegal,378,5,1.2311798999999999,170,14,38,24,10,3,22,0,1364,0,1,home,2024-01-19,Africa - African Cup of Nations,2023,Senegal,Cameroon,3,1,home_win,4141,0,,win
+3920401,Gambia,390,7,0.254498846,175,19,35,25,17,6,27,0,1457,0,2,away,2024-01-19,Africa - African Cup of Nations,2023,Guinea,Gambia,1,0,home_win,4411,2,442.0,loss
+3920401,Guinea,488,16,2.438514768,119,12,40,35,7,9,8,0,1694,0,2,home,2024-01-19,Africa - African Cup of Nations,2023,Guinea,Gambia,1,0,home_win,4231,1,4231.0,win
+3920402,Algeria,458,15,1.998045971,106,13,36,25,7,8,16,0,1580,0,2,home,2024-01-20,Africa - African Cup of Nations,2023,Algeria,Burkina Faso,2,2,draw,4231,2,442.0,draw
+3920402,Burkina Faso,266,7,1.258992304,120,18,47,31,8,7,12,0,1049,0,5,away,2024-01-20,Africa - African Cup of Nations,2023,Algeria,Burkina Faso,2,2,draw,4231,1,4141.0,draw
+3920403,Angola,344,20,2.0439582,151,16,49,25,16,10,34,0,1360,0,1,away,2024-01-20,Africa - African Cup of Nations,2023,Mauritania,Angola,2,3,away_win,4231,2,352.0,win
+3920403,Mauritania,415,14,1.1113399408,130,13,58,46,17,11,26,0,1615,0,2,home,2024-01-20,Africa - African Cup of Nations,2023,Mauritania,Angola,2,3,away_win,4141,2,442.0,loss
+3920404,Mali,518,12,0.845760372,148,13,31,43,9,10,29,0,1779,0,0,away,2024-01-20,Africa - African Cup of Nations,2023,Tunisia,Mali,1,1,draw,41212,2,41212.0,draw
+3920404,Tunisia,340,5,0.5300487537,146,13,36,26,13,5,17,0,1225,0,2,home,2024-01-20,Africa - African Cup of Nations,2023,Tunisia,Mali,1,1,draw,442,1,4141.0,draw
+3920405,Congo DR,343,11,2.31023671,129,17,47,30,9,3,12,0,1298,0,1,away,2024-01-21,Africa - African Cup of Nations,2023,Morocco,Congo DR,1,1,draw,4231,1,4231.0,draw
+3920405,Morocco,416,11,1.0546321737,125,17,31,30,12,8,17,0,1495,0,3,home,2024-01-21,Africa - African Cup of Nations,2023,Morocco,Congo DR,1,1,draw,4141,0,,draw
+3920406,Tanzania,550,6,0.390369424,131,9,31,23,8,6,18,0,1868,0,0,away,2024-01-21,Africa - African Cup of Nations,2023,Zambia,Tanzania,1,1,draw,4231,3,4231.0,draw
+3920406,Zambia,467,11,0.7971692891,123,18,28,22,13,4,9,0,1605,1,2,home,2024-01-21,Africa - African Cup of Nations,2023,Zambia,Tanzania,1,1,draw,4141,4,41212.0,draw
+3920407,Namibia,382,4,0.5685470404,144,13,66,43,11,11,14,0,1436,0,0,away,2024-01-21,Africa - African Cup of Nations,2023,South Africa,Namibia,4,0,home_win,4141,2,4231.0,loss
+3920407,South Africa,403,12,2.215672192,150,20,57,26,12,13,15,0,1500,0,1,home,2024-01-21,Africa - African Cup of Nations,2023,South Africa,Namibia,4,0,home_win,4231,1,4231.0,win
+3920408,Côte d'Ivoire,464,22,2.0694979545,121,21,47,29,20,6,7,0,1644,0,2,away,2024-01-22,Africa - African Cup of Nations,2023,Equatorial Guinea,Côte d'Ivoire,4,0,home_win,433,2,352.0,loss
+3920408,Equatorial Guinea,209,10,1.0926792920000001,131,23,39,40,12,1,37,0,963,0,3,home,2024-01-22,Africa - African Cup of Nations,2023,Equatorial Guinea,Côte d'Ivoire,4,0,home_win,4411,1,4411.0,win
+3920409,Guinea-Bissau,451,12,0.3514627777,142,17,32,28,12,12,15,0,1629,0,0,home,2024-01-22,Africa - African Cup of Nations,2023,Guinea-Bissau,Nigeria,0,1,away_win,4231,2,4231.0,loss
+3920409,Nigeria,455,11,0.970812034,131,20,45,24,18,4,10,0,1647,0,3,away,2024-01-22,Africa - African Cup of Nations,2023,Guinea-Bissau,Nigeria,0,1,away_win,3421,1,3421.0,win
+3920410,Ghana,269,8,1.8431652509999998,124,33,48,27,9,10,35,0,1126,0,5,away,2024-01-22,Africa - African Cup of Nations,2023,Mozambique,Ghana,2,2,draw,4231,2,3421.0,draw
+3920410,Mozambique,413,14,1.5396220109,118,10,48,23,11,9,13,0,1469,0,4,home,2024-01-22,Africa - African Cup of Nations,2023,Mozambique,Ghana,2,2,draw,4231,2,41212.0,draw
+3920411,Cape Verde Islands,426,6,0.406963733,139,9,47,36,21,9,30,0,1636,0,1,home,2024-01-22,Africa - African Cup of Nations,2023,Cape Verde Islands,Egypt,2,2,draw,4141,2,4411.0,draw
+3920411,Egypt,483,27,1.7644844205,139,11,51,20,15,14,7,0,1715,0,2,away,2024-01-22,Africa - African Cup of Nations,2023,Cape Verde Islands,Egypt,2,2,draw,433,3,442.0,draw
+3920412,Guinea,425,4,0.553162426,124,18,49,41,16,5,19,0,1605,0,2,home,2024-01-23,Africa - African Cup of Nations,2023,Guinea,Senegal,0,2,away_win,442,2,4231.0,loss
+3920412,Senegal,412,12,0.942771189,159,14,43,25,16,9,19,0,1568,0,2,away,2024-01-23,Africa - African Cup of Nations,2023,Guinea,Senegal,0,2,away_win,4141,0,,win
+3920413,Cameroon,384,13,1.367199652,147,9,48,25,14,12,33,0,1422,0,0,away,2024-01-23,Africa - African Cup of Nations,2023,Gambia,Cameroon,2,3,away_win,343,2,352.0,win
+3920413,Gambia,317,15,1.296466914,148,15,51,28,15,8,28,0,1281,0,4,home,2024-01-23,Africa - African Cup of Nations,2023,Gambia,Cameroon,2,3,away_win,4411,4,4411.0,loss
+3920414,Angola,405,6,0.8842662025,163,15,43,27,11,12,39,0,1559,0,3,home,2024-01-23,Africa - African Cup of Nations,2023,Angola,Burkina Faso,2,0,home_win,4141,3,4231.0,win
+3920414,Burkina Faso,465,20,0.9952471892,133,10,50,31,16,9,10,0,1673,0,1,away,2024-01-23,Africa - African Cup of Nations,2023,Angola,Burkina Faso,2,0,home_win,4231,2,4231.0,loss
+3920415,Algeria,618,16,1.1864072147,104,15,47,32,19,8,12,0,2107,0,3,away,2024-01-23,Africa - African Cup of Nations,2023,Mauritania,Algeria,1,0,home_win,433,3,442.0,loss
+3920415,Mauritania,203,17,1.3282860823,196,20,45,33,14,10,43,0,1052,0,3,home,2024-01-23,Africa - African Cup of Nations,2023,Mauritania,Algeria,1,0,home_win,4231,1,4141.0,win
+3920416,South Africa,418,11,0.5204111787,192,14,58,44,16,6,22,0,1646,0,0,home,2024-01-24,Africa - African Cup of Nations,2023,South Africa,Tunisia,0,0,draw,4231,2,4231.0,draw
+3920416,Tunisia,511,11,1.0176946654,210,12,46,39,7,10,26,0,1795,0,0,away,2024-01-24,Africa - African Cup of Nations,2023,South Africa,Tunisia,0,0,draw,4231,2,4231.0,draw
+3920417,Mali,485,11,0.681213131,86,15,38,23,10,6,32,0,1654,0,0,away,2024-01-24,Africa - African Cup of Nations,2023,Namibia,Mali,0,0,draw,442,2,4231.0,draw
+3920417,Namibia,263,5,0.6561558239999999,142,14,42,41,4,4,15,0,1031,0,1,home,2024-01-24,Africa - African Cup of Nations,2023,Namibia,Mali,0,0,draw,4141,0,,draw
+3920418,Congo DR,496,9,0.659066521,206,9,43,34,23,11,10,0,1837,0,1,away,2024-01-24,Africa - African Cup of Nations,2023,Tanzania,Congo DR,0,0,draw,4231,4,4231.0,draw
+3920418,Tanzania,516,4,0.0585539966,166,5,45,38,11,3,23,0,1756,0,0,home,2024-01-24,Africa - African Cup of Nations,2023,Tanzania,Congo DR,0,0,draw,4231,1,3421.0,draw
+3920419,Morocco,520,19,2.421491488,128,17,37,29,16,5,17,0,1842,0,1,away,2024-01-24,Africa - African Cup of Nations,2023,Zambia,Morocco,0,1,away_win,4141,0,,win
+3920419,Zambia,381,11,0.4399758278,132,10,42,30,14,8,24,0,1395,0,0,home,2024-01-24,Africa - African Cup of Nations,2023,Zambia,Morocco,0,1,away_win,4231,2,433.0,loss
+3922237,Angola,383,11,1.5854788395,173,15,44,33,27,7,20,0,1515,1,0,home,2024-01-27,Africa - African Cup of Nations,2023,Angola,Namibia,3,0,home_win,433,3,4411.0,win
+3922237,Namibia,387,12,0.8707519355,163,20,41,40,11,13,22,0,1501,1,2,away,2024-01-27,Africa - African Cup of Nations,2023,Angola,Namibia,3,0,home_win,4231,5,4411.0,loss
+3922238,Cameroon,426,6,0.300622834,107,19,42,37,8,11,23,0,1478,0,2,away,2024-01-27,Africa - African Cup of Nations,2023,Nigeria,Cameroon,2,0,home_win,343,1,442.0,loss
+3922238,Nigeria,314,8,1.30969631,168,20,34,27,11,11,22,0,1204,0,2,home,2024-01-27,Africa - African Cup of Nations,2023,Nigeria,Cameroon,2,0,home_win,343,4,343.0,win
+3922239,Equatorial Guinea,398,5,0.956068984,113,12,34,30,8,1,13,0,1421,1,0,home,2024-01-28,Africa - African Cup of Nations,2023,Equatorial Guinea,Guinea,0,1,away_win,4231,2,4411.0,loss
+3922239,Guinea,379,10,0.5573152885,121,18,40,18,13,7,19,0,1378,0,1,away,2024-01-28,Africa - African Cup of Nations,2023,Equatorial Guinea,Guinea,0,1,away_win,442,2,442.0,win
+3922240,Congo DR,453,21,8.626787165,190,22,61,35,18,4,35,0,1754,0,3,away,2024-01-28,Africa - African Cup of Nations,2023,Egypt,Congo DR,1,1,draw,4231,0,,draw
+3922240,Egypt,583,20,8.424148152999999,140,19,51,41,17,5,38,0,2035,1,3,home,2024-01-28,Africa - African Cup of Nations,2023,Egypt,Congo DR,1,1,draw,433,2,4411.0,draw
+3922241,Cape Verde Islands,523,18,1.5715358578999998,127,18,62,35,26,15,13,0,1897,0,1,home,2024-01-29,Africa - African Cup of Nations,2023,Cape Verde Islands,Mauritania,1,0,home_win,4231,4,4231.0,win
+3922241,Mauritania,235,11,0.7769726870000001,172,14,51,51,16,13,40,0,1154,0,1,away,2024-01-29,Africa - African Cup of Nations,2023,Cape Verde Islands,Mauritania,1,0,home_win,442,2,442.0,loss
+3922242,Côte d'Ivoire,645,13,5.038094957,172,26,61,50,21,15,9,0,2317,0,3,away,2024-01-29,Africa - African Cup of Nations,2023,Senegal,Côte d'Ivoire,1,1,draw,4411,0,,draw
+3922242,Senegal,475,18,5.2354100523,285,25,51,42,16,20,22,0,1919,0,4,home,2024-01-29,Africa - African Cup of Nations,2023,Senegal,Côte d'Ivoire,1,1,draw,343,1,442.0,draw
+3922243,Morocco,489,13,2.090429641,116,13,41,22,9,2,10,0,1620,1,1,home,2024-01-30,Africa - African Cup of Nations,2023,Morocco,South Africa,0,2,away_win,433,1,442.0,loss
+3922243,South Africa,407,5,0.240658424,134,17,29,24,11,7,27,0,1501,0,3,away,2024-01-30,Africa - African Cup of Nations,2023,Morocco,South Africa,0,2,away_win,442,1,442.0,win
+3922244,Burkina Faso,349,8,1.4600063336,157,18,44,32,14,7,20,0,1380,0,3,away,2024-01-30,Africa - African Cup of Nations,2023,Mali,Burkina Faso,2,1,home_win,433,1,352.0,loss
+3922244,Mali,466,14,0.6657573703,172,19,43,28,11,10,25,0,1744,0,1,home,2024-01-30,Africa - African Cup of Nations,2023,Mali,Burkina Faso,2,1,home_win,41212,1,4231.0,win
+3922321,Angola,438,10,0.9549926710000001,115,20,46,31,11,10,26,0,1618,0,3,away,2024-02-02,Africa - African Cup of Nations,2023,Nigeria,Angola,1,0,home_win,433,0,,loss
+3922321,Nigeria,373,13,1.461696671,139,18,46,33,10,4,20,0,1430,0,1,home,2024-02-02,Africa - African Cup of Nations,2023,Nigeria,Angola,1,0,home_win,3421,2,343.0,win
+3922356,Congo DR,287,13,1.652631181,88,16,38,23,12,6,31,0,1078,0,1,home,2024-02-02,Africa - African Cup of Nations,2023,Congo DR,Guinea,3,1,home_win,4411,1,4411.0,win
+3922356,Guinea,462,7,1.135221779,120,18,34,22,6,4,29,0,1610,0,2,away,2024-02-02,Africa - African Cup of Nations,2023,Congo DR,Guinea,3,1,home_win,4231,2,41212.0,loss
+3922658,Cape Verde Islands,540,30,5.4274397822,190,19,76,26,12,7,37,0,1977,0,1,home,2024-02-03,Africa - African Cup of Nations,2023,Cape Verde Islands,South Africa,0,0,draw,433,3,4231.0,draw
+3922658,South Africa,536,20,4.2306515742999995,192,15,66,48,12,9,32,0,2019,0,0,away,2024-02-03,Africa - African Cup of Nations,2023,Cape Verde Islands,South Africa,0,0,draw,4231,2,4231.0,draw
+3922659,Côte d'Ivoire,427,11,0.837388909,190,19,62,54,13,5,28,0,1687,2,5,away,2024-02-03,Africa - African Cup of Nations,2023,Mali,Côte d'Ivoire,1,2,away_win,4141,5,3511.0,win
+3922659,Mali,679,11,1.317118139,221,31,50,45,9,11,27,0,2409,1,3,home,2024-02-03,Africa - African Cup of Nations,2023,Mali,Côte d'Ivoire,1,2,away_win,41212,7,4231.0,loss
+3922837,Nigeria,426,19,5.4088133766999995,188,22,46,25,21,14,15,0,1624,0,2,home,2024-02-07,Africa - African Cup of Nations,2023,Nigeria,South Africa,1,1,draw,343,3,343.0,draw
+3922837,South Africa,658,18,4.896950137,138,11,46,35,9,13,25,0,2261,1,0,away,2024-02-07,Africa - African Cup of Nations,2023,Nigeria,South Africa,1,1,draw,343,2,4411.0,draw
+3922838,Congo DR,323,7,0.826083473,172,17,31,50,7,9,18,0,1258,0,0,away,2024-02-07,Africa - African Cup of Nations,2023,Côte d'Ivoire,Congo DR,1,0,home_win,4231,1,442.0,loss
+3922838,Côte d'Ivoire,410,14,0.849561176,118,14,46,18,12,9,37,0,1506,0,0,home,2024-02-07,Africa - African Cup of Nations,2023,Côte d'Ivoire,Congo DR,1,0,home_win,433,2,4231.0,win
+3923880,Congo DR,411,20,7.166134682,198,13,49,22,11,10,23,0,1585,0,1,away,2024-02-10,Africa - African Cup of Nations,2023,South Africa,Congo DR,0,0,draw,4231,4,4231.0,draw
+3923880,South Africa,524,13,5.750652511,79,7,49,28,13,4,19,0,1802,0,0,home,2024-02-10,Africa - African Cup of Nations,2023,South Africa,Congo DR,0,0,draw,4411,2,4231.0,draw
+3923881,Côte d'Ivoire,464,18,1.4139358625,87,15,47,24,18,2,30,0,1616,0,3,away,2024-02-11,Africa - African Cup of Nations,2023,Nigeria,Côte d'Ivoire,1,2,away_win,433,2,433.0,win
+3923881,Nigeria,272,5,0.258192665,110,19,43,27,10,7,34,0,1083,0,2,home,2024-02-11,Africa - African Cup of Nations,2023,Nigeria,Côte d'Ivoire,1,2,away_win,343,2,4231.0,loss

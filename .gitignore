@@ -1,38 +1,87 @@
-# Large data files
-*.csv
+# ========================================
+# LARGE RAW DATA (3.8 GB - excluded from git)
+# ========================================
+Raw Data/
 *.tsv
 
-# Model files
-*.cbm
-*.json
+# ========================================
+# TRAINING ARTIFACTS & TEMPORARY DATA
+# ========================================
+**/catboost_info/
+**/tmp/
 *.pkl
 *.joblib
-
-# Virtual environments
-venv/
 venv.txt
-env/
 
-# Python cache
+# ========================================
+# VIRTUAL ENVIRONMENTS
+# ========================================
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ========================================
+# PYTHON CACHE & COMPILED FILES
+# ========================================
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+*.egg
+.pytest_cache/
+.coverage
+*.pyc
 
-# IDE
+# ========================================
+# IDE & EDITOR
+# ========================================
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb_checkpoints
-
-# OS
+*~
 .DS_Store
 Thumbs.db
+*.sublime-project
+*.sublime-workspace
+.fleet/
 
-# CatBoost
-catboost_info/
+# ========================================
+# JUPYTER NOTEBOOKS
+# ========================================
+.ipynb_checkpoints/
+.jupyter/
+*checkpoint.ipynb
+
+# ========================================
+# ENVIRONMENT & SECRETS
+# ========================================
+.env
+.env.local
+.env.*.local
+secrets.toml
+
+# ========================================
+# OS-SPECIFIC FILES
+# ========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Desktop.ini
+ehthumbs.db
+
+# ========================================
+# TEMPORARY & BACKUP FILES
+# ========================================
+*.tmp
+~*.docx
+~*.xlsx
+~*.pptx
+~$*
+*.bak
+*.backup

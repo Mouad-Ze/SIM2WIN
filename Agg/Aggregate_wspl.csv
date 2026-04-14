@@ -1,0 +1,653 @@
+match_id,team,passes,shots,xg,pressures,fouls_committed,ball_recoveries,duels,dribbles,interceptions,clearances,tackles,possession_events,red_cards,yellow_cards,home_away,match_date,competition,season,home_team,away_team,home_score,away_score,result,starting_formation,tactical_shifts,last_formation,team_result
+7298,Chelsea FCW,521,25,2.972968312,249,7,54,22,41,14,10,0,1952,0,1,away,2018-02-24,England - FA Women's Super League,2018/2019,Manchester City WFC,Chelsea FCW,2.0,2.0,draw,352,3,3511.0,draw
+7298,Manchester City WFC,479,9,1.107514301,221,6,56,24,17,5,20,0,1841,0,0,home,2018-02-24,England - FA Women's Super League,2018/2019,Manchester City WFC,Chelsea FCW,2.0,2.0,draw,433,0,,draw
+19714,Chelsea FCW,431,15,0.9513358279999999,195,10,64,25,16,8,5,0,1611,0,1,home,2018-09-09,England - FA Women's Super League,2018/2019,Chelsea FCW,Manchester City WFC,0.0,0.0,draw,4231,3,442.0,draw
+19714,Manchester City WFC,516,16,1.2317235427,210,10,59,26,10,10,16,0,1879,0,2,away,2018-09-09,England - FA Women's Super League,2018/2019,Chelsea FCW,Manchester City WFC,0.0,0.0,draw,433,7,433.0,draw
+19715,Brighton & Hove Albion WFC,417,5,0.8678992910000001,24,7,58,13,7,5,9,0,1194,0,0,home,2018-09-09,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Bristol City WFC,0.0,1.0,away_win,4231,0,,loss
+19715,Bristol City WFC,295,8,0.3947943147,131,6,55,11,6,10,13,0,979,0,0,away,2018-09-09,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Bristol City WFC,0.0,1.0,away_win,442,0,,win
+19716,Reading WFC,606,29,3.166439968,91,10,68,19,23,9,0,0,2034,0,0,home,2018-09-09,England - FA Women's Super League,2018/2019,Reading WFC,Yeovil Town LFC,4.0,0.0,home_win,4222,0,,win
+19716,Yeovil Town LFC,293,6,0.907321075,191,12,62,12,8,13,13,0,1156,0,1,away,2018-09-09,England - FA Women's Super League,2018/2019,Reading WFC,Yeovil Town LFC,4.0,0.0,home_win,41221,0,,loss
+19717,Arsenal WFC,629,21,3.316440227,127,5,61,11,20,9,4,0,2110,0,0,home,2018-09-09,England - FA Women's Super League,2018/2019,Arsenal WFC,Liverpool WFC,5.0,0.0,home_win,4321,2,41221.0,win
+19717,Liverpool WFC,340,9,0.591609188,209,15,56,31,19,7,20,0,1400,0,1,away,2018-09-09,England - FA Women's Super League,2018/2019,Arsenal WFC,Liverpool WFC,5.0,0.0,home_win,3511,2,3511.0,loss
+19718,Birmingham City WFC,580,18,1.627635103,131,12,60,21,28,10,6,0,1984,0,1,home,2018-09-09,England - FA Women's Super League,2018/2019,Birmingham City WFC,Everton LFC,1.0,0.0,home_win,4231,1,42211.0,win
+19718,Everton LFC,388,6,0.63300554,229,12,51,38,11,6,9,0,1463,0,0,away,2018-09-09,England - FA Women's Super League,2018/2019,Birmingham City WFC,Everton LFC,1.0,0.0,home_win,3421,1,3421.0,loss
+19719,Reading WFC,372,13,1.037264216,55,12,67,23,6,7,8,0,1251,0,1,away,2018-09-19,England - FA Women's Super League,2018/2019,West Ham United LFC,Reading WFC,0.0,0.0,draw,442,1,442.0,draw
+19719,West Ham United LFC,317,9,0.720819024,90,15,47,29,14,5,16,0,1009,0,2,home,2018-09-19,England - FA Women's Super League,2018/2019,West Ham United LFC,Reading WFC,0.0,0.0,draw,4222,3,4231.0,draw
+19720,Bristol City WFC,259,2,0.038344683000000004,169,7,53,23,14,5,31,0,982,0,0,home,2018-09-19,England - FA Women's Super League,2018/2019,Bristol City WFC,Chelsea FCW,0.0,0.0,draw,32221,0,,draw
+19720,Chelsea FCW,732,25,1.9938865049,47,4,62,22,16,3,0,0,2341,0,0,away,2018-09-19,England - FA Women's Super League,2018/2019,Bristol City WFC,Chelsea FCW,0.0,0.0,draw,41221,3,41221.0,draw
+19722,Arsenal WFC,715,24,2.678432741,80,7,69,18,26,5,6,0,2348,0,1,away,2018-09-19,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Arsenal WFC,0.0,7.0,away_win,41221,1,41221.0,win
+19722,Yeovil Town LFC,274,5,0.817028671,133,11,56,22,12,3,24,0,1039,0,0,home,2018-09-19,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Arsenal WFC,0.0,7.0,away_win,41221,0,,loss
+19723,Everton LFC,394,12,0.6210300073,150,13,60,42,10,8,17,0,1416,0,0,home,2018-09-20,England - FA Women's Super League,2018/2019,Everton LFC,Manchester City WFC,0.0,4.0,away_win,32221,2,3421.0,loss
+19723,Manchester City WFC,638,27,1.930110864,162,6,88,20,32,9,8,0,2163,0,0,away,2018-09-20,England - FA Women's Super League,2018/2019,Everton LFC,Manchester City WFC,0.0,4.0,away_win,4321,0,,win
+19724,Arsenal WFC,544,25,4.653301396,57,11,69,16,24,13,5,0,1761,0,0,home,2018-09-23,England - FA Women's Super League,2018/2019,Arsenal WFC,West Ham United LFC,4.0,3.0,home_win,41221,2,41221.0,win
+19724,West Ham United LFC,406,8,0.9098995333000001,100,9,62,18,12,19,16,0,1372,0,0,away,2018-09-23,England - FA Women's Super League,2018/2019,Arsenal WFC,West Ham United LFC,4.0,3.0,home_win,4321,0,,loss
+19725,Brighton & Hove Albion WFC,516,8,0.569484961,266,10,53,39,14,14,3,0,1915,0,0,home,2018-09-23,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Liverpool WFC,0.0,1.0,away_win,4321,0,,loss
+19725,Liverpool WFC,389,8,0.4040777403,156,14,54,38,34,19,8,0,1456,0,1,away,2018-09-23,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Liverpool WFC,0.0,1.0,away_win,4321,1,4321.0,win
+19726,Chelsea FCW,589,20,2.154700379,44,12,69,10,17,14,6,0,1804,0,0,away,2018-09-23,England - FA Women's Super League,2018/2019,Everton LFC,Chelsea FCW,0.0,0.0,draw,41221,3,4132.0,draw
+19726,Everton LFC,399,8,0.5314083835,101,10,55,24,20,28,28,0,1266,0,0,home,2018-09-23,England - FA Women's Super League,2018/2019,Everton LFC,Chelsea FCW,0.0,0.0,draw,32221,0,,draw
+19727,Birmingham City WFC,324,18,2.0609874635,108,17,56,23,17,24,14,0,1142,0,1,away,2018-09-23,England - FA Women's Super League,2018/2019,Reading WFC,Birmingham City WFC,0.0,1.0,away_win,4231,1,4231.0,win
+19727,Reading WFC,459,16,1.781456807,87,20,71,14,19,6,5,0,1524,0,2,home,2018-09-23,England - FA Women's Super League,2018/2019,Reading WFC,Birmingham City WFC,0.0,1.0,away_win,442,1,442.0,loss
+19728,Bristol City WFC,234,6,1.112701903,152,5,46,34,6,17,62,0,1036,0,0,away,2018-09-23,England - FA Women's Super League,2018/2019,Manchester City WFC,Bristol City WFC,2.0,2.0,draw,32221,2,442.0,draw
+19728,Manchester City WFC,696,36,4.2177591341,68,7,69,20,22,7,2,0,2210,0,1,home,2018-09-23,England - FA Women's Super League,2018/2019,Manchester City WFC,Bristol City WFC,2.0,2.0,draw,4321,0,,draw
+19729,Bristol City WFC,317,11,0.6137079237,281,8,73,29,17,10,44,0,1427,0,0,home,2019-03-24,England - FA Women's Super League,2018/2019,Bristol City WFC,Everton LFC,1.0,0.0,home_win,4231,0,,win
+19729,Everton LFC,501,16,2.4761836822,182,9,63,32,16,4,48,0,1846,0,2,away,2019-03-24,England - FA Women's Super League,2018/2019,Bristol City WFC,Everton LFC,1.0,0.0,home_win,343,0,,loss
+19730,Brighton & Hove Albion WFC,331,14,0.833611449,157,7,53,34,6,3,17,0,1261,0,0,away,2018-09-30,England - FA Women's Super League,2018/2019,Chelsea FCW,Brighton & Hove Albion WFC,2.0,0.0,home_win,41221,0,,loss
+19730,Chelsea FCW,643,24,2.2230242066,123,6,51,15,15,6,4,0,2119,0,1,home,2018-09-30,England - FA Women's Super League,2018/2019,Chelsea FCW,Brighton & Hove Albion WFC,2.0,0.0,home_win,32221,3,32221.0,win
+19731,West Ham United LFC,598,19,2.358750321,68,13,70,22,20,2,7,0,1919,0,2,home,2018-09-30,England - FA Women's Super League,2018/2019,West Ham United LFC,Yeovil Town LFC,2.0,1.0,home_win,41221,1,41221.0,win
+19731,Yeovil Town LFC,239,10,1.6526773765,164,12,64,39,8,6,35,0,982,0,1,away,2018-09-30,England - FA Women's Super League,2018/2019,West Ham United LFC,Yeovil Town LFC,2.0,1.0,home_win,4222,0,,loss
+19732,Liverpool WFC,316,4,0.17911123499999998,198,10,62,29,26,7,24,0,1257,1,1,home,2018-09-30,England - FA Women's Super League,2018/2019,Liverpool WFC,Reading WFC,0.0,1.0,away_win,41221,3,4222.0,loss
+19732,Reading WFC,629,17,0.9572960070000001,61,11,93,24,12,4,5,0,2037,0,1,away,2018-09-30,England - FA Women's Super League,2018/2019,Liverpool WFC,Reading WFC,0.0,1.0,away_win,4231,2,41221.0,win
+19733,Birmingham City WFC,428,9,0.788523085,186,6,78,33,26,14,29,0,1700,0,0,home,2018-09-30,England - FA Women's Super League,2018/2019,Birmingham City WFC,Manchester City WFC,2.0,3.0,away_win,4231,2,4231.0,loss
+19733,Manchester City WFC,598,17,1.5515442045,139,12,68,32,24,15,19,0,2124,0,1,away,2018-09-30,England - FA Women's Super League,2018/2019,Birmingham City WFC,Manchester City WFC,2.0,3.0,away_win,4321,0,,win
+19734,Brighton & Hove Albion WFC,530,11,1.8218273432,132,8,70,28,18,15,10,0,1868,0,0,away,2018-10-14,England - FA Women's Super League,2018/2019,Everton LFC,Brighton & Hove Albion WFC,3.0,3.0,draw,41221,4,41221.0,draw
+19734,Everton LFC,527,12,1.000696729,189,14,70,29,12,9,24,0,1926,0,1,home,2018-10-14,England - FA Women's Super League,2018/2019,Everton LFC,Brighton & Hove Albion WFC,3.0,3.0,draw,5221,0,,draw
+19735,Manchester City WFC,673,14,2.8294338074,116,6,65,29,26,6,6,0,2206,0,0,home,2018-10-14,England - FA Women's Super League,2018/2019,Manchester City WFC,West Ham United LFC,7.0,1.0,home_win,41221,0,,win
+19735,West Ham United LFC,529,12,1.34144814,123,12,72,27,14,10,16,0,1834,0,0,away,2018-10-14,England - FA Women's Super League,2018/2019,Manchester City WFC,West Ham United LFC,7.0,1.0,home_win,41221,0,,loss
+19736,Arsenal WFC,399,12,1.983113646,113,8,71,27,12,14,21,0,1393,0,0,away,2018-10-14,England - FA Women's Super League,2018/2019,Chelsea FCW,Arsenal WFC,0.0,5.0,away_win,4231,2,4231.0,win
+19736,Chelsea FCW,540,13,0.851870915,69,9,73,25,15,6,12,0,1705,0,1,home,2018-10-14,England - FA Women's Super League,2018/2019,Chelsea FCW,Arsenal WFC,0.0,5.0,away_win,41221,0,,loss
+19737,Liverpool WFC,532,32,2.616691723,63,3,83,36,30,2,32,0,1807,0,1,home,2018-10-14,England - FA Women's Super League,2018/2019,Liverpool WFC,Yeovil Town LFC,2.0,1.0,home_win,41221,1,41221.0,win
+19737,Yeovil Town LFC,297,6,0.2969811575,139,6,66,38,10,6,34,0,1122,0,0,away,2018-10-14,England - FA Women's Super League,2018/2019,Liverpool WFC,Yeovil Town LFC,2.0,1.0,home_win,4222,2,5221.0,loss
+19738,Birmingham City WFC,763,17,2.178180537,37,9,60,17,14,5,4,0,2343,0,1,away,2018-10-14,England - FA Women's Super League,2018/2019,Bristol City WFC,Birmingham City WFC,0.0,1.0,away_win,3412,0,,win
+19738,Bristol City WFC,275,0,0.0,129,15,61,23,13,7,18,0,1018,0,0,home,2018-10-14,England - FA Women's Super League,2018/2019,Bristol City WFC,Birmingham City WFC,0.0,1.0,away_win,32221,0,,loss
+19739,Brighton & Hove Albion WFC,335,13,1.4240956934,232,6,65,22,11,9,22,0,1383,0,0,home,2018-10-21,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Manchester City WFC,0.0,6.0,away_win,4141,2,4141.0,loss
+19739,Manchester City WFC,701,22,3.183633269,127,9,50,21,28,7,13,0,2252,0,0,away,2018-10-21,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Manchester City WFC,0.0,6.0,away_win,4321,0,,win
+19740,Liverpool WFC,303,11,2.540729303,170,13,68,41,28,14,30,0,1207,0,1,away,2018-10-21,England - FA Women's Super League,2018/2019,West Ham United LFC,Liverpool WFC,0.0,1.0,away_win,4321,0,,win
+19740,West Ham United LFC,526,9,0.734988634,164,11,59,37,18,12,10,0,1831,0,2,home,2018-10-21,England - FA Women's Super League,2018/2019,West Ham United LFC,Liverpool WFC,0.0,1.0,away_win,442,0,,loss
+19741,Arsenal WFC,499,22,4.2991669576,133,8,63,21,25,7,18,0,1712,0,0,home,2018-10-21,England - FA Women's Super League,2018/2019,Arsenal WFC,Reading WFC,6.0,0.0,home_win,3142,1,442.0,win
+19741,Reading WFC,384,4,0.409592696,153,9,55,22,12,10,34,0,1371,0,2,away,2018-10-21,England - FA Women's Super League,2018/2019,Arsenal WFC,Reading WFC,6.0,0.0,home_win,4222,2,42211.0,loss
+19742,Bristol City WFC,432,15,1.4751481023000002,102,13,70,32,18,7,29,0,1578,0,2,away,2018-10-21,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Bristol City WFC,1.0,2.0,away_win,41221,1,32221.0,win
+19742,Yeovil Town LFC,260,8,0.509149629,139,13,73,45,15,4,25,0,1052,0,0,home,2018-10-21,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Bristol City WFC,1.0,2.0,away_win,442,0,,loss
+19743,Birmingham City WFC,550,2,0.052880242,134,10,57,37,19,10,11,0,1949,1,2,home,2018-10-21,England - FA Women's Super League,2018/2019,Birmingham City WFC,Chelsea FCW,0.0,0.0,draw,4231,1,4231.0,draw
+19743,Chelsea FCW,412,22,2.771112058,260,10,45,21,17,9,10,0,1578,0,1,away,2018-10-21,England - FA Women's Super League,2018/2019,Birmingham City WFC,Chelsea FCW,0.0,0.0,draw,42211,2,42211.0,draw
+19744,Arsenal WFC,750,25,4.0274358249999995,96,5,69,19,17,12,34,0,2528,0,0,away,2018-10-28,England - FA Women's Super League,2018/2019,Bristol City WFC,Arsenal WFC,0.0,4.0,away_win,3142,0,,win
+19744,Bristol City WFC,322,4,0.09798061,193,5,63,40,8,7,34,0,1323,0,0,home,2018-10-28,England - FA Women's Super League,2018/2019,Bristol City WFC,Arsenal WFC,0.0,4.0,away_win,3421,0,,loss
+19745,Brighton & Hove Albion WFC,402,19,2.5929720516,127,20,63,49,14,5,36,0,1487,0,1,home,2018-10-28,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Yeovil Town LFC,2.0,1.0,home_win,41221,0,,win
+19745,Yeovil Town LFC,272,7,1.362188657,99,21,58,46,14,4,41,0,1046,0,1,away,2018-10-28,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Yeovil Town LFC,2.0,1.0,home_win,4222,0,,loss
+19746,Everton LFC,462,11,0.6852590072,101,11,73,32,17,2,26,0,1644,0,0,home,2018-10-28,England - FA Women's Super League,2018/2019,Everton LFC,West Ham United LFC,1.0,2.0,away_win,32221,0,,loss
+19746,West Ham United LFC,394,16,2.748781716,164,15,60,32,29,4,17,0,1433,0,1,away,2018-10-28,England - FA Women's Super League,2018/2019,Everton LFC,West Ham United LFC,1.0,2.0,away_win,3232,0,,win
+19747,Manchester City WFC,514,23,1.5200539983999999,137,10,71,39,22,8,25,0,1804,0,0,home,2018-10-26,England - FA Women's Super League,2018/2019,Manchester City WFC,Reading WFC,1.0,1.0,draw,41221,0,,draw
+19747,Reading WFC,391,22,1.6635934024999999,221,12,74,51,17,14,17,0,1536,0,1,away,2018-10-26,England - FA Women's Super League,2018/2019,Manchester City WFC,Reading WFC,1.0,1.0,draw,41221,0,,draw
+19748,Chelsea FCW,660,22,1.85130672,102,6,59,31,21,6,20,0,2210,0,1,home,2018-10-28,England - FA Women's Super League,2018/2019,Chelsea FCW,Liverpool WFC,1.0,0.0,home_win,4231,0,,win
+19748,Liverpool WFC,299,7,0.355158506,146,8,81,55,17,8,26,0,1229,0,1,away,2018-10-28,England - FA Women's Super League,2018/2019,Chelsea FCW,Liverpool WFC,1.0,0.0,home_win,42121,1,42121.0,loss
+19749,Arsenal WFC,456,15,2.144092725,239,11,39,27,26,21,7,0,1792,0,0,home,2018-11-04,England - FA Women's Super League,2018/2019,Arsenal WFC,Birmingham City WFC,3.0,1.0,home_win,4231,1,4231.0,win
+19749,Birmingham City WFC,509,5,0.266117398,144,13,52,21,24,12,15,0,1852,0,2,away,2018-11-04,England - FA Women's Super League,2018/2019,Arsenal WFC,Birmingham City WFC,3.0,1.0,home_win,4231,3,4231.0,loss
+19750,Everton LFC,495,35,2.332298713,63,11,72,32,23,6,15,0,1779,0,0,away,2018-11-04,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Everton LFC,1.0,0.0,home_win,32221,3,32221.0,loss
+19750,Yeovil Town LFC,247,7,0.2351919049,88,8,44,41,9,5,50,0,1006,0,0,home,2018-11-04,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Everton LFC,1.0,0.0,home_win,4231,1,4231.0,win
+19751,Chelsea FCW,515,15,1.796234234,127,6,58,23,17,10,18,0,1805,0,1,away,2018-11-04,England - FA Women's Super League,2018/2019,West Ham United LFC,Chelsea FCW,0.0,2.0,away_win,4231,1,4231.0,win
+19751,West Ham United LFC,383,6,0.44088352499999994,127,11,50,29,16,7,33,0,1426,0,2,home,2018-11-04,England - FA Women's Super League,2018/2019,West Ham United LFC,Chelsea FCW,0.0,2.0,away_win,3232,1,4222.0,loss
+19752,Liverpool WFC,326,5,0.128974449,124,12,69,40,18,19,41,0,1307,0,1,home,2018-11-04,England - FA Women's Super League,2018/2019,Liverpool WFC,Manchester City WFC,0.0,3.0,away_win,4141,1,4141.0,loss
+19752,Manchester City WFC,732,17,2.271032428,198,13,71,27,17,7,11,0,2571,0,1,away,2018-11-04,England - FA Women's Super League,2018/2019,Liverpool WFC,Manchester City WFC,0.0,3.0,away_win,41221,0,,win
+19753,Bristol City WFC,347,7,0.320622882,168,14,64,24,24,13,23,0,1384,0,2,away,2018-11-04,England - FA Women's Super League,2018/2019,Reading WFC,Bristol City WFC,3.0,0.0,home_win,4231,1,4231.0,loss
+19753,Reading WFC,560,14,1.24691526,121,6,52,41,25,9,20,0,1927,0,0,home,2018-11-04,England - FA Women's Super League,2018/2019,Reading WFC,Bristol City WFC,3.0,0.0,home_win,442,3,4222.0,win
+19754,Arsenal WFC,754,13,1.394986486,127,7,53,21,14,2,19,0,2501,0,0,away,2019-03-24,England - FA Women's Super League,2018/2019,Liverpool WFC,Arsenal WFC,1.0,5.0,away_win,4141,0,,win
+19754,Liverpool WFC,288,4,1.152696777,294,7,47,34,9,17,31,0,1284,0,1,home,2019-03-24,England - FA Women's Super League,2018/2019,Liverpool WFC,Arsenal WFC,1.0,5.0,away_win,4411,0,,loss
+19755,Chelsea FCW,543,22,2.4992921726,178,9,76,23,14,6,13,0,1907,0,2,away,2019-02-10,England - FA Women's Super League,2018/2019,Manchester City WFC,Chelsea FCW,2.0,2.0,draw,4231,0,,draw
+19755,Manchester City WFC,371,15,2.1730267595,151,8,50,17,6,9,35,0,1381,0,1,home,2019-02-10,England - FA Women's Super League,2018/2019,Manchester City WFC,Chelsea FCW,2.0,2.0,draw,42211,0,,draw
+19756,Birmingham City WFC,383,11,1.183457554,91,13,65,36,13,6,32,0,1364,0,0,away,2019-04-17,England - FA Women's Super League,2018/2019,Everton LFC,Birmingham City WFC,1.0,3.0,away_win,4231,0,,win
+19756,Everton LFC,357,18,2.168486504,178,9,58,59,12,12,26,0,1354,0,0,home,2019-04-17,England - FA Women's Super League,2018/2019,Everton LFC,Birmingham City WFC,1.0,3.0,away_win,3412,1,3412.0,loss
+19757,Brighton & Hove Albion WFC,480,14,1.336967089,118,6,88,29,19,6,27,0,1706,0,1,away,2019-02-10,England - FA Women's Super League,2018/2019,Bristol City WFC,Brighton & Hove Albion WFC,0.0,0.0,draw,4231,0,,draw
+19757,Bristol City WFC,338,4,0.41566338399999997,241,8,67,33,13,6,53,0,1427,0,1,home,2019-02-10,England - FA Women's Super League,2018/2019,Bristol City WFC,Brighton & Hove Albion WFC,0.0,0.0,draw,4231,1,4231.0,draw
+19758,Reading WFC,570,18,2.4556196333,104,9,65,20,7,2,25,0,1928,0,1,away,2019-04-17,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Reading WFC,0.0,5.0,away_win,4231,2,4231.0,win
+19758,Yeovil Town LFC,270,11,1.1015555189,182,8,59,37,8,19,22,0,1153,0,1,home,2019-04-17,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Reading WFC,0.0,5.0,away_win,442,4,4411.0,loss
+19759,Arsenal WFC,641,22,3.674676037,98,6,72,22,49,11,20,0,2242,0,0,away,2018-11-18,England - FA Women's Super League,2018/2019,Everton LFC,Arsenal WFC,0.0,4.0,away_win,4321,2,4231.0,win
+19759,Everton LFC,276,8,1.099531713,221,12,59,36,18,13,37,0,1263,0,1,home,2018-11-18,England - FA Women's Super League,2018/2019,Everton LFC,Arsenal WFC,0.0,4.0,away_win,442,1,442.0,loss
+19760,Chelsea FCW,655,43,3.8641339705999997,42,3,71,31,22,5,14,0,2196,0,1,home,2018-11-18,England - FA Women's Super League,2018/2019,Chelsea FCW,Yeovil Town LFC,5.0,0.0,home_win,41221,0,,win
+19760,Yeovil Town LFC,269,1,0.07893251,77,7,53,34,16,7,53,0,1067,1,0,away,2018-11-18,England - FA Women's Super League,2018/2019,Chelsea FCW,Yeovil Town LFC,5.0,0.0,home_win,4231,1,451.0,loss
+19761,Bristol City WFC,303,9,1.140000204,249,17,70,61,25,12,33,0,1404,0,1,home,2018-11-17,England - FA Women's Super League,2018/2019,Bristol City WFC,Liverpool WFC,2.0,1.0,home_win,4231,1,4231.0,win
+19761,Liverpool WFC,431,12,1.109433669,175,14,69,52,28,10,30,0,1595,0,2,away,2018-11-17,England - FA Women's Super League,2018/2019,Bristol City WFC,Liverpool WFC,2.0,1.0,home_win,4141,2,442.0,loss
+19762,Brighton & Hove Albion WFC,326,3,0.2874503965,198,14,58,32,28,14,30,0,1378,0,1,home,2018-11-18,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Reading WFC,1.0,4.0,away_win,451,0,,loss
+19762,Reading WFC,562,17,1.021610708,107,11,68,33,18,4,14,0,1917,0,1,away,2018-11-18,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Reading WFC,1.0,4.0,away_win,41221,1,41221.0,win
+19763,Birmingham City WFC,554,13,1.8776156099999999,136,5,57,31,29,10,16,0,1932,0,0,home,2018-11-18,England - FA Women's Super League,2018/2019,Birmingham City WFC,West Ham United LFC,3.0,0.0,home_win,4231,0,,win
+19763,West Ham United LFC,353,12,1.995630601,253,10,54,37,22,15,25,0,1511,0,1,away,2018-11-18,England - FA Women's Super League,2018/2019,Birmingham City WFC,West Ham United LFC,3.0,0.0,home_win,32221,2,42211.0,loss
+19764,Manchester City WFC,735,35,4.065870129,63,3,73,27,26,4,11,0,2394,0,1,away,2018-11-25,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Manchester City WFC,0.0,4.0,away_win,4231,0,,win
+19764,Yeovil Town LFC,299,11,1.326077675,152,6,73,35,20,4,41,0,1198,0,0,home,2018-11-25,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Manchester City WFC,0.0,4.0,away_win,4231,1,4231.0,loss
+19765,Birmingham City WFC,711,14,1.12051099,78,7,65,31,16,10,24,0,2400,0,0,away,2018-11-25,England - FA Women's Super League,2018/2019,Liverpool WFC,Birmingham City WFC,0.0,2.0,away_win,4231,1,4231.0,win
+19765,Liverpool WFC,347,7,0.380664627,111,7,67,45,14,5,21,0,1276,0,0,home,2018-11-25,England - FA Women's Super League,2018/2019,Liverpool WFC,Birmingham City WFC,0.0,2.0,away_win,41221,0,,loss
+19766,Arsenal WFC,635,30,2.865230117,59,9,81,26,27,3,6,0,2126,0,0,home,2018-11-25,England - FA Women's Super League,2018/2019,Arsenal WFC,Brighton & Hove Albion WFC,4.0,1.0,home_win,4222,1,4231.0,win
+19766,Brighton & Hove Albion WFC,298,4,1.08212675,86,13,58,36,16,18,36,0,1173,0,0,away,2018-11-25,England - FA Women's Super League,2018/2019,Arsenal WFC,Brighton & Hove Albion WFC,4.0,1.0,home_win,41221,1,41221.0,loss
+19767,Everton LFC,380,11,1.0660822699999999,111,13,68,39,20,9,27,0,1340,0,2,away,2018-11-25,England - FA Women's Super League,2018/2019,Reading WFC,Everton LFC,2.0,1.0,home_win,42211,0,,loss
+19767,Reading WFC,500,14,1.3541333857,84,9,75,37,17,11,30,0,1643,0,0,home,2018-11-25,England - FA Women's Super League,2018/2019,Reading WFC,Everton LFC,2.0,1.0,home_win,41212,0,,win
+19768,Bristol City WFC,406,7,0.348133625,160,7,81,24,19,1,21,0,1436,0,1,away,2018-11-25,England - FA Women's Super League,2018/2019,West Ham United LFC,Bristol City WFC,2.0,0.0,home_win,4231,1,4231.0,loss
+19768,West Ham United LFC,475,14,1.65059145,107,10,63,31,10,6,32,0,1606,0,0,home,2018-11-25,England - FA Women's Super League,2018/2019,West Ham United LFC,Bristol City WFC,2.0,0.0,home_win,41221,0,,win
+19769,Brighton & Hove Albion WFC,429,14,0.782635227,191,11,62,34,6,12,23,0,1612,0,2,home,2018-12-02,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,West Ham United LFC,0.0,1.0,away_win,4231,2,4231.0,loss
+19769,West Ham United LFC,426,9,0.8987843806,176,17,42,30,16,13,16,0,1572,0,1,away,2018-12-02,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,West Ham United LFC,0.0,1.0,away_win,41221,0,,win
+19770,Arsenal WFC,482,17,1.228211736,178,11,78,23,20,8,7,0,1808,0,5,away,2018-12-02,England - FA Women's Super League,2018/2019,Manchester City WFC,Arsenal WFC,2.0,0.0,home_win,41221,1,4231.0,loss
+19770,Manchester City WFC,482,10,0.9942718198,263,11,46,34,25,11,39,0,1878,0,0,home,2018-12-02,England - FA Women's Super League,2018/2019,Manchester City WFC,Arsenal WFC,2.0,0.0,home_win,4231,4,541.0,win
+19771,Birmingham City WFC,676,21,1.357925059,96,9,64,21,19,4,9,0,2309,0,2,home,2018-12-02,England - FA Women's Super League,2018/2019,Birmingham City WFC,Yeovil Town LFC,2.0,1.0,home_win,4231,2,4132.0,win
+19771,Yeovil Town LFC,261,6,0.7146060919999999,377,6,51,32,15,11,24,0,1346,0,0,away,2018-12-02,England - FA Women's Super League,2018/2019,Birmingham City WFC,Yeovil Town LFC,2.0,1.0,home_win,4411,4,343.0,loss
+19772,Chelsea FCW,515,19,2.0103886726,171,6,68,29,16,8,22,0,1798,0,0,home,2018-12-02,England - FA Women's Super League,2018/2019,Chelsea FCW,Reading WFC,1.0,0.0,home_win,4231,0,,win
+19772,Reading WFC,378,7,0.463081631,306,10,64,45,10,4,43,0,1596,0,0,away,2018-12-02,England - FA Women's Super League,2018/2019,Chelsea FCW,Reading WFC,1.0,0.0,home_win,41212,0,,loss
+19773,Everton LFC,466,13,0.923337772,249,6,62,45,11,13,17,0,1793,0,0,home,2018-12-02,England - FA Women's Super League,2018/2019,Everton LFC,Liverpool WFC,2.0,1.0,home_win,4231,1,451.0,win
+19773,Liverpool WFC,498,14,2.1828300940000003,205,10,76,36,24,15,18,0,1867,0,1,away,2018-12-02,England - FA Women's Super League,2018/2019,Everton LFC,Liverpool WFC,2.0,1.0,home_win,4141,10,442.0,loss
+19774,Bristol City WFC,329,15,0.88637925,241,10,84,41,21,17,49,0,1534,0,0,away,2018-12-09,England - FA Women's Super League,2018/2019,Everton LFC,Bristol City WFC,0.0,2.0,away_win,4231,1,4231.0,win
+19774,Everton LFC,476,11,0.712967144,173,2,77,41,24,8,33,0,1798,0,1,home,2018-12-09,England - FA Women's Super League,2018/2019,Everton LFC,Bristol City WFC,0.0,2.0,away_win,4141,1,3412.0,loss
+19775,Liverpool WFC,405,7,1.2878935390000001,108,9,73,41,17,11,38,0,1485,0,0,away,2018-12-09,England - FA Women's Super League,2018/2019,Reading WFC,Liverpool WFC,2.0,2.0,draw,4231,1,4231.0,draw
+19775,Reading WFC,602,26,0.9501061953,126,9,68,42,5,8,35,0,2087,0,3,home,2018-12-09,England - FA Women's Super League,2018/2019,Reading WFC,Liverpool WFC,2.0,2.0,draw,4321,0,,draw
+19776,Brighton & Hove Albion WFC,356,9,0.657682894,264,14,55,23,12,19,27,0,1449,0,0,home,2018-12-09,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Chelsea FCW,0.0,4.0,away_win,4141,0,,loss
+19776,Chelsea FCW,587,22,2.599263875,107,7,60,19,15,5,11,0,1965,0,1,away,2018-12-09,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Chelsea FCW,0.0,4.0,away_win,4231,2,4231.0,win
+19777,West Ham United LFC,502,20,3.0621848959999998,122,13,61,36,17,11,14,0,1759,0,0,away,2018-12-09,England - FA Women's Super League,2018/2019,Yeovil Town LFC,West Ham United LFC,0.0,5.0,away_win,4321,3,4321.0,win
+19777,Yeovil Town LFC,344,11,0.4400759113,275,9,64,39,14,12,22,0,1491,0,0,home,2018-12-09,England - FA Women's Super League,2018/2019,Yeovil Town LFC,West Ham United LFC,0.0,5.0,away_win,41221,0,,loss
+19778,Birmingham City WFC,579,14,0.4344604875,181,4,59,19,22,12,19,0,2115,0,0,away,2018-12-09,England - FA Women's Super League,2018/2019,Manchester City WFC,Birmingham City WFC,1.0,0.0,home_win,4231,0,,loss
+19778,Manchester City WFC,511,8,0.7383918604,275,19,54,34,21,7,13,0,1984,0,2,home,2018-12-09,England - FA Women's Super League,2018/2019,Manchester City WFC,Birmingham City WFC,1.0,0.0,home_win,4231,0,,win
+19779,Bristol City WFC,240,5,0.9696828697000001,370,6,49,35,12,8,71,0,1320,0,0,home,2019-01-06,England - FA Women's Super League,2018/2019,Bristol City WFC,Manchester City WFC,1.0,1.0,draw,4231,0,,draw
+19779,Manchester City WFC,752,23,2.157944163,123,8,66,27,34,6,8,0,2534,0,1,away,2019-01-06,England - FA Women's Super League,2018/2019,Bristol City WFC,Manchester City WFC,1.0,1.0,draw,4222,1,4222.0,draw
+19780,Brighton & Hove Albion WFC,481,19,2.2920227357,121,16,86,33,27,10,28,0,1832,0,3,away,2019-01-06,England - FA Women's Super League,2018/2019,Liverpool WFC,Brighton & Hove Albion WFC,0.0,2.0,away_win,4231,0,,win
+19780,Liverpool WFC,385,6,0.3995959536,281,11,64,47,29,6,37,0,1618,0,0,home,2019-01-06,England - FA Women's Super League,2018/2019,Liverpool WFC,Brighton & Hove Albion WFC,0.0,2.0,away_win,4141,2,4231.0,loss
+19781,Arsenal WFC,578,17,2.180421606,130,9,60,17,13,7,25,0,1966,0,1,away,2019-01-06,England - FA Women's Super League,2018/2019,West Ham United LFC,Arsenal WFC,2.0,4.0,away_win,4231,0,,win
+19781,West Ham United LFC,316,7,0.41220169500000003,267,15,52,28,9,12,33,0,1371,0,1,home,2019-01-06,England - FA Women's Super League,2018/2019,West Ham United LFC,Arsenal WFC,2.0,4.0,away_win,41221,0,,loss
+19782,Birmingham City WFC,360,13,1.446990664,196,17,73,24,20,15,41,0,1488,0,1,home,2019-01-06,England - FA Women's Super League,2018/2019,Birmingham City WFC,Reading WFC,2.0,1.0,home_win,4231,0,,win
+19782,Reading WFC,405,15,1.325234707,116,15,79,40,11,7,25,0,1484,0,3,away,2019-01-06,England - FA Women's Super League,2018/2019,Birmingham City WFC,Reading WFC,2.0,1.0,home_win,4312,0,,loss
+19783,Chelsea FCW,649,23,2.499164645,135,6,49,32,12,11,20,0,2193,0,0,home,2019-01-06,England - FA Women's Super League,2018/2019,Chelsea FCW,Everton LFC,3.0,0.0,home_win,4231,2,4231.0,win
+19783,Everton LFC,376,9,0.6501686794,208,6,59,37,11,9,48,0,1485,0,0,away,2019-01-06,England - FA Women's Super League,2018/2019,Chelsea FCW,Everton LFC,3.0,0.0,home_win,41221,1,41221.0,loss
+19784,Brighton & Hove Albion WFC,379,8,0.26517540900000003,196,8,69,45,23,10,49,0,1572,0,1,home,2019-01-13,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Everton LFC,0.0,0.0,draw,4231,0,,draw
+19784,Everton LFC,392,10,0.4965047232,235,11,64,49,21,14,31,0,1583,0,1,away,2019-01-13,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Everton LFC,0.0,0.0,draw,4231,1,4231.0,draw
+19785,Arsenal WFC,451,4,1.31181662,184,11,58,33,8,5,47,0,1706,0,0,home,2019-01-13,England - FA Women's Super League,2018/2019,Arsenal WFC,Chelsea FCW,1.0,2.0,away_win,42211,1,42211.0,loss
+19785,Chelsea FCW,460,14,1.506347509,168,13,49,26,21,17,20,0,1682,0,2,away,2019-01-13,England - FA Women's Super League,2018/2019,Arsenal WFC,Chelsea FCW,1.0,2.0,away_win,41221,4,41221.0,win
+19786,Manchester City WFC,455,15,2.941993329,154,15,59,21,26,11,13,0,1720,0,1,away,2019-01-13,England - FA Women's Super League,2018/2019,West Ham United LFC,Manchester City WFC,1.0,3.0,away_win,4222,0,,win
+19786,West Ham United LFC,431,13,1.432867648,190,7,54,33,15,11,31,0,1645,0,0,home,2019-01-13,England - FA Women's Super League,2018/2019,West Ham United LFC,Manchester City WFC,1.0,3.0,away_win,4141,0,,loss
+19787,Birmingham City WFC,566,12,0.6263732572,89,10,66,24,22,6,16,0,1910,0,1,home,2019-01-13,England - FA Women's Super League,2018/2019,Birmingham City WFC,Bristol City WFC,0.0,1.0,away_win,41221,1,31222.0,loss
+19787,Bristol City WFC,231,6,0.615858286,296,15,59,30,8,14,23,0,1150,0,2,away,2019-01-13,England - FA Women's Super League,2018/2019,Birmingham City WFC,Bristol City WFC,0.0,1.0,away_win,4141,0,,win
+19788,Liverpool WFC,475,19,2.0172438345,156,17,74,35,18,7,23,0,1753,0,2,away,2019-01-13,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Liverpool WFC,1.0,2.0,away_win,4231,1,442.0,win
+19788,Yeovil Town LFC,302,6,0.542955433,202,18,61,40,22,17,49,0,1365,0,2,home,2019-01-13,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Liverpool WFC,1.0,2.0,away_win,4222,1,4222.0,loss
+19789,Birmingham City WFC,462,10,1.1794361657,220,10,58,38,17,13,41,0,1801,0,1,away,2019-01-27,England - FA Women's Super League,2018/2019,Chelsea FCW,Birmingham City WFC,2.0,3.0,away_win,4411,1,4411.0,win
+19789,Chelsea FCW,567,12,1.1900449499999999,196,7,55,36,28,12,15,0,2016,0,1,home,2019-01-27,England - FA Women's Super League,2018/2019,Chelsea FCW,Birmingham City WFC,2.0,3.0,away_win,41221,2,41221.0,loss
+19790,Brighton & Hove Albion WFC,359,6,0.6163595150000001,187,7,41,36,8,26,25,0,1423,0,0,away,2019-01-27,England - FA Women's Super League,2018/2019,Manchester City WFC,Brighton & Hove Albion WFC,3.0,0.0,home_win,5221,1,32221.0,loss
+19790,Manchester City WFC,667,18,3.070375948,162,8,75,17,36,4,5,0,2278,0,0,home,2019-01-27,England - FA Women's Super League,2018/2019,Manchester City WFC,Brighton & Hove Albion WFC,3.0,0.0,home_win,4222,0,,win
+19791,Arsenal WFC,368,14,2.020863431,222,16,59,30,16,11,29,0,1499,0,2,away,2019-01-27,England - FA Women's Super League,2018/2019,Reading WFC,Arsenal WFC,0.0,3.0,away_win,3142,0,,win
+19791,Reading WFC,424,10,0.37431293379999997,191,14,48,18,23,8,23,0,1606,0,2,home,2019-01-27,England - FA Women's Super League,2018/2019,Reading WFC,Arsenal WFC,0.0,3.0,away_win,41212,0,,loss
+19792,Bristol City WFC,440,15,1.5328254966,123,7,79,34,22,15,24,0,1650,0,0,home,2019-01-27,England - FA Women's Super League,2018/2019,Bristol City WFC,Yeovil Town LFC,2.0,1.0,home_win,4231,0,,win
+19792,Yeovil Town LFC,323,5,0.559755412,233,8,77,47,25,10,54,0,1458,0,0,away,2019-01-27,England - FA Women's Super League,2018/2019,Bristol City WFC,Yeovil Town LFC,2.0,1.0,home_win,4231,0,,loss
+19793,Liverpool WFC,390,7,0.8158846695,282,16,53,40,6,15,26,0,1575,0,0,home,2019-01-28,England - FA Women's Super League,2018/2019,Liverpool WFC,West Ham United LFC,1.0,0.0,home_win,4231,0,,win
+19793,West Ham United LFC,560,15,0.770876012,129,12,62,42,30,13,26,0,1960,0,2,away,2019-01-28,England - FA Women's Super League,2018/2019,Liverpool WFC,West Ham United LFC,1.0,0.0,home_win,41221,0,,loss
+19794,Bristol City WFC,375,3,0.14799563,216,6,64,15,17,6,24,0,1456,0,2,away,2019-02-20,England - FA Women's Super League,2018/2019,Chelsea FCW,Bristol City WFC,6.0,0.0,home_win,4141,1,32221.0,loss
+19794,Chelsea FCW,707,19,2.746930582,162,8,59,18,12,9,24,0,2392,0,0,home,2019-02-20,England - FA Women's Super League,2018/2019,Chelsea FCW,Bristol City WFC,6.0,0.0,home_win,41212,1,4222.0,win
+19795,Reading WFC,418,9,1.3254508553,220,12,63,41,15,3,53,0,1629,0,1,home,2019-02-20,England - FA Women's Super League,2018/2019,Reading WFC,West Ham United LFC,1.0,2.0,away_win,4222,1,4222.0,loss
+19795,West Ham United LFC,342,13,1.174597625,186,12,67,32,23,9,43,0,1394,0,0,away,2019-02-20,England - FA Women's Super League,2018/2019,Reading WFC,West Ham United LFC,1.0,2.0,away_win,41221,0,,win
+19796,Birmingham City WFC,689,11,1.276565194,124,6,59,22,19,8,22,0,2316,0,0,away,2019-02-20,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Birmingham City WFC,2.0,1.0,home_win,4231,7,4231.0,loss
+19796,Brighton & Hove Albion WFC,342,9,1.2872721766,313,5,51,21,7,16,26,0,1441,0,0,home,2019-02-20,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Birmingham City WFC,2.0,1.0,home_win,4222,1,4222.0,win
+19797,Arsenal WFC,695,36,3.6041206996,110,10,79,23,5,3,19,0,2369,0,0,home,2019-02-20,England - FA Women's Super League,2018/2019,Arsenal WFC,Yeovil Town LFC,3.0,0.0,home_win,41221,1,41221.0,win
+19797,Yeovil Town LFC,186,2,0.17058385999999998,261,11,49,27,13,10,66,0,1029,0,1,away,2019-02-20,England - FA Women's Super League,2018/2019,Arsenal WFC,Yeovil Town LFC,3.0,0.0,home_win,32221,0,,loss
+19798,Everton LFC,367,12,1.701780753,221,5,38,45,14,13,35,0,1426,0,0,away,2019-02-20,England - FA Women's Super League,2018/2019,Manchester City WFC,Everton LFC,3.0,1.0,home_win,32221,0,,loss
+19798,Manchester City WFC,594,17,2.351295921,119,8,58,35,39,18,15,0,2016,0,0,home,2019-02-20,England - FA Women's Super League,2018/2019,Manchester City WFC,Everton LFC,3.0,1.0,home_win,41221,0,,win
+19799,Chelsea FCW,878,18,2.334387064,137,3,56,22,23,7,7,0,2850,0,0,away,2019-03-13,England - FA Women's Super League,2018/2019,Liverpool WFC,Chelsea FCW,0.0,4.0,away_win,4231,0,,win
+19799,Liverpool WFC,310,1,0.03329184,240,11,50,29,10,13,38,0,1267,0,1,home,2019-03-13,England - FA Women's Super League,2018/2019,Liverpool WFC,Chelsea FCW,0.0,4.0,away_win,4231,0,,loss
+19800,Arsenal WFC,676,13,2.150793482,109,8,71,23,19,2,25,0,2294,0,0,home,2019-03-14,England - FA Women's Super League,2018/2019,Arsenal WFC,Bristol City WFC,4.0,0.0,home_win,433,0,,win
+19800,Bristol City WFC,290,7,0.888656294,147,9,60,27,19,9,36,0,1188,0,1,away,2019-03-14,England - FA Women's Super League,2018/2019,Arsenal WFC,Bristol City WFC,4.0,0.0,home_win,4411,1,4411.0,loss
+19801,Manchester City WFC,422,15,3.015969268,231,14,74,29,18,13,33,0,1690,0,1,away,2019-03-13,England - FA Women's Super League,2018/2019,Reading WFC,Manchester City WFC,3.0,4.0,away_win,4231,0,,win
+19801,Reading WFC,534,10,2.629025083,129,4,66,38,17,6,24,0,1891,0,0,home,2019-03-13,England - FA Women's Super League,2018/2019,Reading WFC,Manchester City WFC,3.0,4.0,away_win,41212,1,41212.0,loss
+19802,Brighton & Hove Albion WFC,371,21,2.30716667,130,18,80,27,14,4,25,0,1413,0,2,away,2019-03-13,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Brighton & Hove Albion WFC,1.0,1.0,draw,442,1,442.0,draw
+19802,Yeovil Town LFC,315,8,0.885763652,153,10,48,39,15,7,35,0,1228,0,1,home,2019-03-13,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Brighton & Hove Albion WFC,1.0,1.0,draw,442,1,442.0,draw
+19803,Everton LFC,390,10,0.757414354,148,6,56,41,13,11,56,0,1413,0,0,away,2019-03-13,England - FA Women's Super League,2018/2019,West Ham United LFC,Everton LFC,0.0,1.0,away_win,3421,2,3421.0,win
+19803,West Ham United LFC,380,7,0.504754863,109,7,64,24,18,10,31,0,1353,0,0,home,2019-03-13,England - FA Women's Super League,2018/2019,West Ham United LFC,Everton LFC,0.0,1.0,away_win,433,2,433.0,loss
+19804,Arsenal WFC,412,15,1.8266417852999999,170,13,56,39,24,5,18,0,1588,0,1,away,2019-03-31,England - FA Women's Super League,2018/2019,Birmingham City WFC,Arsenal WFC,0.0,1.0,away_win,4141,0,,win
+19804,Birmingham City WFC,406,9,0.665320905,139,14,58,43,30,10,32,0,1570,0,3,home,2019-03-31,England - FA Women's Super League,2018/2019,Birmingham City WFC,Arsenal WFC,0.0,1.0,away_win,4231,0,,loss
+19805,Chelsea FCW,475,25,2.6660092449999997,84,7,56,37,21,7,38,0,1632,0,1,home,2019-03-31,England - FA Women's Super League,2018/2019,Chelsea FCW,West Ham United LFC,1.0,1.0,draw,4231,1,4231.0,draw
+19805,West Ham United LFC,386,4,0.370534254,127,12,69,38,14,6,31,0,1431,0,1,away,2019-03-31,England - FA Women's Super League,2018/2019,Chelsea FCW,West Ham United LFC,1.0,1.0,draw,433,0,,draw
+19806,Bristol City WFC,321,8,0.687879032,201,10,67,44,22,15,30,0,1370,0,0,home,2019-03-31,England - FA Women's Super League,2018/2019,Bristol City WFC,Reading WFC,0.0,1.0,away_win,4141,0,,loss
+19806,Reading WFC,539,13,1.961290446,139,7,77,47,27,4,16,0,1935,0,1,away,2019-03-31,England - FA Women's Super League,2018/2019,Bristol City WFC,Reading WFC,0.0,1.0,away_win,41212,0,,win
+19807,Liverpool WFC,275,6,1.13873347,186,7,43,42,12,17,52,0,1201,0,0,away,2019-03-31,England - FA Women's Super League,2018/2019,Manchester City WFC,Liverpool WFC,2.0,1.0,home_win,451,0,,loss
+19807,Manchester City WFC,780,19,1.713116103,149,7,67,31,21,5,11,0,2630,0,2,home,2019-03-31,England - FA Women's Super League,2018/2019,Manchester City WFC,Liverpool WFC,2.0,1.0,home_win,442,0,,win
+19808,Everton LFC,564,11,0.7532203675,147,7,76,34,25,4,19,0,1931,0,0,home,2019-03-31,England - FA Women's Super League,2018/2019,Everton LFC,Yeovil Town LFC,0.0,1.0,away_win,4231,1,4231.0,loss
+19808,Yeovil Town LFC,276,5,0.058927929000000004,225,9,67,59,19,10,54,0,1296,0,0,away,2019-03-31,England - FA Women's Super League,2018/2019,Everton LFC,Yeovil Town LFC,0.0,1.0,away_win,442,0,,win
+19809,Brighton & Hove Albion WFC,375,12,0.8225900853,126,13,62,33,18,12,30,0,1449,0,0,away,2019-04-20,England - FA Women's Super League,2018/2019,Reading WFC,Brighton & Hove Albion WFC,1.0,0.0,home_win,433,1,433.0,loss
+19809,Reading WFC,434,19,1.2198003271,105,9,68,25,13,9,29,0,1597,0,0,home,2019-04-20,England - FA Women's Super League,2018/2019,Reading WFC,Brighton & Hove Albion WFC,1.0,0.0,home_win,442,2,442.0,win
+19810,Bristol City WFC,393,12,0.570416171,135,8,75,55,15,6,39,0,1466,0,0,away,2019-04-21,England - FA Women's Super League,2018/2019,Liverpool WFC,Bristol City WFC,5.0,2.0,home_win,451,1,451.0,loss
+19810,Liverpool WFC,396,14,1.911609386,190,9,68,46,27,10,42,0,1553,0,0,home,2019-04-21,England - FA Women's Super League,2018/2019,Liverpool WFC,Bristol City WFC,5.0,2.0,home_win,433,0,,win
+19811,Arsenal WFC,551,11,1.4055434800000002,127,4,53,19,20,12,24,0,1912,0,1,home,2019-04-21,England - FA Women's Super League,2018/2019,Arsenal WFC,Everton LFC,2.0,1.0,home_win,4231,5,4231.0,win
+19811,Everton LFC,387,3,0.173612569,188,7,53,29,10,17,14,0,1482,0,2,away,2019-04-21,England - FA Women's Super League,2018/2019,Arsenal WFC,Everton LFC,2.0,1.0,home_win,4231,1,4231.0,loss
+19813,Birmingham City WFC,571,19,1.6959755884,158,10,59,21,12,5,18,0,1986,0,1,away,2019-04-21,England - FA Women's Super League,2018/2019,West Ham United LFC,Birmingham City WFC,1.0,2.0,away_win,4231,0,,win
+19813,West Ham United LFC,322,2,0.19646836,178,11,44,29,10,8,26,0,1314,1,1,home,2019-04-21,England - FA Women's Super League,2018/2019,West Ham United LFC,Birmingham City WFC,1.0,2.0,away_win,433,3,433.0,loss
+19814,Bristol City WFC,380,9,0.403971123,228,11,69,43,24,13,34,0,1584,0,0,home,2019-04-28,England - FA Women's Super League,2018/2019,Bristol City WFC,West Ham United LFC,1.0,2.0,away_win,4231,3,4231.0,loss
+19814,West Ham United LFC,481,17,2.265061135,146,8,70,41,23,13,21,0,1819,0,0,away,2019-04-28,England - FA Women's Super League,2018/2019,Bristol City WFC,West Ham United LFC,1.0,2.0,away_win,4141,0,,win
+19815,Arsenal WFC,711,25,2.045093709,97,10,69,16,24,5,10,0,2374,0,1,away,2019-04-28,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Arsenal WFC,0.0,4.0,away_win,4141,2,4141.0,win
+19815,Brighton & Hove Albion WFC,268,4,0.17069558099999999,189,7,40,37,10,16,35,0,1179,0,1,home,2019-04-28,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Arsenal WFC,0.0,4.0,away_win,4141,3,4141.0,loss
+19816,Birmingham City WFC,621,18,1.2667731271,207,9,69,33,30,8,22,0,2314,0,0,home,2019-04-28,England - FA Women's Super League,2018/2019,Birmingham City WFC,Liverpool WFC,2.0,0.0,home_win,4141,3,4231.0,win
+19816,Liverpool WFC,299,4,0.2799997916,310,13,63,61,24,16,41,0,1479,0,1,away,2019-04-28,England - FA Women's Super League,2018/2019,Birmingham City WFC,Liverpool WFC,2.0,0.0,home_win,4141,0,,loss
+19817,Everton LFC,380,14,1.4284900365,363,17,86,49,14,15,36,0,1725,0,2,home,2019-04-28,England - FA Women's Super League,2018/2019,Everton LFC,Reading WFC,3.0,2.0,home_win,4231,0,,win
+19817,Reading WFC,539,9,1.144057817,111,9,88,31,27,9,38,0,1915,0,1,away,2019-04-28,England - FA Women's Super League,2018/2019,Everton LFC,Reading WFC,3.0,2.0,home_win,4231,1,4231.0,loss
+19818,Manchester City WFC,676,28,4.52997355,111,8,66,24,17,2,11,0,2325,0,0,home,2019-04-28,England - FA Women's Super League,2018/2019,Manchester City WFC,Yeovil Town LFC,2.0,1.0,home_win,442,1,442.0,win
+19818,Yeovil Town LFC,271,10,0.37602058639999997,153,9,57,31,7,20,28,0,1156,0,0,away,2019-04-28,England - FA Women's Super League,2018/2019,Manchester City WFC,Yeovil Town LFC,2.0,1.0,home_win,4411,1,4411.0,loss
+19819,Brighton & Hove Albion WFC,343,14,1.634196825,157,15,66,49,16,14,20,0,1330,0,1,away,2019-05-11,England - FA Women's Super League,2018/2019,West Ham United LFC,Brighton & Hove Albion WFC,0.0,4.0,away_win,442,1,4231.0,win
+19819,West Ham United LFC,538,5,0.38381864099999996,120,9,62,38,12,8,17,0,1877,0,1,home,2019-05-11,England - FA Women's Super League,2018/2019,West Ham United LFC,Brighton & Hove Albion WFC,0.0,4.0,away_win,4141,0,,loss
+19820,Chelsea FCW,476,19,2.902797221,88,8,85,44,23,8,43,0,1738,0,0,away,2019-05-11,England - FA Women's Super League,2018/2019,Reading WFC,Chelsea FCW,2.0,3.0,away_win,4411,0,,win
+19820,Reading WFC,417,13,1.6393578072000001,173,10,68,43,10,7,46,0,1594,0,0,home,2019-05-11,England - FA Women's Super League,2018/2019,Reading WFC,Chelsea FCW,2.0,3.0,away_win,433,1,433.0,loss
+19821,Arsenal WFC,526,12,1.084761821,173,8,54,31,16,11,24,0,1839,0,1,home,2019-05-11,England - FA Women's Super League,2018/2019,Arsenal WFC,Manchester City WFC,1.0,0.0,home_win,4231,1,4231.0,win
+19821,Manchester City WFC,500,14,0.9325918559999999,126,9,55,21,13,13,33,0,1797,0,2,away,2019-05-11,England - FA Women's Super League,2018/2019,Arsenal WFC,Manchester City WFC,1.0,0.0,home_win,433,1,442.0,loss
+19822,Birmingham City WFC,637,20,2.128267264,129,6,64,33,25,5,5,0,2139,0,0,away,2019-05-11,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Birmingham City WFC,0.0,2.0,away_win,442,0,,win
+19822,Yeovil Town LFC,299,4,0.175785462,168,8,61,49,26,20,33,0,1255,0,1,home,2019-05-11,England - FA Women's Super League,2018/2019,Yeovil Town LFC,Birmingham City WFC,0.0,2.0,away_win,442,1,442.0,loss
+2275026,Bristol City WFC,279,7,1.085590023,291,2,43,28,12,13,22,0,1227,0,0,,,,,,,,,,442,3,3421.0,loss
+2275026,Manchester City WFC,752,17,1.654245174,121,7,46,31,13,5,9,0,2431,0,0,,,,,,,,,,442,0,,loss
+2275027,Brighton & Hove Albion WFC,353,8,0.89587065,203,10,51,41,6,7,41,0,1348,0,4,,,,,,,,,,433,0,,loss
+2275027,Everton LFC,485,11,0.461894542,129,17,60,26,12,5,37,0,1712,0,2,,,,,,,,,,4231,1,4231.0,loss
+2275028,Birmingham City WFC,448,4,0.34585453,220,13,58,31,14,11,22,0,1763,0,0,,,,,,,,,,4141,2,4141.0,loss
+2275028,Manchester City WFC,625,13,2.646003531,176,10,70,33,27,11,20,0,2195,0,1,,,,,,,,,,433,1,433.0,loss
+2275029,Bristol City WFC,353,11,1.6086072919999999,142,13,58,36,16,6,27,0,1291,0,1,,,,,,,,,,4141,4,3421.0,loss
+2275029,Liverpool WFC,349,15,1.0476048022,155,9,69,36,19,6,47,0,1377,0,1,,,,,,,,,,433,1,433.0,loss
+2275030,Brighton & Hove Albion WFC,335,8,0.476855928,159,20,56,43,28,21,20,0,1324,1,3,,,,,,,,,,442,2,442.0,loss
+2275030,Tottenham Hotspur Women,416,10,1.438875992,158,8,63,52,26,9,18,0,1589,0,0,,,,,,,,,,4231,0,,loss
+2275033,Bristol City WFC,323,10,0.45068437299999997,118,9,61,49,22,16,39,0,1303,0,0,,,,,,,,,,4231,0,,loss
+2275033,Tottenham Hotspur Women,505,22,2.075573078,149,19,63,47,23,7,21,0,1867,0,2,,,,,,,,,,4141,0,,loss
+2275034,Liverpool WFC,385,6,0.28481288,165,14,62,44,22,4,14,0,1562,1,2,,,,,,,,,,4231,5,4231.0,loss
+2275034,Tottenham Hotspur Women,523,21,1.2910571233,141,12,65,43,17,9,25,0,1938,0,1,,,,,,,,,,4141,2,4141.0,loss
+2275036,Everton LFC,332,10,1.0133876336,137,12,62,61,24,8,39,0,1264,0,1,,,,,,,,,,4231,0,,loss
+2275036,Reading WFC,424,7,1.082195373,148,13,83,43,25,9,35,0,1600,0,2,,,,,,,,,,41212,2,41212.0,loss
+2275037,Arsenal WFC,633,15,1.227490774,153,8,70,25,14,2,13,0,2212,0,4,,,,,,,,,,4231,0,,loss
+2275037,Manchester City WFC,425,8,0.666350052,260,11,47,31,13,23,32,0,1678,0,1,,,,,,,,,,442,0,,loss
+2275038,Reading WFC,459,13,2.451031701,120,11,81,26,13,7,45,0,1647,0,2,,,,,,,,,,41212,0,,loss
+2275038,West Ham United LFC,297,0,0.0,120,14,67,30,7,3,58,0,1187,0,2,,,,,,,,,,4231,0,,loss
+2275040,Brighton & Hove Albion WFC,355,9,0.9499266788,272,14,58,29,23,17,37,0,1522,0,3,,,,,,,,,,4411,0,,loss
+2275040,West Ham United LFC,459,10,1.9871623026,138,14,64,29,9,11,19,0,1620,0,2,,,,,,,,,,4141,1,4141.0,loss
+2275041,Bristol City WFC,391,14,0.696334508,259,10,67,31,15,10,50,0,1677,0,0,,,,,,,,,,4231,4,4231.0,loss
+2275041,Everton LFC,563,18,1.089999406,159,7,65,43,22,6,7,0,2029,0,2,,,,,,,,,,433,0,,loss
+2275042,Manchester City WFC,441,29,3.057466093,174,7,52,18,14,10,20,0,1615,1,1,,,,,,,,,,4411,2,4411.0,loss
+2275042,West Ham United LFC,491,10,0.480502309,129,7,45,15,15,12,23,0,1673,0,1,,,,,,,,,,4231,1,4231.0,loss
+2275044,Arsenal WFC,646,10,1.1118841953,172,7,50,33,19,10,14,0,2213,0,1,,,,,,,,,,4231,0,,loss
+2275044,Manchester City WFC,453,7,0.2761905404,259,12,62,38,24,7,27,0,1815,0,1,,,,,,,,,,4411,1,4411.0,loss
+2275045,Chelsea FCW,544,18,3.1536663345,185,13,72,40,26,7,38,0,2013,0,2,,,,,,,,,,442,1,442.0,loss
+2275045,Liverpool WFC,294,9,0.479777387,234,12,78,48,24,11,59,0,1380,0,3,,,,,,,,,,442,0,,loss
+2275048,Tottenham Hotspur Women,313,12,0.635975907,194,11,49,42,13,11,33,0,1281,0,1,,,,,,,,,,433,0,,loss
+2275048,West Ham United LFC,399,15,1.939897711,111,10,63,43,20,5,35,0,1485,0,2,,,,,,,,,,4231,1,4231.0,loss
+2275049,Reading WFC,326,15,1.600454775,120,16,79,35,19,6,34,0,1235,1,3,,,,,,,,,,3412,1,3412.0,loss
+2275049,West Ham United LFC,388,9,1.085139548,102,25,56,30,10,3,29,0,1365,0,2,,,,,,,,,,343,1,433.0,loss
+2275050,Birmingham City WFC,384,11,0.7952491973,277,13,86,56,24,19,27,0,1685,0,1,,,,,,,,,,4231,0,,loss
+2275050,Reading WFC,516,16,1.1240207355,184,9,71,59,23,5,23,0,1876,0,1,,,,,,,,,,41212,0,,loss
+2275051,Brighton & Hove Albion WFC,348,15,1.3807387605,231,12,71,37,17,6,19,0,1461,0,1,,,,,,,,,,4231,0,,loss
+2275051,Everton LFC,426,12,0.908670385,178,9,66,35,24,13,40,0,1689,0,1,,,,,,,,,,4231,3,4231.0,loss
+2275052,Brighton & Hove Albion WFC,275,9,0.292810008,203,15,44,33,13,7,25,0,1193,0,1,,,,,,,,,,433,0,,loss
+2275052,Chelsea FCW,574,15,1.860313265,122,7,52,20,12,10,13,0,1971,0,1,,,,,,,,,,4141,5,4231.0,loss
+2275054,Brighton & Hove Albion WFC,296,6,0.5261885768,200,10,53,35,12,14,47,0,1179,0,2,,,,,,,,,,4141,0,,loss
+2275054,Liverpool WFC,480,15,1.892759553,110,11,60,28,24,4,26,0,1575,0,2,,,,,,,,,,4231,0,,loss
+2275056,Everton LFC,409,8,0.327731298,187,20,61,40,17,21,34,0,1584,0,1,,,,,,,,,,433,2,433.0,loss
+2275056,Liverpool WFC,509,21,0.9614488529,166,7,71,47,29,12,22,0,1904,0,0,,,,,,,,,,4231,0,,loss
+2275057,Chelsea FCW,411,21,4.4886187744,186,6,57,41,23,10,36,0,1559,0,0,,,,,,,,,,442,1,442.0,loss
+2275057,West Ham United LFC,416,3,0.130375607,111,12,55,34,9,13,31,0,1461,0,3,,,,,,,,,,352,0,,loss
+2275061,Brighton & Hove Albion WFC,438,21,2.1473359065,206,11,84,37,11,12,40,0,1749,0,1,,,,,,,,,,433,0,,loss
+2275061,Bristol City WFC,370,8,0.3787521352,130,9,75,34,19,8,34,0,1416,0,1,,,,,,,,,,433,0,,loss
+2275062,Arsenal WFC,603,10,1.404009463,168,6,70,36,14,5,14,0,2020,0,2,,,,,,,,,,433,1,433.0,loss
+2275062,Liverpool WFC,333,4,0.83203932,266,14,59,44,31,11,39,0,1432,0,3,,,,,,,,,,4231,1,4231.0,loss
+2275063,Arsenal WFC,608,7,0.41049753499999997,103,6,51,38,14,5,24,0,1998,0,2,,,,,,,,,,4231,0,,loss
+2275063,Chelsea FCW,419,22,1.426490498,111,12,74,30,20,4,30,0,1501,0,1,,,,,,,,,,4411,1,4411.0,loss
+2275065,Birmingham City WFC,509,7,0.5820787716,177,13,72,32,23,8,14,0,1870,0,0,,,,,,,,,,4231,1,4231.0,loss
+2275065,Brighton & Hove Albion WFC,380,14,1.644087216,211,9,58,28,9,10,23,0,1475,0,1,,,,,,,,,,442,0,,loss
+2275070,Bristol City WFC,271,7,0.27413850830000003,180,12,74,38,11,11,54,0,1208,0,1,,,,,,,,,,4231,1,4231.0,loss
+2275070,Liverpool WFC,547,18,1.5690197937,123,8,68,38,31,4,23,0,1904,0,0,,,,,,,,,,4411,2,4411.0,loss
+2275072,Chelsea FCW,583,29,4.802666885,106,3,64,37,8,9,21,0,1887,0,0,,,,,,,,,,4231,0,,loss
+2275072,Reading WFC,281,6,0.6792828909999999,98,9,57,41,13,13,33,0,1059,1,1,,,,,,,,,,442,1,442.0,loss
+2275073,Everton LFC,533,19,2.703705038,227,19,80,37,30,12,12,0,2036,0,2,,,,,,,,,,4231,2,4231.0,loss
+2275073,Tottenham Hotspur Women,463,8,0.634879629,176,11,70,44,23,5,35,0,1756,1,1,,,,,,,,,,4231,1,4231.0,loss
+2275074,Birmingham City WFC,423,4,0.23631539000000001,164,8,70,30,26,4,45,0,1618,0,0,,,,,,,,,,4231,0,,loss
+2275074,Chelsea FCW,642,15,1.485549796,192,6,62,29,12,4,11,0,2135,0,0,,,,,,,,,,442,0,,loss
+2275075,Reading WFC,433,24,4.2362857991,123,17,75,46,14,14,37,0,1601,0,4,,,,,,,,,,442,1,41212.0,loss
+2275075,Tottenham Hotspur Women,352,9,0.465114079,131,12,61,27,24,7,53,0,1363,0,1,,,,,,,,,,433,1,433.0,loss
+2275077,Tottenham Hotspur Women,335,21,2.1700936157,164,14,61,40,10,32,58,0,1406,0,2,,,,,,,,,,4231,5,4231.0,loss
+2275077,West Ham United LFC,422,9,0.73987227,71,14,70,17,18,4,20,0,1474,0,3,,,,,,,,,,433,0,,loss
+2275078,Everton LFC,506,5,0.338383309,226,8,43,27,12,11,26,0,1842,0,2,,,,,,,,,,4231,0,,loss
+2275078,Manchester City WFC,618,24,2.5183509975000002,125,5,48,20,21,2,8,0,2037,0,1,,,,,,,,,,442,0,,loss
+2275079,Arsenal WFC,750,18,1.781512654,146,7,45,24,17,10,5,0,2516,0,0,,,,,,,,,,433,2,433.0,loss
+2275079,Liverpool WFC,315,5,0.198959115,271,9,43,30,19,30,18,0,1397,0,0,,,,,,,,,,433,2,433.0,loss
+2275080,Bristol City WFC,263,6,0.403222319,106,5,59,31,8,0,48,0,1027,0,1,,,,,,,,,,4141,0,,loss
+2275080,Chelsea FCW,727,28,4.693414673,132,9,61,29,11,2,20,0,2326,0,2,,,,,,,,,,4231,3,4231.0,loss
+2275082,Arsenal WFC,670,19,1.93616569,125,3,51,21,22,8,16,0,2200,0,0,,,,,,,,,,4231,1,4231.0,loss
+2275082,Tottenham Hotspur Women,319,10,0.611161885,218,15,43,43,19,15,26,0,1360,0,3,,,,,,,,,,442,0,,loss
+2275083,Birmingham City WFC,515,8,0.7742134209999999,147,8,92,34,21,5,34,0,1874,0,0,,,,,,,,,,442,0,,loss
+2275083,Bristol City WFC,355,4,0.5383283010000001,250,8,61,27,19,7,34,0,1460,0,1,,,,,,,,,,442,0,,loss
+2275084,Chelsea FCW,485,25,2.157722691,94,10,66,31,16,10,35,0,1661,0,1,,,,,,,,,,442,0,,loss
+2275084,West Ham United LFC,423,14,1.688587886,94,6,54,30,12,9,30,0,1466,0,0,,,,,,,,,,4141,0,,loss
+2275085,Manchester City WFC,633,29,4.187613223,156,8,53,26,18,13,8,0,2185,0,1,,,,,,,,,,442,0,,loss
+2275085,Tottenham Hotspur Women,364,9,1.5005125313999998,149,13,42,32,17,10,31,0,1370,0,1,,,,,,,,,,442,2,442.0,loss
+2275086,Arsenal WFC,563,12,1.580883068,116,9,51,24,17,5,17,0,1917,0,0,,,,,,,,,,433,1,433.0,loss
+2275086,Reading WFC,332,19,1.0677217784000002,192,16,60,39,8,17,19,0,1348,0,3,,,,,,,,,,4231,0,,loss
+2275088,Birmingham City WFC,440,16,0.9886851099999999,147,11,80,43,25,5,26,0,1655,0,1,,,,,,,,,,433,0,,loss
+2275088,Bristol City WFC,352,9,0.2639848809,171,13,58,37,24,10,31,0,1390,0,2,,,,,,,,,,4231,2,4231.0,loss
+2275089,Arsenal WFC,725,12,2.605578065,201,9,55,30,31,8,23,0,2536,0,0,,,,,,,,,,433,0,,loss
+2275089,Birmingham City WFC,376,6,0.41633992,233,6,63,37,25,21,28,0,1607,0,0,,,,,,,,,,4231,0,,loss
+2275090,Arsenal WFC,526,9,0.503075129,171,10,53,37,17,8,25,0,1860,0,2,,,,,,,,,,352,0,,loss
+2275090,Chelsea FCW,420,15,1.741868021,216,13,67,31,15,4,28,0,1634,0,1,,,,,,,,,,433,0,,loss
+2275091,Brighton & Hove Albion WFC,441,18,0.9894012050000001,212,7,60,43,19,17,13,0,1656,0,0,,,,,,,,,,442,1,442.0,loss
+2275091,Tottenham Hotspur Women,475,10,1.652889349,149,9,61,40,29,8,42,0,1744,0,2,,,,,,,,,,433,1,433.0,loss
+2275092,Birmingham City WFC,441,8,0.491428186,256,3,60,28,13,3,24,0,1774,0,0,,,,,,,,,,4231,0,,loss
+2275092,Manchester City WFC,615,17,2.23971916,217,6,47,28,28,3,12,0,2199,0,0,,,,,,,,,,442,0,,loss
+2275093,Birmingham City WFC,422,8,0.1586676725,278,2,62,22,22,8,22,0,1712,0,0,,,,,,,,,,4231,0,,loss
+2275093,Chelsea FCW,552,15,2.670447645,225,12,55,25,20,14,21,0,1996,0,0,,,,,,,,,,433,1,433.0,loss
+2275094,Birmingham City WFC,414,17,0.6597670863,214,12,68,31,13,8,35,0,1688,0,2,,,,,,,,,,4231,1,343.0,loss
+2275094,West Ham United LFC,398,12,1.006316802,167,9,45,30,17,12,22,0,1501,0,1,,,,,,,,,,442,0,,loss
+2275096,Arsenal WFC,634,17,1.964409191,107,8,72,25,16,9,20,0,2194,0,3,,,,,,,,,,4231,1,4231.0,loss
+2275096,West Ham United LFC,361,10,0.769312692,260,14,49,33,19,15,30,0,1540,0,2,,,,,,,,,,442,0,,loss
+2275097,Brighton & Hove Albion WFC,401,9,0.302446696,158,8,52,23,22,7,25,0,1530,0,1,,,,,,,,,,442,0,,loss
+2275097,Manchester City WFC,556,26,3.904355618,144,8,62,29,25,14,18,0,1946,0,0,,,,,,,,,,442,0,,loss
+2275098,Arsenal WFC,740,14,2.119645105,166,12,72,23,19,4,13,0,2516,0,1,,,,,,,,,,3511,2,4231.0,loss
+2275098,Brighton & Hove Albion WFC,383,3,0.182464575,207,7,57,22,12,21,19,0,1450,0,0,,,,,,,,,,451,0,,loss
+2275099,Liverpool WFC,404,9,0.8192123179999999,214,13,90,56,28,20,20,0,1692,0,1,,,,,,,,,,433,3,433.0,loss
+2275099,Reading WFC,426,13,1.166592823,205,14,89,45,22,15,61,0,1785,0,1,,,,,,,,,,4231,0,,loss
+2275102,Brighton & Hove Albion WFC,324,11,1.242963319,190,12,62,41,22,15,37,0,1355,0,0,,,,,,,,,,4141,0,,loss
+2275102,Reading WFC,457,20,2.164963551,150,6,82,29,18,10,24,0,1712,0,1,,,,,,,,,,4231,0,,loss
+2275103,Liverpool WFC,369,14,1.9330564268,240,16,69,43,21,9,46,0,1523,0,1,,,,,,,,,,442,1,442.0,loss
+2275103,West Ham United LFC,431,14,1.137563629,142,6,63,35,19,11,18,0,1607,0,3,,,,,,,,,,352,0,,loss
+2275104,Arsenal WFC,788,35,5.763380574,149,2,61,24,17,8,13,0,2633,0,0,,,,,,,,,,352,0,,loss
+2275104,Bristol City WFC,270,7,2.087735698,186,2,61,20,24,8,32,0,1213,0,0,,,,,,,,,,442,0,,loss
+2275105,Chelsea FCW,557,15,2.336751716,117,10,56,27,11,6,31,0,1842,0,0,,,,,,,,,,41212,0,,loss
+2275105,Manchester City WFC,456,13,2.390646929,187,5,53,26,21,7,19,0,1707,0,1,,,,,,,,,,442,1,442.0,loss
+2275106,Bristol City WFC,437,4,0.16175051000000001,159,6,48,34,11,9,31,0,1603,0,0,,,,,,,,,,4231,0,,loss
+2275106,Manchester City WFC,638,16,1.400627304,166,14,41,19,18,9,21,0,2195,0,1,,,,,,,,,,442,0,,loss
+2275107,Manchester City WFC,569,13,2.078826247,201,5,71,35,20,13,46,0,2105,0,0,,,,,,,,,,4141,0,,loss
+2275107,Reading WFC,449,6,0.2524221706,200,6,60,46,10,7,30,0,1703,0,1,,,,,,,,,,4231,0,,loss
+2275108,Bristol City WFC,335,1,0.008890767,167,5,43,20,10,10,41,0,1291,0,1,,,,,,,,,,4411,0,,loss
+2275108,Chelsea FCW,600,26,3.063596832,114,10,56,19,17,13,15,0,2063,0,0,,,,,,,,,,442,0,,loss
+2275109,Birmingham City WFC,334,12,0.5037273615,171,13,58,47,36,17,25,0,1404,0,2,,,,,,,,,,433,0,,loss
+2275109,Tottenham Hotspur Women,475,13,1.621461337,181,17,78,41,25,4,24,0,1804,0,2,,,,,,,,,,442,1,442.0,loss
+2275110,Birmingham City WFC,548,21,0.8990494392999999,162,8,64,34,21,9,29,0,1976,0,1,,,,,,,,,,4141,0,,loss
+2275110,Liverpool WFC,337,7,0.501909021,296,16,57,43,20,13,30,0,1552,0,0,,,,,,,,,,4411,3,4411.0,loss
+2275113,Brighton & Hove Albion WFC,383,15,2.4114400715,191,15,55,50,15,15,23,0,1508,0,2,,,,,,,,,,4411,1,4411.0,loss
+2275113,West Ham United LFC,442,10,1.454952386,109,8,56,30,31,11,34,0,1606,0,1,,,,,,,,,,4231,2,4231.0,loss
+2275116,Liverpool WFC,411,12,0.9188126287,211,11,76,38,14,9,46,0,1603,0,0,,,,,,,,,,433,1,433.0,loss
+2275116,Manchester City WFC,667,14,1.185550587,196,8,65,26,14,6,11,0,2293,0,0,,,,,,,,,,433,0,,loss
+2275117,Arsenal WFC,708,15,3.0783704259999998,150,7,84,26,25,5,8,0,2457,0,0,,,,,,,,,,433,2,433.0,loss
+2275117,Everton LFC,409,8,0.745727209,257,9,55,36,21,29,35,0,1618,0,1,,,,,,,,,,4231,1,4231.0,loss
+2275120,Birmingham City WFC,527,17,0.8300614755,129,10,69,36,24,6,21,0,1893,0,2,,,,,,,,,,4231,3,4231.0,loss
+2275120,Everton LFC,302,10,0.906939241,142,10,60,31,14,16,48,0,1250,0,1,,,,,,,,,,433,1,433.0,loss
+2275121,Arsenal WFC,918,12,1.585161743,152,1,54,19,17,7,7,0,3014,0,0,,,,,,,,,,433,2,433.0,loss
+2275121,Brighton & Hove Albion WFC,332,3,0.083038739,219,13,56,16,23,25,19,0,1369,0,2,,,,,,,,,,4141,3,4411.0,loss
+2275122,Bristol City WFC,284,9,1.601430779,144,9,75,37,14,15,45,0,1167,0,1,,,,,,,,,,4141,1,4141.0,loss
+2275122,Reading WFC,629,21,2.6955019703,93,5,74,40,22,4,17,0,2164,0,1,,,,,,,,,,433,0,,loss
+2275126,Everton LFC,425,22,1.8996967705999999,172,12,68,36,33,9,20,0,1627,0,3,,,,,,,,,,433,0,,loss
+2275126,Tottenham Hotspur Women,413,9,0.9810662604000001,225,21,73,46,28,10,29,0,1713,0,2,,,,,,,,,,4141,2,4231.0,loss
+2275127,Everton LFC,316,9,2.6587218326,167,14,54,35,26,12,51,0,1334,0,3,,,,,,,,,,4231,0,,loss
+2275127,Reading WFC,377,16,1.8369519165,124,20,82,50,20,8,30,0,1463,0,1,,,,,,,,,,4231,0,,loss
+2275130,Chelsea FCW,530,27,2.712289116,111,7,66,20,21,1,24,0,1803,0,1,,,,,,,,,,433,0,,loss
+2275130,Manchester City WFC,439,12,0.778660876,246,11,63,39,11,5,36,0,1719,0,2,,,,,,,,,,442,0,,loss
+2275131,Everton LFC,433,16,0.908103756,254,7,68,34,25,11,20,0,1684,0,0,,,,,,,,,,4231,0,,loss
+2275131,Manchester City WFC,613,17,2.0880018415,188,11,69,34,17,8,29,0,2199,0,4,,,,,,,,,,433,1,433.0,loss
+2275132,Chelsea FCW,569,21,1.817601179,156,5,63,33,18,11,13,0,2025,0,0,,,,,,,,,,433,0,,loss
+2275132,Tottenham Hotspur Women,346,7,0.3236008797,149,16,51,33,12,7,45,0,1388,0,2,,,,,,,,,,4141,0,,loss
+2275133,Liverpool WFC,395,15,1.2599420830999999,155,11,75,33,21,9,26,0,1481,0,1,,,,,,,,,,4231,1,4231.0,loss
+2275133,West Ham United LFC,482,12,2.0651221889999998,97,7,57,37,17,8,22,0,1604,0,0,,,,,,,,,,433,0,,loss
+2275136,Manchester City WFC,598,10,0.364264494,160,10,69,19,26,10,26,0,2115,0,0,,,,,,,,,,4411,0,,loss
+2275136,Manchester United,383,8,0.6087221030000001,212,6,44,42,9,12,37,0,1489,0,0,,,,,,,,,,433,2,433.0,loss
+2275137,Manchester United,549,20,2.411826299,184,14,72,34,33,2,8,0,1995,1,1,,,,,,,,,,4231,1,4231.0,loss
+2275137,Tottenham Hotspur Women,287,8,0.785817709,215,20,54,33,25,14,55,0,1335,0,2,,,,,,,,,,442,4,442.0,loss
+2275138,Liverpool WFC,348,7,0.46936735,282,12,63,33,19,5,28,0,1489,0,3,,,,,,,,,,4231,0,,loss
+2275138,Manchester United,478,23,3.260431181,156,9,55,25,25,1,22,0,1774,0,1,,,,,,,,,,433,1,442.0,loss
+2275139,Manchester United,313,25,1.9694124210000001,149,18,69,36,19,3,45,0,1335,1,2,,,,,,,,,,4231,0,,loss
+2275139,Tottenham Hotspur Women,354,15,0.8069630609,121,4,62,29,11,6,43,0,1320,0,2,,,,,,,,,,4231,2,3511.0,loss
+2275140,Brighton & Hove Albion WFC,382,2,0.045471823,129,14,31,26,11,15,20,0,1417,0,2,,,,,,,,,,442,0,,loss
+2275140,Manchester United,570,19,3.047822927,159,10,59,16,22,5,12,0,2008,0,1,,,,,,,,,,4231,2,442.0,loss
+2275142,Bristol City WFC,237,4,0.1632819455,184,14,52,44,6,5,45,0,1090,0,3,,,,,,,,,,4141,1,4141.0,loss
+2275142,Manchester United,644,25,2.5576877046,111,6,72,30,14,3,14,0,2157,0,3,,,,,,,,,,4231,0,,loss
+2275144,Everton LFC,432,9,1.3038140566,203,16,56,32,24,4,30,0,1521,0,0,,,,,,,,,,4231,3,4231.0,loss
+2275144,Manchester United,375,7,1.0921146035,203,11,64,51,16,2,43,0,1496,0,3,,,,,,,,,,4231,1,4231.0,loss
+2275146,Everton LFC,434,9,0.300665587,199,12,53,33,23,7,31,0,1639,0,1,,,,,,,,,,4231,2,4231.0,loss
+2275146,Manchester United,507,15,1.865184164,174,9,62,31,18,15,22,0,1810,0,1,,,,,,,,,,4231,0,,loss
+2275150,Manchester United,360,12,1.191634063,95,18,49,29,10,5,22,0,1262,0,3,,,,,,,,,,4231,0,,loss
+2275150,West Ham United LFC,296,9,0.538556534,123,11,35,20,10,8,22,0,1133,1,4,,,,,,,,,,352,0,,loss
+2275151,Brighton & Hove Albion WFC,455,9,1.4473923595,179,8,63,38,16,13,31,0,1666,0,0,,,,,,,,,,442,0,,loss
+2275151,Manchester United,517,7,0.541477575,170,8,70,37,21,5,5,0,1850,0,0,,,,,,,,,,4231,0,,loss
+2275153,Manchester United,326,7,0.46089294999999997,126,23,53,35,8,18,26,0,1150,0,3,,,,,,,,,,433,0,,loss
+2275153,Reading WFC,430,6,2.02229358,152,19,53,45,9,5,59,0,1497,0,3,,,,,,,,,,4411,0,,loss
+2275154,Chelsea FCW,451,14,1.608795056,91,11,59,33,11,5,43,0,1523,0,1,,,,,,,,,,442,1,442.0,loss
+2275154,Manchester United,401,7,0.536504842,77,9,51,40,10,13,33,0,1431,0,2,,,,,,,,,,4231,1,4231.0,loss
+2275156,Arsenal WFC,664,21,1.841345774,170,6,56,20,12,5,6,0,2307,0,3,,,,,,,,,,4231,0,,loss
+2275156,Manchester United,348,7,0.678111807,174,13,51,32,6,8,24,0,1366,0,1,,,,,,,,,,433,0,,loss
+2275157,Manchester United,283,7,0.943839431,158,11,60,48,25,4,63,0,1245,0,1,,,,,,,,,,4231,0,,loss
+2275157,Reading WFC,396,11,0.935536414,149,11,65,46,17,5,40,0,1491,0,1,,,,,,,,,,4231,0,,loss
+3764230,Tottenham Hotspur Women,503,12,0.793853057,89,14,61,46,14,12,38,0,1806,0,0,,,,,,,,,,4231,1,4231.0,loss
+3764230,West Ham United LFC,464,8,0.779882997,169,9,75,38,18,4,23,0,1679,0,1,,,,,,,,,,433,0,,loss
+3764231,Birmingham City WFC,408,4,0.317775043,218,22,84,29,16,4,22,0,1570,0,4,,,,,,,,,,433,1,433.0,loss
+3764231,Brighton & Hove Albion WFC,476,17,1.652235093,193,10,70,25,16,7,32,0,1723,0,0,,,,,,,,,,433,1,433.0,loss
+3764232,Chelsea FCW,511,16,2.739734262,158,8,63,26,16,8,20,0,1778,0,0,,,,,,,,,,433,0,,loss
+3764232,Manchester United,552,12,1.258471542,159,9,52,32,14,2,15,0,1846,0,2,,,,,,,,,,4231,0,,loss
+3764233,Arsenal WFC,524,20,4.451305035,130,7,53,39,21,9,24,0,1762,0,2,,,,,,,,,,4231,1,4231.0,loss
+3764233,Reading WFC,399,11,1.019777936,176,14,53,25,14,12,21,0,1490,0,3,,,,,,,,,,41212,1,41212.0,loss
+3764234,Aston Villa,380,7,0.6288805719999999,193,6,62,34,28,8,21,0,1516,0,0,,,,,,,,,,433,0,,loss
+3764234,Manchester City WFC,646,17,4.002514137,151,11,66,33,33,6,10,0,2242,0,0,,,,,,,,,,433,2,433.0,loss
+3764235,Bristol City WFC,270,1,0.05846139,146,12,49,31,16,4,48,0,1114,0,1,,,,,,,,,,442,0,,loss
+3764235,Chelsea FCW,770,36,6.113784206,123,6,75,33,22,4,9,0,2543,0,0,,,,,,,,,,433,0,,loss
+3764236,Aston Villa,335,8,1.2332779189999998,187,14,67,31,35,5,17,0,1419,0,2,,,,,,,,,,433,1,433.0,loss
+3764236,Reading WFC,383,25,3.1748980582,216,14,70,52,16,9,30,0,1584,0,2,,,,,,,,,,41212,0,,loss
+3764237,Birmingham City WFC,431,6,0.571429407,189,12,60,46,17,9,11,0,1660,0,0,,,,,,,,,,4141,1,4141.0,loss
+3764237,Manchester United,492,25,3.004775854,146,13,56,42,24,3,14,0,1773,0,0,,,,,,,,,,4231,1,4231.0,loss
+3764238,Arsenal WFC,541,25,5.28509327,66,9,52,20,13,3,21,0,1795,0,0,,,,,,,,,,4231,0,,loss
+3764238,West Ham United LFC,378,3,0.161334734,168,16,41,31,20,6,21,0,1383,1,4,,,,,,,,,,433,1,433.0,loss
+3764239,Everton LFC,461,8,1.320194248,178,17,64,31,14,4,19,0,1622,0,3,,,,,,,,,,4231,1,4231.0,loss
+3764239,Tottenham Hotspur Women,450,9,0.362227538,152,15,64,41,18,9,11,0,1629,0,2,,,,,,,,,,4231,1,4231.0,loss
+3764240,Bristol City WFC,326,10,0.685200515,139,10,57,36,10,4,18,0,1198,0,2,,,,,,,,,,451,0,,loss
+3764240,Everton LFC,601,14,2.483701339,137,17,41,20,14,13,19,0,1952,0,1,,,,,,,,,,4231,1,4231.0,loss
+3764241,Brighton & Hove Albion WFC,348,7,0.322644333,218,10,63,35,8,2,28,0,1339,0,1,,,,,,,,,,4231,1,4231.0,loss
+3764241,Manchester City WFC,690,15,1.9036923552,98,2,61,33,23,0,8,0,2184,0,0,,,,,,,,,,433,1,433.0,loss
+3775540,Aston Villa,363,13,1.125236374,208,19,83,49,32,42,40,0,1547,0,2,,,,,,,,,,442,0,,loss
+3775540,Bristol City WFC,437,11,0.515257816,202,11,84,48,21,15,24,0,1714,0,1,,,,,,,,,,442,3,442.0,loss
+3775541,Aston Villa,285,0,0.0,202,8,60,37,14,9,24,0,1164,0,1,,,,,,,,,,343,2,352.0,loss
+3775541,Manchester United,694,15,1.452543577,169,10,57,24,28,14,19,0,2320,0,1,,,,,,,,,,4231,3,4231.0,loss
+3775542,Bristol City WFC,346,9,1.028051222,111,6,52,33,18,14,30,0,1318,0,0,,,,,,,,,,4141,0,,loss
+3775542,Everton LFC,603,17,2.6107418449999997,100,15,50,31,20,11,23,0,2023,0,1,,,,,,,,,,3511,2,4141.0,loss
+3775543,Arsenal WFC,748,15,2.3236310575,129,8,81,33,19,1,13,0,2499,0,0,,,,,,,,,,433,0,,loss
+3775543,Brighton & Hove Albion WFC,390,8,0.615871469,189,9,69,34,11,16,32,0,1493,0,0,,,,,,,,,,442,0,,loss
+3775544,Aston Villa,289,7,1.2055827399999999,198,9,69,51,26,33,49,0,1323,0,1,,,,,,,,,,3412,0,,loss
+3775544,West Ham United LFC,498,26,2.7832045880000003,190,10,78,46,26,11,30,0,1830,0,0,,,,,,,,,,3511,0,,loss
+3775545,Manchester City WFC,623,24,3.038886399,128,8,56,26,26,1,8,0,2077,0,1,,,,,,,,,,433,1,433.0,loss
+3775545,Tottenham Hotspur Women,295,4,0.35005636500000004,210,20,40,25,10,6,24,0,1210,0,3,,,,,,,,,,4231,1,4231.0,loss
+3775546,Bristol City WFC,340,11,0.4423319483,172,12,68,49,22,31,29,0,1403,0,1,,,,,,,,,,4141,1,4141.0,loss
+3775546,Tottenham Hotspur Women,473,20,1.7556747566,118,17,72,43,12,7,41,0,1706,0,3,,,,,,,,,,4231,1,4231.0,loss
+3775547,Birmingham City WFC,199,1,0.07968039,196,5,55,41,13,10,33,0,974,0,1,,,,,,,,,,343,2,4141.0,loss
+3775547,Manchester City WFC,743,22,2.1957515834,101,3,65,29,24,13,31,0,2468,0,0,,,,,,,,,,433,3,433.0,loss
+3775548,Arsenal WFC,621,7,0.404325459,124,5,78,37,33,21,15,0,2128,0,1,,,,,,,,,,433,0,,loss
+3775548,Chelsea FCW,372,10,1.253427695,202,16,50,48,12,14,47,0,1510,0,2,,,,,,,,,,4231,2,4231.0,loss
+3775549,Birmingham City WFC,268,5,0.594182812,244,7,45,46,12,22,23,0,1150,0,1,,,,,,,,,,451,2,4141.0,loss
+3775549,Tottenham Hotspur Women,592,10,0.51785669,185,10,54,21,26,8,19,0,2120,0,0,,,,,,,,,,433,1,433.0,loss
+3775550,Chelsea FCW,571,20,3.925290297,175,11,53,27,12,17,32,0,1989,0,1,,,,,,,,,,41212,2,41212.0,loss
+3775550,Everton LFC,561,6,0.43707727900000004,146,6,54,27,13,14,25,0,1971,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775551,Arsenal WFC,515,9,0.35310083600000003,183,13,72,36,18,6,19,0,1853,0,1,,,,,,,,,,433,1,433.0,loss
+3775551,Manchester United,441,24,1.719548989,146,10,64,36,20,12,37,0,1620,0,0,,,,,,,,,,4231,1,4231.0,loss
+3775552,Everton LFC,502,15,3.246616757,203,14,52,37,24,21,29,0,1871,0,2,,,,,,,,,,433,1,433.0,loss
+3775552,Tottenham Hotspur Women,424,10,1.083335871,168,8,56,46,13,12,22,0,1651,0,1,,,,,,,,,,4231,0,,loss
+3775553,Birmingham City WFC,387,8,0.917297036,123,12,48,33,15,6,18,0,1427,0,1,,,,,,,,,,4141,0,,loss
+3775553,West Ham United LFC,522,13,1.2774032517,163,12,58,31,25,3,33,0,1807,0,2,,,,,,,,,,433,2,433.0,loss
+3775554,Everton LFC,426,19,1.996218709,176,9,61,27,13,16,9,0,1573,0,1,,,,,,,,,,4231,0,,loss
+3775554,Reading WFC,432,8,0.827192916,148,9,63,40,20,3,38,0,1530,0,0,,,,,,,,,,41212,0,,loss
+3775555,Chelsea FCW,608,21,3.230951305,147,8,60,29,14,7,20,0,1999,0,0,,,,,,,,,,433,1,433.0,loss
+3775555,Tottenham Hotspur Women,392,5,0.259836545,122,14,58,33,5,29,41,0,1431,0,1,,,,,,,,,,433,0,,loss
+3775556,Aston Villa,410,11,1.034694404,214,17,39,32,26,13,30,0,1599,0,1,,,,,,,,,,433,3,433.0,loss
+3775556,Brighton & Hove Albion WFC,461,11,0.4832247845,213,11,54,32,14,3,16,0,1640,0,4,,,,,,,,,,4231,3,433.0,loss
+3775557,Arsenal WFC,723,18,2.109231243,118,7,68,19,20,5,16,0,2422,0,2,,,,,,,,,,433,1,433.0,loss
+3775557,Brighton & Hove Albion WFC,292,3,0.228723277,195,8,37,23,8,23,42,0,1244,0,0,,,,,,,,,,442,1,442.0,loss
+3775558,Manchester United,380,16,1.807298074,194,13,62,37,19,20,33,0,1453,0,2,,,,,,,,,,433,0,,loss
+3775558,Reading WFC,409,8,0.502591669,195,6,56,37,15,14,29,0,1559,0,2,,,,,,,,,,442,0,,loss
+3775559,Arsenal WFC,660,17,2.9903100339999997,107,1,65,24,17,9,22,0,2231,0,0,,,,,,,,,,433,0,,loss
+3775559,Everton LFC,425,4,0.27732783299999997,200,8,45,21,21,15,20,0,1567,0,0,,,,,,,,,,4231,0,,loss
+3775560,Arsenal WFC,748,19,2.115845209,119,6,66,26,27,5,11,0,2477,0,0,,,,,,,,,,4141,1,352.0,loss
+3775560,Aston Villa,200,2,0.081766618,233,4,40,52,12,25,37,0,1055,0,0,,,,,,,,,,3511,1,3412.0,loss
+3775561,Manchester United,371,17,2.645717678,201,8,69,41,13,6,31,0,1451,0,0,,,,,,,,,,4231,0,,loss
+3775561,West Ham United LFC,520,10,0.547712296,124,11,63,40,18,4,33,0,1722,0,3,,,,,,,,,,433,2,433.0,loss
+3775562,Brighton & Hove Albion WFC,409,5,0.2615364886,93,13,48,39,16,5,23,0,1394,0,3,,,,,,,,,,4231,1,442.0,loss
+3775562,Manchester United,428,22,3.6344742759999997,114,17,63,20,23,9,30,0,1555,0,1,,,,,,,,,,4231,2,4231.0,loss
+3775563,Everton LFC,505,13,1.143805809,255,8,55,33,18,24,26,0,1876,0,1,,,,,,,,,,343,3,442.0,loss
+3775563,Manchester United,479,13,1.316998223,171,6,52,21,22,26,23,0,1758,0,0,,,,,,,,,,433,0,,loss
+3775564,Manchester City WFC,615,19,2.603015344,134,9,63,36,33,17,23,0,2149,0,1,,,,,,,,,,433,3,433.0,loss
+3775564,Reading WFC,300,3,0.240574283,269,13,38,39,8,22,39,0,1348,0,5,,,,,,,,,,352,1,352.0,loss
+3775565,Birmingham City WFC,287,3,0.222903135,132,7,42,46,8,13,38,0,1152,0,1,,,,,,,,,,451,1,451.0,loss
+3775565,Chelsea FCW,683,24,3.904297754,106,11,48,24,17,28,25,0,2236,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775566,Aston Villa,382,8,0.982911887,209,9,59,38,27,21,21,0,1609,0,1,,,,,,,,,,433,0,,loss
+3775566,Manchester United,564,31,2.556162035,192,10,69,31,34,18,5,0,2085,0,0,,,,,,,,,,4231,0,,loss
+3775567,Chelsea FCW,445,18,2.224487442,120,9,63,35,15,7,30,0,1560,0,1,,,,,,,,,,4231,0,,loss
+3775567,Manchester United,450,5,0.307653723,165,13,65,25,14,1,27,0,1604,0,1,,,,,,,,,,4231,2,4231.0,loss
+3775568,Aston Villa,314,6,0.835516892,179,12,69,52,32,24,49,0,1383,0,2,,,,,,,,,,352,0,,loss
+3775568,Birmingham City WFC,346,6,0.3506285084,195,11,65,73,25,25,26,0,1491,0,2,,,,,,,,,,433,1,433.0,loss
+3775569,Arsenal WFC,701,28,5.237738053,141,6,59,27,34,21,7,0,2433,0,0,,,,,,,,,,433,1,433.0,loss
+3775569,Bristol City WFC,272,4,0.12728884499999998,254,9,46,37,12,34,39,0,1281,0,0,,,,,,,,,,4141,2,4141.0,loss
+3775570,Brighton & Hove Albion WFC,327,6,0.5641603215,231,10,60,36,11,14,45,0,1384,0,1,,,,,,,,,,442,0,,loss
+3775570,Everton LFC,659,15,3.096981755,189,13,72,42,26,14,20,0,2318,0,2,,,,,,,,,,4231,0,,loss
+3775571,Aston Villa,308,9,1.43217905,147,8,68,35,21,25,35,0,1295,0,2,,,,,,,,,,433,0,,loss
+3775571,Reading WFC,548,24,2.393277088,105,9,71,27,16,10,34,0,1950,0,0,,,,,,,,,,442,1,442.0,loss
+3775572,Birmingham City WFC,306,4,0.212206235,98,3,58,26,11,2,29,0,1165,0,0,,,,,,,,,,4141,0,,loss
+3775572,Chelsea FCW,675,20,2.341019751,138,12,61,25,14,2,12,0,2267,0,0,,,,,,,,,,433,1,433.0,loss
+3775573,Manchester City WFC,657,25,4.778309455,105,8,67,30,24,8,23,0,2217,0,0,,,,,,,,,,433,0,,loss
+3775573,West Ham United LFC,213,2,0.151476985,252,8,38,44,8,28,49,0,1052,0,1,,,,,,,,,,343,1,343.0,loss
+3775574,Birmingham City WFC,179,1,0.077299304,122,8,53,39,10,15,51,0,877,0,0,,,,,,,,,,343,1,343.0,loss
+3775574,Manchester City WFC,827,26,4.041054271,113,5,60,28,25,19,22,0,2705,0,0,,,,,,,,,,433,0,,loss
+3775575,Aston Villa,492,10,0.6875018669999999,157,10,66,37,29,3,20,0,1805,0,0,,,,,,,,,,433,1,433.0,loss
+3775575,Everton LFC,563,18,2.730870501,190,9,64,19,25,19,18,0,2014,0,0,,,,,,,,,,4231,2,4231.0,loss
+3775576,Chelsea FCW,336,16,2.156714185,263,8,51,48,12,24,27,0,1485,0,0,,,,,,,,,,4231,0,,loss
+3775576,Manchester City WFC,565,13,1.47647928,87,8,52,33,43,11,20,0,1908,0,1,,,,,,,,,,433,0,,loss
+3775577,Arsenal WFC,657,11,1.8834720964,182,8,63,28,15,10,24,0,2289,0,1,,,,,,,,,,433,0,,loss
+3775577,Everton LFC,390,5,0.27506880499999997,247,9,44,23,11,20,34,0,1533,0,2,,,,,,,,,,3421,0,,loss
+3775578,Everton LFC,529,13,0.849343777,153,13,57,38,16,13,15,0,1853,0,1,,,,,,,,,,433,0,,loss
+3775578,Reading WFC,343,11,2.15314814,175,9,63,32,16,25,55,0,1441,0,1,,,,,,,,,,442,3,442.0,loss
+3775579,Brighton & Hove Albion WFC,534,9,0.6439802450000001,156,7,52,39,8,20,19,0,1855,0,0,,,,,,,,,,433,2,442.0,loss
+3775579,Reading WFC,428,17,2.3961760896,110,7,69,25,20,14,39,0,1585,0,0,,,,,,,,,,4141,3,451.0,loss
+3775580,Brighton & Hove Albion WFC,430,5,0.17518881960000002,114,8,54,26,11,0,22,0,1471,0,0,,,,,,,,,,4231,0,,loss
+3775580,Chelsea FCW,722,14,0.8314799334999999,114,6,52,28,9,8,11,0,2303,0,0,,,,,,,,,,4231,2,4231.0,loss
+3775581,Aston Villa,311,1,0.007004283,171,7,59,37,16,15,28,0,1229,0,1,,,,,,,,,,352,2,343.0,loss
+3775581,Chelsea FCW,669,19,1.810524737,155,5,48,27,20,12,26,0,2263,0,0,,,,,,,,,,433,3,4231.0,loss
+3775582,Brighton & Hove Albion WFC,366,7,0.75429217,148,12,64,36,14,9,25,0,1342,0,2,,,,,,,,,,4231,1,4231.0,loss
+3775582,Everton LFC,465,18,1.3849709577,142,11,59,31,10,7,29,0,1631,0,0,,,,,,,,,,4231,0,,loss
+3775583,Arsenal WFC,409,3,0.145555682,163,14,57,32,17,11,21,0,1589,0,3,,,,,,,,,,433,1,433.0,loss
+3775583,Manchester City WFC,572,17,1.1414491346,148,12,60,29,26,9,12,0,2016,0,0,,,,,,,,,,433,1,433.0,loss
+3775584,Arsenal WFC,677,30,4.297379128,100,6,67,23,16,6,2,0,2235,0,0,,,,,,,,,,433,1,433.0,loss
+3775584,Birmingham City WFC,265,4,0.123861262,130,13,46,34,6,13,31,0,1116,0,1,,,,,,,,,,451,2,451.0,loss
+3775585,Brighton & Hove Albion WFC,479,16,1.6893014493,136,11,75,54,13,13,52,0,1808,0,2,,,,,,,,,,4231,1,4231.0,loss
+3775585,Bristol City WFC,260,9,0.8698701560000001,172,23,58,34,18,21,46,0,1131,0,1,,,,,,,,,,4231,0,,loss
+3775586,Arsenal WFC,713,13,2.571051212,137,7,52,20,21,2,10,0,2297,0,1,,,,,,,,,,433,1,433.0,loss
+3775586,Tottenham Hotspur Women,313,9,1.650048394,241,17,60,29,16,9,11,0,1304,0,3,,,,,,,,,,4231,1,4231.0,loss
+3775587,Everton LFC,608,9,0.355755255,150,11,69,35,26,18,18,0,2082,0,2,,,,,,,,,,433,1,433.0,loss
+3775587,Manchester United,421,9,1.5937146580000001,221,3,64,48,16,21,32,0,1662,0,0,,,,,,,,,,4231,2,4231.0,loss
+3775588,Brighton & Hove Albion WFC,391,12,1.7207559255,183,12,70,48,18,21,21,0,1554,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775588,Tottenham Hotspur Women,415,17,3.3690080898,147,11,77,30,23,12,25,0,1509,0,2,,,,,,,,,,433,1,433.0,loss
+3775589,Arsenal WFC,478,12,2.293537316,85,8,67,31,27,15,26,0,1702,0,2,,,,,,,,,,3421,1,433.0,loss
+3775589,Reading WFC,350,5,0.688897027,181,13,55,40,13,31,27,0,1381,0,1,,,,,,,,,,442,2,442.0,loss
+3775590,Birmingham City WFC,260,7,1.997861647,122,13,46,37,11,8,38,0,1039,0,4,,,,,,,,,,451,2,451.0,loss
+3775590,Everton LFC,609,13,0.989859761,113,12,58,22,13,7,31,0,2063,0,1,,,,,,,,,,433,1,433.0,loss
+3775591,Chelsea FCW,543,15,2.0890843675,139,9,62,41,13,19,44,0,1979,0,0,,,,,,,,,,442,0,,loss
+3775591,West Ham United LFC,358,7,0.591015619,164,8,58,46,19,9,49,0,1338,0,0,,,,,,,,,,3421,0,,loss
+3775592,Reading WFC,447,11,1.169752521,174,13,73,64,20,11,20,0,1700,0,1,,,,,,,,,,41212,0,,loss
+3775592,Tottenham Hotspur Women,404,9,1.188718419,185,11,73,45,24,11,21,0,1495,0,1,,,,,,,,,,4231,0,,loss
+3775593,Chelsea FCW,605,16,2.330755275,177,10,49,29,8,24,13,0,2018,0,0,,,,,,,,,,4231,1,4231.0,loss
+3775593,Reading WFC,418,7,0.5643405635000001,146,4,43,23,14,18,30,0,1494,0,0,,,,,,,,,,451,1,451.0,loss
+3775594,Birmingham City WFC,245,1,0.03748088,202,10,47,28,6,11,24,0,1029,0,2,,,,,,,,,,451,1,451.0,loss
+3775594,Manchester United,652,23,3.20264501,61,9,70,17,7,7,44,0,2170,0,3,,,,,,,,,,4231,0,,loss
+3775595,Brighton & Hove Albion WFC,492,14,0.873370073,168,10,77,25,22,13,32,0,1869,1,1,,,,,,,,,,4231,3,4231.0,loss
+3775595,Bristol City WFC,361,12,1.865401729,176,10,80,40,25,22,24,0,1470,0,0,,,,,,,,,,4141,0,,loss
+3775596,Bristol City WFC,299,7,0.351780608,207,8,72,41,17,9,34,0,1322,0,0,,,,,,,,,,4141,1,4141.0,loss
+3775596,Manchester City WFC,625,23,3.69132891,163,14,77,29,32,17,18,0,2234,0,1,,,,,,,,,,433,0,,loss
+3775597,Arsenal WFC,348,9,0.57111918,154,14,62,36,28,14,31,0,1379,1,3,,,,,,,,,,433,0,,loss
+3775597,Manchester United,544,12,1.214253685,226,13,65,41,29,17,35,0,2039,0,0,,,,,,,,,,4231,0,,loss
+3775598,Reading WFC,491,12,1.089500023,152,12,59,42,12,14,19,0,1761,0,1,,,,,,,,,,352,1,352.0,loss
+3775598,Tottenham Hotspur Women,329,11,1.544946658,159,11,67,32,20,16,49,0,1358,0,0,,,,,,,,,,4231,0,,loss
+3775599,Aston Villa,284,2,0.1099724317,167,14,54,42,17,38,81,0,1198,0,4,,,,,,,,,,352,1,352.0,loss
+3775599,West Ham United LFC,421,7,0.628997095,149,12,59,48,12,17,35,0,1454,0,2,,,,,,,,,,343,1,343.0,loss
+3775600,Arsenal WFC,526,6,0.677266779,143,8,61,31,16,13,26,0,1875,0,0,,,,,,,,,,433,0,,loss
+3775600,Manchester City WFC,463,13,2.210578082,208,10,53,25,22,28,13,0,1689,0,1,,,,,,,,,,433,0,,loss
+3775601,Bristol City WFC,296,10,0.8270283676,158,10,55,53,11,21,28,0,1226,0,2,,,,,,,,,,4231,1,4231.0,loss
+3775601,Manchester United,426,17,1.285705238,187,11,74,36,26,26,37,0,1685,0,1,,,,,,,,,,433,1,433.0,loss
+3775602,Reading WFC,442,10,1.0840650235,137,9,82,24,18,6,23,0,1569,0,1,,,,,,,,,,433,0,,loss
+3775602,West Ham United LFC,433,11,1.7958199910000001,167,19,80,43,17,3,31,0,1604,0,0,,,,,,,,,,433,3,433.0,loss
+3775603,Brighton & Hove Albion WFC,416,11,1.368911029,127,15,51,40,19,18,26,0,1518,0,2,,,,,,,,,,4231,0,,loss
+3775603,West Ham United LFC,476,7,0.7906332739999999,200,14,68,41,21,16,34,0,1812,0,2,,,,,,,,,,343,2,352.0,loss
+3775604,Manchester City WFC,646,15,2.901417517,259,10,58,39,30,24,24,0,2425,0,0,,,,,,,,,,433,1,433.0,loss
+3775604,Tottenham Hotspur Women,423,3,0.168896698,257,9,42,37,33,20,13,0,1693,0,0,,,,,,,,,,433,1,433.0,loss
+3775605,Chelsea FCW,742,22,2.58507644,85,8,38,20,17,11,11,0,2345,0,0,,,,,,,,,,4231,0,,loss
+3775605,Tottenham Hotspur Women,366,8,0.42880680299999996,88,8,51,24,13,13,23,0,1288,0,0,,,,,,,,,,4231,1,4141.0,loss
+3775606,Chelsea FCW,515,17,2.822025119,138,8,69,27,17,15,26,0,1852,0,0,,,,,,,,,,4231,0,,loss
+3775606,Reading WFC,438,6,0.1087011844,157,9,65,36,11,12,31,0,1606,0,2,,,,,,,,,,442,1,442.0,loss
+3775607,Bristol City WFC,294,11,0.999011073,214,17,60,39,20,25,26,0,1311,0,1,,,,,,,,,,451,1,442.0,loss
+3775607,Reading WFC,488,19,2.066280288,168,14,72,36,21,13,34,0,1819,1,1,,,,,,,,,,442,0,,loss
+3775608,Tottenham Hotspur Women,469,6,0.818028767,106,8,68,37,15,8,67,0,1702,0,1,,,,,,,,,,4231,0,,loss
+3775608,West Ham United LFC,465,14,0.944758925,225,9,78,50,18,7,30,0,1798,0,2,,,,,,,,,,3412,1,3412.0,loss
+3775609,Arsenal WFC,660,15,2.391074492,107,7,76,24,23,12,28,0,2263,0,1,,,,,,,,,,4411,2,4411.0,loss
+3775609,West Ham United LFC,313,7,0.414609262,241,12,56,25,7,23,26,0,1318,0,0,,,,,,,,,,343,0,,loss
+3775610,Bristol City WFC,293,9,0.8680671573000001,115,8,42,32,7,14,28,0,1083,0,1,,,,,,,,,,4141,1,4141.0,loss
+3775610,Manchester United,682,30,3.0289725475,80,9,65,25,20,6,15,0,2205,0,1,,,,,,,,,,433,1,433.0,loss
+3775611,Chelsea FCW,448,18,3.100614768,193,13,68,51,11,4,10,0,1612,0,2,,,,,,,,,,433,0,,loss
+3775611,Manchester City WFC,557,9,1.285363087,153,13,76,29,20,2,39,0,1933,0,2,,,,,,,,,,433,1,433.0,loss
+3775612,Birmingham City WFC,288,9,0.725689742,219,9,56,44,14,19,23,0,1262,0,1,,,,,,,,,,4141,0,,loss
+3775612,Reading WFC,672,17,1.071954984,132,8,53,20,23,10,26,0,2254,0,2,,,,,,,,,,451,1,451.0,loss
+3775613,Arsenal WFC,686,23,1.653439783,95,5,43,14,17,15,6,0,2271,0,1,,,,,,,,,,433,0,,loss
+3775613,Tottenham Hotspur Women,392,10,0.8704992296,178,9,34,21,8,11,21,0,1450,0,1,,,,,,,,,,442,1,442.0,loss
+3775614,Bristol City WFC,306,3,0.164920019,91,1,56,33,18,17,42,0,1212,0,0,,,,,,,,,,4141,0,,loss
+3775614,Chelsea FCW,707,25,3.783944642,96,8,73,28,15,16,29,0,2279,0,0,,,,,,,,,,41212,0,,loss
+3775615,Aston Villa,433,9,0.360905284,176,11,65,37,22,21,17,0,1693,0,1,,,,,,,,,,4231,0,,loss
+3775615,Tottenham Hotspur Women,521,9,1.59124037,145,10,71,32,29,12,14,0,1889,0,2,,,,,,,,,,4231,0,,loss
+3775616,Bristol City WFC,337,8,0.5876111103,155,8,50,41,15,16,23,0,1332,0,1,,,,,,,,,,343,1,442.0,loss
+3775616,West Ham United LFC,537,17,1.731676854,117,11,60,24,25,9,14,0,1832,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775617,Brighton & Hove Albion WFC,303,9,1.2978825537,258,5,48,44,7,19,56,0,1240,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775617,Manchester United,542,17,1.525593373,161,11,69,29,16,14,26,0,1868,0,1,,,,,,,,,,4231,0,,loss
+3775618,Birmingham City WFC,328,4,0.305471523,221,14,67,53,15,2,36,0,1407,0,2,,,,,,,,,,4141,2,41212.0,loss
+3775618,Reading WFC,514,21,1.183333674,202,14,64,36,20,5,18,0,1949,0,0,,,,,,,,,,433,1,41212.0,loss
+3775619,Brighton & Hove Albion WFC,449,17,2.210531518,155,11,60,28,19,10,22,0,1583,0,1,,,,,,,,,,4231,0,,loss
+3775619,Reading WFC,433,10,0.96627641,122,11,56,37,14,20,15,0,1546,0,3,,,,,,,,,,442,1,442.0,loss
+3775620,Everton LFC,446,16,2.191244031,188,10,62,38,9,7,21,0,1622,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775620,West Ham United LFC,487,9,0.9782129,158,11,60,24,17,7,14,0,1722,0,1,,,,,,,,,,433,0,,loss
+3775621,Bristol City WFC,250,10,1.085466554,208,5,60,39,15,15,31,0,1163,0,0,,,,,,,,,,442,1,343.0,loss
+3775621,Reading WFC,606,33,3.4064515305,126,8,67,31,26,15,13,0,2097,0,1,,,,,,,,,,41212,1,41212.0,loss
+3775622,Manchester United,432,18,2.620651556,227,10,57,42,24,9,24,0,1631,0,2,,,,,,,,,,4231,2,433.0,loss
+3775622,Tottenham Hotspur Women,415,3,0.13912280999999999,289,13,50,25,18,18,29,0,1606,0,2,,,,,,,,,,433,1,433.0,loss
+3775623,Brighton & Hove Albion WFC,330,7,0.922332062,170,8,60,33,10,8,25,0,1225,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775623,West Ham United LFC,488,17,1.531456723,123,9,57,24,26,7,26,0,1688,0,1,,,,,,,,,,433,2,433.0,loss
+3775624,Manchester City WFC,461,20,2.246578489,153,14,52,25,16,6,20,0,1653,0,1,,,,,,,,,,433,0,,loss
+3775624,Manchester United,394,14,1.6451984414,177,14,50,25,11,5,27,0,1462,0,1,,,,,,,,,,4231,0,,loss
+3775625,Bristol City WFC,165,2,0.914082746,174,5,36,35,7,3,40,0,807,0,0,,,,,,,,,,3421,0,,loss
+3775625,Manchester City WFC,841,24,3.749365486,92,3,44,23,10,1,6,0,2640,0,0,,,,,,,,,,433,0,,loss
+3775626,Aston Villa,394,4,0.26927889400000005,172,9,67,31,18,18,9,0,1511,0,0,,,,,,,,,,4231,1,451.0,loss
+3775626,Manchester City WFC,691,23,3.196621951,227,7,61,26,21,7,6,0,2445,0,0,,,,,,,,,,433,1,433.0,loss
+3775627,Arsenal WFC,510,12,1.8563929030000001,123,2,63,36,17,18,10,0,1686,0,1,,,,,,,,,,433,0,,loss
+3775627,Chelsea FCW,416,10,1.381833208,151,12,42,32,13,15,19,0,1446,0,1,,,,,,,,,,433,0,,loss
+3775628,Manchester United,624,18,2.612245938,119,10,56,23,22,18,38,0,2108,0,4,,,,,,,,,,4231,2,4231.0,loss
+3775628,West Ham United LFC,222,9,0.5986920410000001,173,10,44,34,4,19,34,0,995,1,1,,,,,,,,,,3421,1,3421.0,loss
+3775629,Brighton & Hove Albion WFC,263,4,0.234217866,200,13,48,22,12,25,25,0,1177,0,0,,,,,,,,,,442,2,4411.0,loss
+3775629,Manchester City WFC,928,19,3.418926638,120,5,41,24,25,13,7,0,2975,0,0,,,,,,,,,,433,1,433.0,loss
+3775630,Arsenal WFC,725,29,5.163407901,84,4,61,16,17,12,18,0,2434,0,1,,,,,,,,,,4231,2,4231.0,loss
+3775630,Birmingham City WFC,272,1,0.25752044,150,5,32,37,6,21,31,0,1121,0,0,,,,,,,,,,451,0,,loss
+3775631,Bristol City WFC,239,11,1.807366854,162,17,57,36,9,4,29,0,1039,0,0,,,,,,,,,,451,1,4231.0,loss
+3775631,Tottenham Hotspur Women,490,15,1.1035478696,104,13,62,32,28,2,20,0,1684,1,1,,,,,,,,,,433,0,,loss
+3775632,Everton LFC,430,7,0.42113494,153,18,45,29,18,6,24,0,1540,0,3,,,,,,,,,,41212,0,,loss
+3775632,Manchester City WFC,582,21,1.904112647,142,8,66,32,32,10,15,0,2042,0,0,,,,,,,,,,433,1,4231.0,loss
+3775633,Aston Villa,259,8,0.216967472,160,15,81,45,11,31,38,0,1222,0,1,,,,,,,,,,352,0,,loss
+3775633,Tottenham Hotspur Women,601,12,0.448527685,153,6,76,39,24,10,18,0,2128,0,2,,,,,,,,,,4231,1,4231.0,loss
+3775634,Aston Villa,275,6,0.772962383,198,12,59,44,19,27,44,0,1254,0,4,,,,,,,,,,343,1,343.0,loss
+3775634,Everton LFC,612,11,2.844437817,140,7,73,44,24,7,32,0,2098,0,0,,,,,,,,,,4231,1,4231.0,loss
+3775635,Everton LFC,519,11,0.895897484,146,7,72,45,10,8,66,0,1774,0,1,,,,,,,,,,433,1,433.0,loss
+3775635,West Ham United LFC,325,13,2.006615321,253,6,65,46,13,30,49,0,1377,0,0,,,,,,,,,,3511,1,3511.0,loss
+3775636,Birmingham City WFC,492,12,1.9386177409999998,213,12,52,27,20,9,14,0,1823,1,3,,,,,,,,,,4141,0,,loss
+3775636,Bristol City WFC,414,8,0.28706146849999997,133,14,51,29,24,18,24,0,1523,0,1,,,,,,,,,,4231,2,4231.0,loss
+3775637,Aston Villa,509,12,2.116871271,143,9,63,38,22,12,15,0,1836,0,1,,,,,,,,,,433,1,433.0,loss
+3775637,Bristol City WFC,409,13,1.05008577,190,9,65,34,25,16,17,0,1612,0,1,,,,,,,,,,3421,1,3421.0,loss
+3775638,Brighton & Hove Albion WFC,377,7,0.727058695,198,10,59,36,18,19,49,0,1521,0,3,,,,,,,,,,352,2,352.0,loss
+3775638,Tottenham Hotspur Women,532,13,1.464293755,147,9,65,41,19,16,25,0,1874,0,1,,,,,,,,,,4231,1,433.0,loss
+3775639,Everton LFC,411,2,0.067807403,136,11,42,36,17,14,32,0,1467,0,2,,,,,,,,,,4141,2,343.0,loss
+3775639,Manchester City WFC,681,13,1.165712353,140,8,54,28,20,11,21,0,2284,0,0,,,,,,,,,,433,0,,loss
+3775640,Manchester United,421,19,1.635994919,102,11,66,34,19,18,25,0,1526,0,1,,,,,,,,,,4231,0,,loss
+3775640,Reading WFC,406,10,1.348444408,124,8,62,37,19,18,37,0,1534,0,1,,,,,,,,,,442,2,4411.0,loss
+3775641,Aston Villa,504,14,0.871555094,140,11,51,36,21,8,12,0,1740,0,1,,,,,,,,,,433,1,4141.0,loss
+3775641,Birmingham City WFC,364,8,0.3609911853,200,15,45,37,14,9,17,0,1433,0,1,,,,,,,,,,4141,0,,loss
+3775642,Aston Villa,367,15,0.8252718257,192,12,71,53,17,26,53,0,1486,0,3,,,,,,,,,,352,0,,loss
+3775642,Brighton & Hove Albion WFC,432,12,1.931656445,178,6,70,43,9,17,30,0,1637,0,0,,,,,,,,,,4231,1,4231.0,loss
+3775643,Birmingham City WFC,393,8,0.719243401,157,9,77,52,17,8,35,0,1487,0,1,,,,,,,,,,4231,2,352.0,loss
+3775643,West Ham United LFC,421,15,1.300922275,204,12,75,39,20,24,57,0,1665,0,1,,,,,,,,,,343,0,,loss
+3775644,Manchester United,395,16,1.674145984,141,14,49,29,13,1,14,0,1378,0,4,,,,,,,,,,4231,3,4231.0,loss
+3775644,Tottenham Hotspur Women,345,4,0.494652207,136,14,54,31,19,2,14,0,1254,0,2,,,,,,,,,,4231,0,,loss
+3775645,Chelsea FCW,602,21,2.679821778,152,12,64,25,15,8,16,0,2025,0,1,,,,,,,,,,433,1,433.0,loss
+3775645,Everton LFC,395,12,0.933902797,143,8,57,27,11,6,23,0,1404,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775646,Aston Villa,318,3,0.347815372,139,7,42,39,14,30,26,0,1245,0,1,,,,,,,,,,433,0,,loss
+3775646,Chelsea FCW,747,16,1.324919,148,8,45,37,18,19,21,0,2468,0,1,,,,,,,,,,4231,0,,loss
+3775647,Birmingham City WFC,405,5,0.221596328,150,15,68,34,16,28,19,0,1572,0,0,,,,,,,,,,451,0,,loss
+3775647,Brighton & Hove Albion WFC,459,20,1.8552457455,126,6,56,20,25,14,16,0,1657,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775648,Arsenal WFC,809,27,3.3292469142,91,3,63,31,29,9,11,0,2679,0,0,,,,,,,,,,433,0,,loss
+3775648,Aston Villa,221,5,0.284652541,195,12,43,38,20,39,26,0,1132,0,1,,,,,,,,,,352,0,,loss
+3775649,Reading WFC,446,12,0.378024753,97,9,67,42,12,13,35,0,1632,0,1,,,,,,,,,,442,0,,loss
+3775649,West Ham United LFC,315,14,2.1943350404,159,20,42,32,16,23,24,0,1259,0,2,,,,,,,,,,343,0,,loss
+3775650,Chelsea FCW,596,25,3.5262796336,111,8,50,33,20,12,21,0,2014,0,0,,,,,,,,,,4231,1,4231.0,loss
+3775650,West Ham United LFC,365,11,1.458506306,171,10,44,33,17,12,27,0,1395,0,1,,,,,,,,,,433,0,,loss
+3775651,Manchester City WFC,822,24,2.864882707,107,7,57,17,27,12,14,0,2647,0,0,,,,,,,,,,433,3,433.0,loss
+3775651,West Ham United LFC,275,1,0.039904,171,5,43,32,11,19,27,0,1159,0,0,,,,,,,,,,3412,0,,loss
+3775652,Brighton & Hove Albion WFC,245,4,0.315351515,157,4,27,33,10,15,60,0,1094,0,1,,,,,,,,,,4231,0,,loss
+3775652,Chelsea FCW,778,31,2.697117304,96,6,67,27,19,8,30,0,2595,0,0,,,,,,,,,,41212,0,,loss
+3775653,Birmingham City WFC,297,6,0.462358038,134,8,63,37,13,16,23,0,1199,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775653,Everton LFC,728,8,0.7526448792999999,156,9,69,20,28,20,30,0,2460,0,1,,,,,,,,,,4231,1,4231.0,loss
+3775654,Birmingham City WFC,408,15,0.660332956,165,8,75,42,17,8,38,0,1548,0,2,,,,,,,,,,4231,2,4231.0,loss
+3775654,Bristol City WFC,389,12,1.1234619764,229,13,50,43,22,26,29,0,1540,0,3,,,,,,,,,,4141,3,4141.0,loss
+3775655,Bristol City WFC,375,14,1.1618913845,164,11,82,34,34,18,37,0,1519,0,2,,,,,,,,,,4141,0,,loss
+3775655,West Ham United LFC,397,8,0.645792079,195,14,78,50,21,21,27,0,1600,0,2,,,,,,,,,,3421,0,,loss
+3775657,Arsenal WFC,930,21,1.7940624059999999,106,4,74,24,30,5,7,0,2940,0,0,,,,,,,,,,433,2,433.0,loss
+3775657,Bristol City WFC,237,3,0.19094266000000001,239,7,53,32,12,13,32,0,1094,0,0,,,,,,,,,,442,1,343.0,loss
+3775658,Manchester City WFC,557,17,1.4848741815,237,5,62,38,21,20,27,0,2059,0,1,,,,,,,,,,433,0,,loss
+3775658,Manchester United,415,9,0.52004113,185,12,51,27,22,17,19,0,1590,0,2,,,,,,,,,,4231,1,442.0,loss
+3775659,Manchester City WFC,575,26,2.544621324,111,10,67,32,31,2,17,0,1977,0,0,,,,,,,,,,433,1,433.0,loss
+3775659,Reading WFC,323,3,0.226317153,247,12,60,48,8,6,37,0,1379,0,1,,,,,,,,,,433,3,433.0,loss
