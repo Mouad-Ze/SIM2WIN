@@ -5,6 +5,13 @@ Raw Data/
 *.tsv
 
 # ========================================
+# DOCUMENTATION FILES
+# ========================================
+*.docx
+*.pdf
+Documentation/
+
+# ========================================
 # TRAINING ARTIFACTS & TEMPORARY DATA
 # ========================================
 **/catboost_info/
