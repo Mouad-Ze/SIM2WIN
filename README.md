@@ -447,36 +447,6 @@ class Sim2WinEngine:
 - **Jupyter Notebooks**: Development & experimentation
 - **Python 3.8+**: Primary language
 
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these guidelines:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/your-feature`)
-3. **Commit** changes (`git commit -am 'Add your feature'`)
-4. **Push** to branch (`git push origin feature/your-feature`)
-5. **Submit** a Pull Request with detailed description
-
-### Areas for Contribution
-
-- [ ] Add more leagues from StatsBomb
-- [ ] Improve model performance with new features
-- [ ] Integrate additional AI providers (Claude, GPT)
-- [ ] Optimize inference speed
-- [ ] Add player-level predictions
-- [ ] Create REST API wrapper
-- [ ] Docker containerization
-- [ ] Additional visualizations
-
----
-
-## 📝 License
-
-This project is part of a university capstone project. Check `Documentation/` for licensing details or contact the author for permissions.
-
----
 
 ## 👤 Author
 
@@ -486,27 +456,6 @@ This project is part of a university capstone project. Check `Documentation/` fo
 **GitHub**: [@Mouad-Ze](https://github.com/Mouad-Ze)  
 **Repository**: [SIM2WIN](https://github.com/Mouad-Ze/SIM2WIN)
 
-### Project Timeline
-
-- **Proposal**: Submitted & accepted
-- **Data Collection & Extraction**: Completed (3.8 GB StatsBomb data)
-- **Feature Engineering & EDA**: Completed
-- **Model Development & Validation**: Completed
-- **Deployment (Streamlit App)**: Completed
-- **AI Integration (Gemini)**: Completed
-- **Documentation & Honors College**: In progress
-
----
-
-## 📬 Support
-
-- 📖 Check the `Documentation/` folder for detailed reports
-- 🐛 Open an issue for bugs or feature requests
-- 💬 Contact the author via GitHub for questions
-
----
-
-<div align="center">
 
 ### Made with ⚽ & 🤖 for Football Analytics
 
