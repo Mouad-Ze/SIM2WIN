@@ -14,7 +14,6 @@ A sophisticated machine learning system that predicts football match outcomes an
 - [Results & Performance](#results--performance)
 - [Deployment](#deployment)
 - [Technical Stack](#technical-stack)
-- [Contributing](#contributing)
 - [Author](#author)
 
 ---
@@ -125,26 +124,8 @@ Sim2Win/
 │   ├── venv.txt                         # Virtual environment dependencies
 │   └── .streamlit/secrets.toml          # Gemini API configuration
 │
-├── 📖 Documentation/                    # Project documentation
-│   ├── Capstone_Interimreport_Sim2Win.docx
-│   ├── Sim2Win Project Proposal.pdf
-│   ├── Technical process.docx
-│   ├── Papers Capstone.docx
-│   └── HC/                              # Honors College materials
-│       ├── CapHC_Proposal_Sim2Win.docx
-│       └── Sim2Win CapHC Poster.pdf
-│
-├── 📑 Root Files
-│   ├── Codm.csv                         # Team code mapping
-│   ├── Mas.csv                          # Master data reference
-│   ├── README.md                        # This file
-│   └── .gitignore                       # Git exclusions
-│
 └── .git/                                # Version control history
 
-```
-
----
 
 ## 🛠️ Installation
 
