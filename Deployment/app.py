@@ -188,7 +188,12 @@ def main() -> None:
             
             st.success("Simulation Complete!")
             
+            # Display coaching report
+            st.header("Tactical Recommendation")
+            st.info(coach_report)
+            
             # Display results table
+            st.divider()
             display_cols = ['Tactic Name', 'Win Prob', 'Draw Prob', 'Loss Prob']
             st.dataframe(
                 results_df[display_cols],
