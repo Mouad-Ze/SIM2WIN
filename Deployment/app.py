@@ -196,7 +196,7 @@ def main() -> None:
             st.divider()
             display_cols = ['Tactic Name', 'Win Prob', 'Draw Prob', 'Loss Prob']
             st.dataframe(
-                results_df[display_cols],
+                results_df[display_cols].head(8),
                 use_container_width=True,
                 height=400
             )
