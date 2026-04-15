@@ -198,7 +198,7 @@ def main() -> None:
             st.dataframe(
                 results_df[display_cols].head(8),
                 use_container_width=True,
-                height=400
+                height=300
             )
             
             logger.info("Simulation completed and displayed successfully")
