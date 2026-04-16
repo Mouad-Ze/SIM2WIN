@@ -1,4 +1,4 @@
-# 🎯 SIM2WIN - Tactical Football Match Prediction System
+# ⚽ SIM2WIN - Tactical Football Match Prediction System
 
 A sophisticated machine learning system that predicts football match outcomes and recommends optimal tactical formations using StatsBomb event data from 12+ professional leagues.
 
