@@ -143,7 +143,7 @@ def main() -> None:
             st.error(f"Opponent CSV Error: {error_msg}")
             return
         
-        logger.info("✓ Both CSV files validated successfully")
+        logger.info(" Both CSV files validated successfully")
         
     except Exception as e:
         logger.error(f"CSV loading error: {e}")
@@ -198,7 +198,7 @@ def main() -> None:
             st.dataframe(
                 results_df[display_cols].head(8),
                 use_container_width=True,
-                height=360
+                height=315
             )
             
             logger.info("Simulation completed and displayed successfully")

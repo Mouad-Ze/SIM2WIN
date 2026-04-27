@@ -72,6 +72,8 @@ Thumbs.db
 .env.local
 .env.*.local
 secrets.toml
+.streamlit/secrets.toml
+Deployment/.streamlit/secrets.toml
 
 # ========================================
 # OS-SPECIFIC FILES

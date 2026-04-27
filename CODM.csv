@@ -1,0 +1,6 @@
+starting_formation,last_formation,days_rest,xg_momentum,passes,shots,xG,pressures,ball_recoveries,interceptions,possession_events,directness_index,chaos_index,xg_volatility,pressures_volatility
+4-2-3-1,4/4/2002,5,0.12,340,8,0.85,152,48,46,610,0.82,0.61,0.21,14.5
+4-2-3-1,4-2-3-1,7,0.05,360,7,0.7,145,51,44,630,0.78,0.55,0.18,15.2
+5/3/2002,5/4/2001,4,-0.1,290,5,0.45,160,55,52,520,0.88,0.7,0.25,18
+4-2-3-1,4-2-3-1,7,0.15,380,10,1.1,140,45,41,650,0.75,0.5,0.15,12.5
+4/4/2002,4/4/2002,6,-0.05,350,8,0.8,150,49,45,615,0.8,0.6,0.2,16

@@ -1,0 +1,162 @@
+Loading ML models...
+Unexpected error loading CSV: No columns to parse from file
+Unexpected error loading CSV: No columns to parse from file
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Loading ML models...
+Engine loaded successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Simulation completed and displayed successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Simulation completed and displayed successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Simulation completed and displayed successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Simulation completed and displayed successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Simulation completed and displayed successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Simulation completed and displayed successfully
+Loading ML models...
+Engine loaded successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Simulation completed and displayed successfully
+Loading ML models...
+Engine loaded successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Report generation failed: 403 Your API key was reported as leaked. Please use another API key.
+Simulation completed and displayed successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Report generation failed: 403 Your API key was reported as leaked. Please use another API key.
+Simulation completed and displayed successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Report generation failed: 403 Your API key was reported as leaked. Please use another API key.
+Simulation completed and displayed successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Report generation failed: 403 Your API key was reported as leaked. Please use another API key.
+Simulation completed and displayed successfully
+ Both CSV files validated successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+ Both CSV files validated successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Report generation failed: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+Simulation completed and displayed successfully
+ Both CSV files validated successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Report generation failed: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+Simulation completed and displayed successfully
+ Both CSV files validated successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+ Both CSV files validated successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Report generation failed: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+Simulation completed and displayed successfully
