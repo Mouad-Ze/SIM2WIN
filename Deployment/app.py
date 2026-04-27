@@ -181,7 +181,7 @@ def main() -> None:
     
     if st.button("Run Simulation Engine", type="primary", use_container_width=True):
         try:
-            with st.spinner("Simulating all 64 tactical combinations..."):
+            with st.spinner("Simulating all tactical combinations..."):
                 results_df, coach_report = engine.simulate_matchup(
                     df_user, df_opp, user_cluster
                 )
