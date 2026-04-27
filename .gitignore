@@ -43,6 +43,7 @@ __pycache__/
 .pytest_cache/
 .coverage
 *.pyc
+*.log
 
 # ========================================
 # IDE & EDITOR
