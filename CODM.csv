@@ -1,6 +1,6 @@
-starting_formation,last_formation,days_rest,xg_momentum,passes,shots,xG,pressures,ball_recoveries,interceptions,possession_events,directness_index,chaos_index,xg_volatility,pressures_volatility
-4-2-3-1,4/4/2002,5,0.12,340,8,0.85,152,48,46,610,0.82,0.61,0.21,14.5
-4-2-3-1,4-2-3-1,7,0.05,360,7,0.7,145,51,44,630,0.78,0.55,0.18,15.2
-5/3/2002,5/4/2001,4,-0.1,290,5,0.45,160,55,52,520,0.88,0.7,0.25,18
-4-2-3-1,4-2-3-1,7,0.15,380,10,1.1,140,45,41,650,0.75,0.5,0.15,12.5
-4/4/2002,4/4/2002,6,-0.05,350,8,0.8,150,49,45,615,0.8,0.6,0.2,16
+match_date,passes,shots,xg,pressures,ball_recoveries,interceptions,possession_events,fouls_committed,yellow_cards,red_cards
+2026-03-06,410,9,0.9,95,48,12,155,11,2,0
+2026-02-27,380,7,0.6,88,40,10,140,13,3,0
+2026-02-20,420,10,1.0,92,50,11,160,9,1,0
+2026-02-15,395,6,0.5,85,42,9,145,12,2,0
+2026-02-08,405,8,0.8,90,47,10,150,10,2,0

@@ -57,17 +57,17 @@ class Sim2WinEngine:
         
         try:
             self.explainer = shap.TreeExplainer(self.cat_model)
-            logger.info("✓ SHAP TreeExplainer initialized")
+            logger.info("SHAP TreeExplainer initialized")
         except Exception as e:
-            logger.warning(f"⚠ SHAP initialization warning: {e}")
+            logger.warning(f"SHAP initialization warning: {e}")
             self.explainer = None
         
         try:
             genai.configure(api_key=api_key)
             self.llm = genai.GenerativeModel(GEMINI_CONFIG['model_name'])
-            logger.info("✓ Gemini API configured")
+            logger.info("Gemini API configured")
         except Exception as e:
-            logger.error(f"✗ Gemini API initialization failed: {e}")
+            logger.error(f"Gemini API initialization failed: {e}")
             self.llm = None
         
         self.tactic_names = TACTICAL_ARCHETYPES
@@ -224,7 +224,7 @@ class Sim2WinEngine:
             """
             
             response = self.llm.generate_content(prompt)
-            logger.info("✓ Tactical report generated via Gemini")
+            logger.info("Tactical report generated via Gemini")
             return response.text
             
         except Exception as e:
@@ -371,7 +371,7 @@ class Sim2WinEngine:
                 away_form=away_form
             )
             
-            logger.info("✓ Matchup simulation completed successfully")
+            logger.info("Matchup simulation completed successfully")
             return results_df, coach_report
             
         except Exception as e:

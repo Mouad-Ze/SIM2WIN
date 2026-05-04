@@ -160,3 +160,19 @@ metadata {
 message: "API key expired. Please renew the API key."
 ]
 Simulation completed and displayed successfully
+Loading ML models...
+Engine loaded successfully
+ Both CSV files validated successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+ Both CSV files validated successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+ Both CSV files validated successfully
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Tactical profiles: Low-Block Counter vs Low-Block Counter
+Tactical profile identified: Low-Block Counter (Cluster 1)
+Simulation completed and displayed successfully
